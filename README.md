@@ -34,4 +34,4 @@ We hebben een Wok to Walk-menu formulier aangepast naar een digitaal ontwerp voo
 We hebben tijdens schetsen cursus gehad over lijnen trekken en vierkanten maken zonder liniaal, na dit oefenen hebben we verschillen bekeken tussen hi-fi en low fi wireframes en die getekend van een app met microanimaties.
 Ik had apple music gekozen
 
-![mijn wireframes die ik heb gemaakt] (assets/wireframes.png)
+![mijn wireframes die ik heb gemaakt](assets/wireframes.png)
