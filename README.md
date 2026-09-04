@@ -37,6 +37,7 @@ We hebben tijdens schetsen cursus gehad over lijnen trekken en vierkanten maken 
 Ik had apple music gekozen
 
 ![lijnen die ik moest tekenen](assets/lijnenoefenen.JPG)
+
 ![oude schetsen een cijfer geven](schetsenraten.png)
 
 #### De wireframe die ik heb gemaakt
