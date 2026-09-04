@@ -31,7 +31,14 @@ We hebben een Wok to Walk-menu formulier aangepast naar een digitaal ontwerp voo
 
 ![Origineel Wok to Walk formulier](assets/origineelwoktowalk.png)
 
+#### schetsencursus
+
 We hebben tijdens schetsen cursus gehad over lijnen trekken en vierkanten maken zonder liniaal, na dit oefenen hebben we verschillen bekeken tussen hi-fi en low fi wireframes en die getekend van een app met microanimaties.
 Ik had apple music gekozen
+
+![lijnen die ik moest tekenen](assets/lijnenoefenen.JPG)
+![oude schetsen een cijfer geven](schetsenraten.png)
+
+#### De wireframe die ik heb gemaakt
 
 ![mijn wireframes die ik heb gemaakt](assets/wireframes.png)
