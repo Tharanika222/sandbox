@@ -38,7 +38,7 @@ Ik had apple music gekozen
 
 ![lijnen die ik moest tekenen](assets/lijnenoefenen.JPG)
 
-![oude schetsen een cijfer geven](schetsenraten.png)
+![oude schetsen een cijfer geven](assets/schetsenraten.png)
 
 #### De wireframe die ik heb gemaakt
 
