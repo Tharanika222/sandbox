@@ -43,3 +43,43 @@ Ik had apple music gekozen
 #### De wireframe die ik heb gemaakt
 
 ![mijn wireframes die ik heb gemaakt](assets/wireframes.png)
+
+### 3 september 2026
+
+voorbereiding voor de cursus HTML & CSS Basics (Justus) en Praktische CSS (Vasilis)
+
+Voor deze les heb ik de onderdelen Introduction, Basic Web Pages en Hello CSS van HTML & CSS is hard gelezen. Ook heb ik de CSS Diner gedaan om meer te oefenen met CSS-selectors. Dit vond ik eerlijk gezegd best lastig, maar ik kwam uiteindelijk tot level 15. Ik wil hier nog verder mee oefenen totdat ik de selectors beter begrijp.
+
+Daarnaast heb ik het artikel Structuring content with HTML op MDN doorgenomen. Tijdens het doorklikken viel mij op dat SEO niet alleen bij bijvoorbeeld YouTube een rol speelt, maar ook bij websites. Ik wist niet dat de structuur en betekenis van HTML hierbij kunnen meespelen.
+
+De vragen die ik voor de les had waren:
+
+- Wanneer gebruik je in CSS px en wanneer em?
+- Hoe bepaalt de cascade welke CSS-regel voorrang krijgt wanneer meerdere regels op hetzelfde HTML-element van toepassing zijn?
+
+#### deel van de aantekeningen die ik had gemaakt en CSS diner
+
+![aantekeningen die ik had gemaakt](assets/aantekeningen.png)
+![aantekeningen](assets/aantekeningencss.png)
+![aantekeningen](assets/aantekeningenhtml.png)
+
+### CSS diner game
+
+![css diner spel, tot level 15](assets/CSS%20diner%20game.png)
+
+#### lelijke website verbeteren
+
+![screenshots van mijn lelijke website](assets/lelijke%20website%201.0.png)
+![screenshots van mijn lelijke website](assets/lelijke%20website%202.0.png)
+![screenshots van mijn lelijke website](assets/lelijke%20website%203.0.png)
+![screenshots van mijn lelijke website](assets/lelijke%20website%204.0.png)
+
+#### 4 september 2026
+
+Vandaag hebben de in de cursus van Justus het gehad over de basis van HTML en CSS, aangezien de laatste keer dat we het hier over hadden al een jaar geleden was waar we weinig uitleg kregen.
+We hebben besproken waar HTML en CSS voor staan, wat de belangrijkste onderdelen zijn en waar je op moet letten wanneer je ermee werkt.
+Iets echt nieuws wat ik nog niet wist was dat je tegenwoordig Java niet perse meer nodig hebt om een website echt interactief te maken omdat je met CSS heel veel kan doen, dus ik ben benieuwd hoe mijn website er over een paar weken uit zal zien.
+
+Bij Vasilis hebben we mijn eerder gemaakte “lelijke” HTML-pagina gebruikt om opnieuw naar de basis van HTML en CSS te kijken. We hebben de code stap voor stap opgebouwd en steeds zelf overgetypt, zodat duidelijker werd wat ieder onderdeel doet.
+
+Ik vind HTML en vooral CSS nog steeds best ingewikkeld. Daarom wil ik de komende tijd blijven oefenen door de code zoveel mogelijk zelf uit te schrijven in plaats van alles te kopiëren en plakken. Op die manier wil ik niet alleen de code beter leren begrijpen, maar ook de volgorde, haakjes, aanhalingstekens en andere tekens steeds beter leren herkennen en onthouden.
