@@ -111,3 +111,7 @@ of het alle vakjes aanvinkt.
 - Op welke manier is de content te ervaren, denk verder dan alleen in tekst en beeld (beleeft, voelt, ziet, hoort enz.)
   Ik denk dat bij mijn onderwerp heb je veel dingen die je kan ervaren, bijvoorbeeld je gevoel van nostalgie of herkenning maar ook dingen voor het eerst zien wat je nog niet kende.
   Ik denk dat muziek kan ook goed een gevoel creëren wat bij dat beeld past.
+
+#### 8 september 2026
+
+Ik heb mijn huiswerk opdrachten gemaakt.
