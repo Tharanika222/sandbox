@@ -83,3 +83,30 @@ Iets echt nieuws wat ik nog niet wist was dat je tegenwoordig Java niet perse me
 Bij Vasilis hebben we mijn eerder gemaakte “lelijke” HTML-pagina gebruikt om opnieuw naar de basis van HTML en CSS te kijken. We hebben de code stap voor stap opgebouwd en steeds zelf overgetypt, zodat duidelijker werd wat ieder onderdeel doet.
 
 Ik vind HTML en vooral CSS nog steeds best ingewikkeld. Daarom wil ik de komende tijd blijven oefenen door de code zoveel mogelijk zelf uit te schrijven in plaats van alles te kopiëren en plakken. Op die manier wil ik niet alleen de code beter leren begrijpen, maar ook de volgorde, haakjes, aanhalingstekens en andere tekens steeds beter leren herkennen en onthouden.
+
+#### 7 september 2026
+
+##### Les van Maandag
+
+we hebben in de les artikels gelezen en geanalyseerd over wat een digital garden inhoudt, wat het betekent, maar ook wat jij zelf denkt dat erin hoort.
+
+We hebben ook websites vergeleken met elkaar, en gerangschikt hoe "webby" het is.
+of het alle vakjes aanvinkt.
+
+![screenshot van website analyse](assets)
+
+- Vanuit de inventarisatie: Wat zou je zelf willen maken? Heb je dingen gezien die je nog niet kan, maar wel interessant vindt in de websites die je bekeken hebt?
+  Ik wil eigenlijk een website die best wel diep in een bepaald onderwerp gaat, maar die ook naar meerdere kanten kijkt. Ik wil hem ook best prikkelend hebben, veel afbeeldingen, plaatjes maar ook micro animaties en ook dat hij interactief is.
+
+- Welke webby dingen heb je gezien die je ook wil gebruiken?
+  ik wil ook veel afbeeldingen hebben die animaties geven of dat als je er op drukt dat er een reactie komt, mooie kleurcombinaties maar vooral iets wat persoonlijk is en echt bij mij past.
+
+- Welke eigen content zou je over het onderwerp kunnen schrijven? Wat is de toon, ​de context, het doel, wat zijn onderwerpen, wat is ‘het’ wat jou raakt!​
+  Ik weet nog niet precies wat ik wil, maar ik wil een richting van kleding die uit culturen komt, en hoe dat mensen met elkaar verbind. Verdieping over hoe bijvoorbeeld bepaalde stijlen van over de hele wereld in een trend komen in bijvoorbeeld westerse landen, maar ook hoe je een bepaalde connectie kan voelen met jouw afkomst door de kleding die jij bij jou draagt.
+
+- Maak je gebruik van content van een ander? Hoe denk je dat te doen? En mag dat eigenlijk wel? Hoe kan je die content zo aanpassen dat het echt een eigen verhaal wordt? Dat het echt jouw content wordt, op jouw eigen garden?
+  Ik wil de content van anderen gebruiken om mijn eigen content te verbreden en te versterken, dus het wel mijn eigen te maken. Ik denk als ik bronvermeldingen gebruik en niet zeg dat het van mij is dan vind ik dat het wel zou kunnen maar wil veel zelf vinden en uitzoeken.
+
+- Op welke manier is de content te ervaren, denk verder dan alleen in tekst en beeld (beleeft, voelt, ziet, hoort enz.)
+  Ik denk dat bij mijn onderwerp heb je veel dingen die je kan ervaren, bijvoorbeeld je gevoel van nostalgie of herkenning maar ook dingen voor het eerst zien wat je nog niet kende.
+  Ik denk dat muziek kan ook goed een gevoel creëren wat bij dat beeld past.
