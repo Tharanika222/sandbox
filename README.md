@@ -93,7 +93,7 @@ we hebben in de les artikels gelezen en geanalyseerd over wat een digital garden
 We hebben ook websites vergeleken met elkaar, en gerangschikt hoe "webby" het is.
 of het alle vakjes aanvinkt.
 
-![screenshot van website analyse](assets/website/rangschikking.png)
+![screenshot van website analyse](assets/website%20rangschikking.png)
 ![screenshot van website analyse](assets/website-analyse.png)
 
 - Vanuit de inventarisatie: Wat zou je zelf willen maken? Heb je dingen gezien die je nog niet kan, maar wel interessant vindt in de websites die je bekeken hebt?
