@@ -119,6 +119,17 @@ Het koste best veel werk, en heb er ook heel lang over gedaan Terwijl het result
 
 ![presentatie die ik heb gemaakt](assets/presentatie.png)
 
+Ik heb daarna de deepdive gedaan van light&dark theme
+Ingewikkeld maar ik snap het wel, dus ik denk als ik het vaker doe dat het dan steeds logischer wordt.
+
+![screenshots van deepdive](assets/darkmode.png)
+![screenshots van deepdive](assets/darkmode%20kat.png)
+![screenshots van deepdive](assets/oefening%202%20kat.png)
+![screenshots van deepdive](assets/katwebsite.png)
+![screenshots van deepdive](assets/codevandeepdive.png)
+![screenshots van deepdive](assets/darkmodewebsite.png)
+![screenshots van deepdive](assets/darkmodewebsite1.png)
+
 #### 9 september 2026
 
 Visual Research & visuele identiteit
