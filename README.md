@@ -112,6 +112,14 @@ of het alle vakjes aanvinkt.
   Ik denk dat bij mijn onderwerp heb je veel dingen die je kan ervaren, bijvoorbeeld je gevoel van nostalgie of herkenning maar ook dingen voor het eerst zien wat je nog niet kende.
   Ik denk dat muziek kan ook goed een gevoel creëren wat bij dat beeld past.
 
+#### checkout
+
+Check-out
+
+Vandaag heb ik geleerd wat een Digital Garden is en hoe deze verschilt van een reguliere website. Een Digital Garden is persoonlijker en kan blijven groeien en veranderen, in plaats van dat alles meteen af en perfect hoeft te zijn.
+
+Ook heb ik gekeken naar wat een website webby maakt. Voor mij zijn duidelijke navigatie en buttons, passende typografie, een goed kleurthema en voldoende contrast belangrijk. Ik wil deze principes meenemen in mijn eigen Digital Garden en vooral veel aandacht besteden aan de visuele uitstraling en interactie.
+
 #### 8 september 2026
 
 Voor het huiswerk heb ik mijn presentatie gemaakt en voorbereid,
