@@ -114,4 +114,56 @@ of het alle vakjes aanvinkt.
 
 #### 8 september 2026
 
-Ik heb mijn huiswerk opdrachten gemaakt.
+Voor het huiswerk heb ik mijn presentatie gemaakt en voorbereid,
+Het koste best veel werk, en heb er ook heel lang over gedaan Terwijl het resultaat best simpel is, maar ik snap nu wel beter hoe afbeeldingen werken met positions and width left and right.
+
+![presentatie die ik heb gemaakt](assets/presentatie.png)
+
+#### 9 september 2026
+
+Visual Research & visuele identiteit
+
+Tijdens de online les van vandaag hebben we gekeken hoe je een visuele identiteit aan je Digital Garden kunt geven. Door onder andere kleur, typografie, logo, visuals en achtergrond krijgt je Garden een eigen karakter en uitstraling.
+
+Daarna zijn we gestart met Visual Research. Vanuit de zin “Ik voel mij verbonden” heb ik gezocht naar beelden die passen bij mijn onderwerp. Woorden als warm, trots, thuis, herkenning, eigen en divers passen hierbij. Ik heb gekeken naar verschillende culturen, mijn familie, kledingtrends, patronen en sieraden en hieruit visuele kenmerken gehaald zoals herhaling, overlapping en organische vormen.
+
+Met de Crazy 8 heb ik vervolgens verschillende ideeën geschetst. Ik wil vooral het idee van inzoomen op details verder onderzoeken, bijvoorbeeld om patronen en sieraden uit kleding uit te lichten. Ook het samenbrengen van verschillende beelden tot één geheel past goed bij het idee van verbondenheid.
+
+Daarnaast heb ik vandaag mijn presentatie met Tamar gegeven en hebben we elkaar vragen en feedback gegeven over onze onderwerpen.
+
+#### checkout vragen
+
+**Leg uit waar het Visual Research in 3 stappen naartoe werkt**
+Het Visual Research gaat van mijn onderwerp en sfeerwoord naar visuele kenmerken en uiteindelijk naar concrete ontwerpideeën. Door eerst beelden te verzamelen, daarna te kijken naar patronen en vormen en vervolgens te schetsen, kom ik tot een visuele richting voor mijn Digital Garden.
+
+**Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).**
+Mijn Garden gaat over de relatie tussen kleding en cultuur en hoe kleding kan zorgen voor een gevoel van verbondenheid met een cultuur, familie en geschiedenis. Ik wil dit vertellen met eigen foto’s, afbeeldingen, tekst en interactieve/visuele elementen zoals animaties en micro-interacties.
+
+**Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.**
+Ik wil het idee van inzoomen op beelden verder onderzoeken. Ik vind het interessant om details van kleding, zoals patronen en sieraden, interactief uit te lichten.
+
+**Vragen tijdens mijn presentatie;**
+
+**Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?**
+
+- Kleding is meer dan mode, het is een manier om creativiteit en verbondenheid uit te drukken.
+
+ 
+**Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?**
+
+- Persoonlijk, traditioneel, modern en visueel.
+
+ 
+**Heeft 'de ander' een aanvulling op je onderwerp?**
+
+- Hoe sociale media trends impact hebben op hoe culturele kleding nu wordt gedragen en verkocht.
+
+ 
+**Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)**
+
+- Kleurrijk, expressief en persoonlijk.
+
+ 
+**Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.**
+
+- Het is heel kleurrijk, verschillende culturen hebben vaak een eigen stijl in de kleding (patronen, kleuren,vormen). De culturele kleding kan ook trots gevoel opwekken.
