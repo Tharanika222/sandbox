@@ -188,3 +188,28 @@ Ik wil het idee van inzoomen op beelden verder onderzoeken. Ik vind het interess
 **Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.**
 
 - Het is heel kleurrijk, verschillende culturen hebben vaak een eigen stijl in de kleding (patronen, kleuren,vormen). De culturele kleding kan ook trots gevoel opwekken.
+
+#### 10 september 2026
+
+**randvoorwaarden schermschetsen**
+
+- Singel column is standaard voor moviel
+- Schets realistische verhoudingen van tekst en beeld en schets met je gehele content, en de gehele flow met interacties
+- +-35 tekens per regel en 16px/1em font-size
+
+##### Mobile-first schermschetsen
+
+Voor mijn vijf mobile-first schermschetsen heb ik ideeën uit mijn Crazy 8 en Visual Research verder uitgewerkt. Ik heb over verschillende manieren nagedacht waarop de gebruiker door mijn Digital Garden over kleding en cultuur kan navigeren.
+
+Bij de schetsen heb ik onder andere gekeken naar:
+
+- kleding als centraal uitgangspunt;
+- verschillende culturen en kledingstijlen;
+- inzoomen op details zoals patronen en sieraden;
+- interactieve cirkels/hotspots;
+- informatie die verschijnt wanneer je op een onderdeel klikt.
+
+Ik heb bewust vijf verschillende richtingen geschetst om uiteindelijk te kunnen vergelijken en kijken welke toch het beste is.
+
+[screenshots van mobile schetsen](/assets/mobileschetsen2.png)
+[screenshots van mobile schetsen](/assets/mobileschetsen.png)
