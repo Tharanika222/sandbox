@@ -211,5 +211,5 @@ Bij de schetsen heb ik onder andere gekeken naar:
 
 Ik heb bewust vijf verschillende richtingen geschetst om uiteindelijk te kunnen vergelijken en kijken welke toch het beste is.
 
-[screenshots van mobile schetsen](/assets/mobileschetsen2.png)
-[screenshots van mobile schetsen](/assets/mobileschetsen.png)
+[screenshots van mobile schetsen](/assets/mobileschetsen2.png) width="300"
+[screenshots van mobile schetsen](/assets/mobileschetsen.png) width="300"
