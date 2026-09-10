@@ -7,8 +7,15 @@
 }
 
 body {
-  font-family: "Comic Relief", system-ui;
-  background-color: Canvas;
-  color: CanvasText;
+  font-family: "DM Sans", sans-serif;
+  background-color: #f5ebdd;
+  color: #29221f;
   color-scheme: light dark;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Cormorant Garamond", serif;
+  color: #542c52;
 }
