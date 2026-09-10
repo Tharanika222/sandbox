@@ -213,3 +213,13 @@ Ik heb bewust vijf verschillende richtingen geschetst om uiteindelijk te kunnen 
 
 ![screenshots van mobile schetsen](/assets/mobileschetsen.png)
 ![screenshots van mobile schetsen](/assets/mobileschetsen2.png)
+
+#### Digital garden en HTML structuur
+
+Vandaag ben ik begonnen met het aanpassen van de HTML-structuur van mijn Digital Garden. Ik heb de bestaande template aangepast en ben alvast begonnen met het toevoegen van mijn eigen onderwerp, teksten en structuur. Ook wil ik de kleuren, achtergrond en typografie steeds meer laten aansluiten bij mijn eigen stijl.
+
+Tijdens het uitwerken merkte ik dat ik eerst beter moet bepalen wat ik precies in mijn Digital Garden wil vertellen. Ik wil niet alleen onderzoek doen naar traditionele kleding en verschillende culturen, maar ook een persoonlijk onderdeel toevoegen.
+
+Kleding heeft voor mij namelijk een sterke verbinding met cultuur, familie en identiteit. Doordat ik niet bij mijn gezin woon en een ouder ben verloren, heb ik soms het gevoel gehad dat er een stukje verbinding ontbrak. Het zoeken naar mijn culturele achtergrond en het dragen van kleding uit mijn cultuur is voor mij daardoor ook een manier geworden om die verbinding te voelen en te behouden.
+
+Ik wil deze persoonlijke ervaring uiteindelijk naast mijn onderzoek plaatsen. Zo wordt mijn Digital Garden niet alleen een verzameling informatie over culturen en kleding, maar ook een plek waarin ik onderzoek hoe kleding voor iemand persoonlijk betekenis en een gevoel van verbondenheid kan krijgen.
