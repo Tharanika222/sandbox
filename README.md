@@ -96,19 +96,19 @@ of het alle vakjes aanvinkt.
 ![screenshot van website analyse](assets/website%20rangschikking.png)
 ![screenshot van website analyse](assets/website-analyse.png)
 
-- Vanuit de inventarisatie: Wat zou je zelf willen maken? Heb je dingen gezien die je nog niet kan, maar wel interessant vindt in de websites die je bekeken hebt?
+- **Vanuit de inventarisatie: Wat zou je zelf willen maken? Heb je dingen gezien die je nog niet kan, maar wel interessant vindt in de websites die je bekeken hebt?**
   Ik wil eigenlijk een website die best wel diep in een bepaald onderwerp gaat, maar die ook naar meerdere kanten kijkt. Ik wil hem ook best prikkelend hebben, veel afbeeldingen, plaatjes maar ook micro animaties en ook dat hij interactief is.
 
-- Welke webby dingen heb je gezien die je ook wil gebruiken?
+- **Welke webby dingen heb je gezien die je ook wil gebruiken?**
   ik wil ook veel afbeeldingen hebben die animaties geven of dat als je er op drukt dat er een reactie komt, mooie kleurcombinaties maar vooral iets wat persoonlijk is en echt bij mij past.
 
-- Welke eigen content zou je over het onderwerp kunnen schrijven? Wat is de toon, ​de context, het doel, wat zijn onderwerpen, wat is ‘het’ wat jou raakt!​
+- **Welke eigen content zou je over het onderwerp kunnen schrijven? Wat is de toon, ​de context, het doel, wat zijn onderwerpen, wat is ‘het’ wat jou raakt!​**
   Ik weet nog niet precies wat ik wil, maar ik wil een richting van kleding die uit culturen komt, en hoe dat mensen met elkaar verbind. Verdieping over hoe bijvoorbeeld bepaalde stijlen van over de hele wereld in een trend komen in bijvoorbeeld westerse landen, maar ook hoe je een bepaalde connectie kan voelen met jouw afkomst door de kleding die jij bij jou draagt.
 
-- Maak je gebruik van content van een ander? Hoe denk je dat te doen? En mag dat eigenlijk wel? Hoe kan je die content zo aanpassen dat het echt een eigen verhaal wordt? Dat het echt jouw content wordt, op jouw eigen garden?
+- **Maak je gebruik van content van een ander? Hoe denk je dat te doen? En mag dat eigenlijk wel? Hoe kan je die content zo aanpassen dat het echt een eigen verhaal wordt? Dat het echt jouw content wordt, op jouw eigen garden?**
   Ik wil de content van anderen gebruiken om mijn eigen content te verbreden en te versterken, dus het wel mijn eigen te maken. Ik denk als ik bronvermeldingen gebruik en niet zeg dat het van mij is dan vind ik dat het wel zou kunnen maar wil veel zelf vinden en uitzoeken.
 
-- Op welke manier is de content te ervaren, denk verder dan alleen in tekst en beeld (beleeft, voelt, ziet, hoort enz.)
+- **Op welke manier is de content te ervaren, denk verder dan alleen in tekst en beeld (beleeft, voelt, ziet, hoort enz.)**
   Ik denk dat bij mijn onderwerp heb je veel dingen die je kan ervaren, bijvoorbeeld je gevoel van nostalgie of herkenning maar ook dingen voor het eerst zien wat je nog niet kende.
   Ik denk dat muziek kan ook goed een gevoel creëren wat bij dat beeld past.
 
@@ -140,7 +140,7 @@ Ingewikkeld maar ik snap het wel, dus ik denk als ik het vaker doe dat het dan s
 
 #### 9 september 2026
 
-Visual Research & visuele identiteit
+**Visual Research & visuele identiteit**
 
 Tijdens de online les van vandaag hebben we gekeken hoe je een visuele identiteit aan je Digital Garden kunt geven. Door onder andere kleur, typografie, logo, visuals en achtergrond krijgt je Garden een eigen karakter en uitstraling.
 
@@ -149,6 +149,8 @@ Daarna zijn we gestart met Visual Research. Vanuit de zin “Ik voel mij verbond
 Met de Crazy 8 heb ik vervolgens verschillende ideeën geschetst. Ik wil vooral het idee van inzoomen op details verder onderzoeken, bijvoorbeeld om patronen en sieraden uit kleding uit te lichten. Ook het samenbrengen van verschillende beelden tot één geheel past goed bij het idee van verbondenheid.
 
 Daarnaast heb ik vandaag mijn presentatie met Tamar gegeven en hebben we elkaar vragen en feedback gegeven over onze onderwerpen.
+
+de opdracht in miro [miro-opdrachten](https://miro.com/app/board/uXjVHpsKqYY=/?share_link_id=626870178987)
 
 #### checkout vragen
 
