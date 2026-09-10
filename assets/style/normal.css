@@ -25,3 +25,14 @@ section img {
   max-width: 500px;
   display: block;
 }
+
+a {
+  font-family: "DM Sans", sans-serif;
+  color-scheme: #cad183;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f4a98c;
+  text-decoration: underline;
+}
