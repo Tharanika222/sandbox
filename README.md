@@ -223,3 +223,14 @@ Tijdens het uitwerken merkte ik dat ik eerst beter moet bepalen wat ik precies i
 Kleding heeft voor mij namelijk een sterke verbinding met cultuur, familie en identiteit. Doordat ik niet bij mijn gezin woon en een ouder ben verloren, heb ik soms het gevoel gehad dat er een stukje verbinding ontbrak. Het zoeken naar mijn culturele achtergrond en het dragen van kleding uit mijn cultuur is voor mij daardoor ook een manier geworden om die verbinding te voelen en te behouden.
 
 Ik wil deze persoonlijke ervaring uiteindelijk naast mijn onderzoek plaatsen. Zo wordt mijn Digital Garden niet alleen een verzameling informatie over culturen en kleding, maar ook een plek waarin ik onderzoek hoe kleding voor iemand persoonlijk betekenis en een gevoel van verbondenheid kan krijgen.
+
+**deepdive over kleuren en gradients**
+
+ik heb de hele deepdive gedaan en vond het best interessant, ik wist al ongeveer van vorig jaar hoe hex codes werkte maar nu was het meer info en ook duidelijker dus ik kon de opdrachten ook doen, alleen bij de vlaggen kon ik de moeilijkste niet daarvoor moest ik wel AI gebruiken omdat mijn code steeds niet werkte.
+gradients en animations snap ik nu ook, wel nog ingewikkeld maar als ik oefen komt het wel goed, laatste animation werkte niet helaas.
+
+![screenshots deepdive & opdrachten](assets/spel.png)
+![screenshots deepdive & opdrachten](assets/RGB.png)
+![screenshots deepdive & opdrachten](assets/gradient%20animation.png)
+![screenshots deepdive & opdrachten](assets/vlaggen%20namaken.png)
+![screenshots deepdive & opdrachten](assets/gradient%20animation.png)
