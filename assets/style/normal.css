@@ -9,8 +9,8 @@
 html {
   color-scheme: light dark;
 
-  --background: light-dark(#7c9e7e, #3c664d)
-    --text: light-dark(#000000, #ffffff) --heading: light-dark(#542c52, #e8b56a);
+  --background: light-dark(#7c9e7e, #e38a82)
+    --text: light-dark(#fff69c, #000000) --heading: light-dark(#542c52, #e8b56a);
   --accent: light-dark(#c96832, #e89a63);
 }
 
@@ -41,6 +41,6 @@ a {
 }
 
 a:hover {
-  color: var(--heading);
+  color: var(--accent);
   text-decoration: underline;
 }
