@@ -234,3 +234,20 @@ gradients en animations snap ik nu ook, wel nog ingewikkeld maar als ik oefen ko
 ![screenshots deepdive & opdrachten](assets/gradient%20animation.png)
 ![screenshots deepdive & opdrachten](assets/vlaggen%20namaken.png)
 ![screenshots deepdive & opdrachten](assets/gradient%20animation.png)
+
+#### 11 september 2026
+
+**feedback van Barbara**
+
+- idee is goed uitgewerkt en ik heb een duidelijk idee van wat ik wil vertellen.
+- ik heb veel frames getekend dus dat is goed zodat ik mijn ideeën kan vergelijken met elkaar
+- probeer te kijken hoe je de kleuren kan laten terug komen van de fotos die je hebt verzameld dus bijvoorbeeld warme tinten
+- de abstracte vormen van de typografie poster erin terug laten komen in je design bijvoorbeeld transitions met organische vormen.
+
+Ik heb ook de deepdive gevolgd over grids, en hier heb ik alle opdrachten tijdens de deepdive kunnen doen.
+Het was wel ingewikkeld de oefeningen maar ik snap het wel.
+Ik heb wel nog moeite met code typen uit mijn hoofd, want ik snap de code vaak wel maar als ik dus zelf moet typen wat het moet zijn en de volgorde dan lukt het vaak niet. Ik hoop dat met oefenen dit probleem weggaat.
+
+![screenshots deepdive grids](assets/grids.png)
+![screenshots deepdive grids](assets/spel%20grids.png)
+![screenshots deepdive grids](assets/vis%20grids%20opdracht.png)
