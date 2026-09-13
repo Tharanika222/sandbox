@@ -244,6 +244,12 @@ gradients en animations snap ik nu ook, wel nog ingewikkeld maar als ik oefen ko
 - probeer te kijken hoe je de kleuren kan laten terug komen van de fotos die je hebt verzameld dus bijvoorbeeld warme tinten
 - de abstracte vormen van de typografie poster erin terug laten komen in je design bijvoorbeeld transitions met organische vormen.
 
+Van mijn uitgetekende ideeën spreekt het idee waarbij een kledingstuk centraal staat en je meer informatie over verschillende details kunt ontdekken mij het meest aan. Mijn oorspronkelijke idee was om op een detail in te zoomen en vervolgens extra informatie te tonen.
+
+Ik had samen met een leerling van tweedejaar gekeken naar een simpelere oplossing voor het idee dat ik had omdat mijn idee van het inzoomen op een kledingstuk en daar info bij zetten eigenlijk te moeilijk en misschien nu nog te complex is met de html en css wat ik nu kan, maar hij had wel laten zien hoe ik het op een andere manier kan doen dus dat wil ik uitproberen en misschien kan mijn idee dan toch werken.
+
+![idee nog verder uitgeschetst in meerdere wires](assets/wireframes%20idee.png)
+
 Ik heb ook de deepdive gevolgd over grids, en hier heb ik alle opdrachten tijdens de deepdive kunnen doen.
 Het was wel ingewikkeld de oefeningen maar ik snap het wel.
 Ik heb wel nog moeite met code typen uit mijn hoofd, want ik snap de code vaak wel maar als ik dus zelf moet typen wat het moet zijn en de volgorde dan lukt het vaak niet. Ik hoop dat met oefenen dit probleem weggaat.

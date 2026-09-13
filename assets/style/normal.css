@@ -9,16 +9,37 @@
 html {
   color-scheme: light dark;
 
-  --background: light-dark(#7c9e7e, #e38a82)
-    --text: light-dark(#fff69c, #000000) --heading: light-dark(#542c52, #e8b56a);
-  --accent: light-dark(#c96832, #e89a63);
+  --background: light-dark(#f7efe3, #29221f);
+  --text: light-dark(#29221f, #f7efe3);
+  --heading: light-dark(#542c52, #d6a63d);
+  --accent: light-dark(#c85c3a, #e08a5b);
+
+  --gradient: light-dark(
+    linear-gradient(135deg, #542c52, #c85c3a, #d6a63d),
+    linear-gradient(135deg, #542c52, #8f3d36, #a87825)
+  );
 }
 
 body {
   font-family: "DM Sans", sans-serif;
-  background-color: #7c9e7e;
+  background-color: var(--background);
   color: var(--text);
-  color-scheme: light dark;
+}
+
+header {
+  background: linear-gradient(135deg, #542c52, #c85c3a, #d6a63d);
+}
+
+main {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+
+@media (width> 700px) {
+  main {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 h1,
@@ -29,9 +50,10 @@ h3 {
 }
 
 section img {
-  width: 50%;
-  max-width: 100px;
+  width: 100%;
+  max-width: 250px;
   display: block;
+  margin-inline: auto;
 }
 
 a {
