@@ -9,7 +9,7 @@
 html {
   color-scheme: light dark;
 
-  --background: light-dark(#f7efe3, #29221f);
+  --background: light-dark(#fff29e, #29221f);
   --text: light-dark(#29221f, #f7efe3);
   --heading: light-dark(#542c52, #d6a63d);
   --accent: light-dark(#c85c3a, #e08a5b);
