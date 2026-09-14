@@ -257,3 +257,27 @@ Ik heb wel nog moeite met code typen uit mijn hoofd, want ik snap de code vaak w
 ![screenshots deepdive grids](assets/grids.png)
 ![screenshots deepdive grids](assets/spel%20grids.png)
 ![screenshots deepdive grids](assets/vis%20grids%20opdracht.png)
+
+#### 12 september 2026 - huiswerk
+
+#### 14 september 2026
+
+![bi weekly vragen](assets/biweekly%20geek.jpg)
+![bi weekly vragen](assets/biweekly%20geek.jpg)
+
+**checkout vragen**
+
+- Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+  wanneer je html structuur niet werkt en je geen css hebt die bijvoorbeeld grid geeft of dat je afbeelding zich aanpast aan je desktop.
+  door dus wel grids te hebben en max width toe te voegen maakt het een mindere lelijke website.
+
+- Vertel welke volgende stap je neemt om je website responsive te maken.
+  Ik denk dat mijn volgende stap is zorgen dat mijn headers en tekst mooi onder elkaar staan en ik ga verder aan mijn afbeeldingen
+
+- Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+  Op dit moment kan ik nog niet zeggen dat hij volledig webby is maar hij heeft dus wel al dat hij redelijk fluïde is dus hij past zich aan aan het scherm zoals desktop of mobiel en light en dark mode.
+
+Ik ben nu bezig met het dynamisch en interactief te maken dus hover states erin zetten.
+Toegankelijk heb ik het al door dus contrast en hierarchie.
+
+En ik wil het meer expressief maken want het idee wat ik heb is best uitdagend maar ik denk dat het gaat werken.
