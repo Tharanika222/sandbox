@@ -22,7 +22,7 @@ html {
 
 body {
   font-family: "DM Sans", sans-serif;
-  background-color: var(--background);
+  background-color: var(--gradient);
   color: var(--text);
 }
 
