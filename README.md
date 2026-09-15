@@ -281,3 +281,29 @@ Ik ben nu bezig met het dynamisch en interactief te maken dus hover states erin 
 Toegankelijk heb ik het al door dus contrast en hierarchie.
 
 En ik wil het meer expressief maken want het idee wat ik heb is best uitdagend maar ik denk dat het gaat werken.
+
+#### 15 september 2026
+
+Visual design & design consistency
+Ik heb de vijf principes van visual design van NN/g gelezen: scale, visual hierarchy, balance, contrast en Gestalt. Deze principes helpen om een ontwerp duidelijker en gebruiksvriendelijker te maken en kunnen ook invloed hebben op emotie en merkperceptie.
+
+Daarnaast heb ik gelezen over design consistency. Consistentie zorgt ervoor dat een interface voorspelbaarder wordt, waardoor usability verbetert, de learning curve korter wordt en gebruikers minder fouten maken. Ik heb geleerd over visual, functional, internal en external consistency. Bij mijn eigen Digital Garden zie ik dit bijvoorbeeld terug in mijn vaste typografie, kleuren, layout en manier waarop links en onderdelen worden vormgegeven.
+
+Ik heb de deepdive over grids gedaan, en doordat ik die grids 101 al had gedaan was het best makkelijk om te begrijpen en kon het ook toepassen in de oefeningen dus ik wil dat nu in mijn eigen website proberen.
+
+"area-one area-two"
+"area-three area-four"
+
+┌───────────┬───────────┐
+│ area-one │ area-two │
+├───────────┼───────────┤
+│ area-three│ area-four │
+└───────────┴───────────┘
+
+![opdracht grids](assets/grids%201.1.png)
+![opdracht grids](assets/1.2%20grids.png)
+![opdracht grids](assets/vissen%20grids%203.png)
+
+Ik ben ook verder gegaan aan het verder maken van mijn website, ik heb extra tekst toegevoegd en de navigatie menu aangepast door hem nu boven mijn header neer te zetten en inplaatsvan verticaal onder elkaar dat ze horizontaal naast elkaar staan dat vond ik mooier.
+
+Ik heb ook gekeken of ik mijn grids kon aanpassen dus naar areas maar ik denk dat dat niet handig is omdat hoe ik het nu heb is dat hij automatisch het in twee kolommen zet en ik nog geen specifieke positionering heb wat je bij areas juist gebruikt.
