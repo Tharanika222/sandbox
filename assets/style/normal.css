@@ -16,19 +16,29 @@ html {
 
 body {
   font-family: "DM Sans", sans-serif;
-  background: linear-gradient(90deg, #542c52, #c85c3a, #d6a63d);
+  background: linear-gradient(90deg, #82497f, #c85c3a, #d6a63d);
   color: var(--text);
 }
 
 main {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 1fr 1fr;
   gap: 2rem;
 }
 
 @media (width> 700px) {
   main {
+    display: grid;
     grid-template-columns: 1fr 1fr;
+    grid-template-areas: "text image";
+  }
+
+  section div {
+    grid-area: text;
+  }
+
+  section img {
+    grid-area: image;
   }
 }
 
