@@ -88,6 +88,10 @@ h1 {
   font-size: 3rem;
 }
 
+h2 {
+  font-size: 2rem;
+}
+
 section img {
   width: 100%;
   max-width: 350px;
