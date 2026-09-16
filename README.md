@@ -307,3 +307,21 @@ Ik heb de deepdive over grids gedaan, en doordat ik die grids 101 al had gedaan 
 Ik ben ook verder gegaan aan het verder maken van mijn website, ik heb extra tekst toegevoegd en de navigatie menu aangepast door hem nu boven mijn header neer te zetten en inplaatsvan verticaal onder elkaar dat ze horizontaal naast elkaar staan dat vond ik mooier.
 
 Ik heb ook gekeken of ik mijn grids kon aanpassen dus naar areas maar ik denk dat dat niet handig is omdat hoe ik het nu heb is dat hij automatisch het in twee kolommen zet en ik nog geen specifieke positionering heb wat je bij areas juist gebruikt.
+
+#### 16 september 2026
+
+- Noem 3 Gestaltprincipes op en laat de ander uitleggen wat ze betekenen en doen.
+
+Nabijheid - dus de afstand kan zorgen voor groepen zodat je weet wat bij elkaar hoort
+
+closure - je hersenen maken het beeld af, door het zelf in te vullen dit kan of goed werken of juist het verkeerde beeld geven
+
+Asymmetrie - tegenovergestelde van symmetrie waardoor je ongelijkheden krijgt in je design.
+
+- Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?
+
+Je hebt veel mogelijkheden met hoe je de grids gebruikt met rows of columns of areas maar het geeft structuur omdat het alles uitlijnt dus het ziet er netter uit.
+
+- Welk principe neem je mee in een laatste iteratie van je ontwerp?
+
+Nabijheid want zo kan je goed zien welke groepen bij elkaar horen en dat mis ik nu nog een beetje in mijn website.
