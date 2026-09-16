@@ -20,10 +20,15 @@ body {
   color: var(--text);
 }
 
+p {
+  max-width: 30em;
+  line-height: 1.6;
+}
+
 nav ul {
   display: flex;
   gap: 1.5rem;
-  list-style-type: none;
+  list-style-type: none; /* navigatiemenu */
   padding: 0%;
   margin: 0%;
   margin-bottom: 2rem;
