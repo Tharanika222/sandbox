@@ -168,6 +168,6 @@ figure img {
   background: white;
 }
 
-.circle2:hover ~ .infobox1 {
+.circle2:hover ~ .infobox2 {
   visibility: visible;
 }
