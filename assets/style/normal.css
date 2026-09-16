@@ -21,7 +21,7 @@ body {
 }
 
 p {
-  max-width: 30em;
+  max-width: 40em;
   line-height: 1.6;
 }
 
@@ -59,6 +59,10 @@ main {
   grid-area: image;
 }
 
+.intro h2 {
+  margin-top: 0;
+}
+
 @media (width> 700px) {
   .intro {
     grid-template-columns: 1fr 1fr;
@@ -78,6 +82,10 @@ h2,
 h3 {
   font-family: "Fjalla One", sans-serif;
   color: var(--heading);
+}
+
+h1 {
+  font-size: 3rem;
 }
 
 section img {
