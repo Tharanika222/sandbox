@@ -144,3 +144,30 @@ figure img {
 .circle1:hover ~ .infobox1 {
   visibility: visible;
 }
+
+.circle2 {
+  width: 30px;
+  height: 30px;
+  border: 2px solid white;
+  border-radius: 50%;
+  position: absolute;
+
+  top: 100px;
+  left: 200px;
+}
+
+.infobox2 {
+  position: absolute;
+  visibility: hidden;
+
+  top: 50px;
+  left: 250px;
+
+  max-width: 250px;
+  padding: 1rem;
+  background: white;
+}
+
+.circle2:hover ~ .infobox1 {
+  visibility: visible;
+}
