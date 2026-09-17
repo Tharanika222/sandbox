@@ -29,21 +29,19 @@ We hebben een Wok to Walk-menu formulier aangepast naar een digitaal ontwerp voo
 
 #### Dit is het originele formulier:
 
-![Origineel Wok to Walk formulier](assets/origineelwoktowalk.png)
-
+<img src="assets/orgineelwoktowalk" width="500">
 #### schetsencursus
 
 We hebben tijdens schetsen cursus gehad over lijnen trekken en vierkanten maken zonder liniaal, na dit oefenen hebben we verschillen bekeken tussen hi-fi en low fi wireframes en die getekend van een app met microanimaties.
 Ik had apple music gekozen
 
-![lijnen die ik moest tekenen](assets/lijnenoefenen.JPG)
+<img src="assets/lijnenoefenen.JPG" width="500">
 
-![oude schetsen een cijfer geven](assets/schetsenraten.png)
+<img src="assets/schetsenraten.png" width="500">
 
 #### De wireframe die ik heb gemaakt
 
-![mijn wireframes die ik heb gemaakt](assets/wireframes.png)
-
+<img src="assets/wireframes" width="500">
 ### 3 september 2026
 
 voorbereiding voor de cursus HTML & CSS Basics (Justus) en Praktische CSS (Vasilis)
@@ -59,10 +57,9 @@ De vragen die ik voor de les had waren:
 
 #### deel van de aantekeningen die ik had gemaakt en CSS diner
 
-![aantekeningen die ik had gemaakt](assets/aantekeningen.png)
-![aantekeningen](assets/aantekeningencss.png)
-![aantekeningen](assets/aantekeningenhtml.png)
-
+<img src="assets/aantekeningen.png" width="500">
+<img src="assets/aantekeningencss.png" width="500">
+<img src="assets/aantekeningenhtml.png" width="500">
 ### CSS diner game
 
 ![css diner spel, tot level 15](assets/CSS%20diner%20game.png)
