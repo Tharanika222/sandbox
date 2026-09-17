@@ -40,6 +40,10 @@ nav ul {
   flex-wrap: wrap;
 }
 
+nav summary {
+  display: none; /* voor mobiel */
+}
+
 nav a {
   border: 2px solid var(--heading);
   padding: 0.5rem 1rem;
@@ -47,7 +51,7 @@ nav a {
 
 nav a:hover {
   background: var(--heading);
-  color: var (--accent);
+  color: var(--accent);
 }
 
 nav a:focus {
@@ -93,6 +97,16 @@ main {
   .intro img {
     grid-area: image;
     margin-top: -12rem;
+  }
+}
+
+@media (width <= 700px) {
+  nav summary {
+    display: block;
+  }
+
+  nav ul {
+    display: none;
   }
 }
 
