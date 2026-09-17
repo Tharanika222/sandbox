@@ -157,7 +157,7 @@ figure {
 
 figure img {
   width: 100%;
-  max-width: 500px;
+  max-width: px;
 }
 
 .circle1 {
@@ -211,5 +211,59 @@ figure img {
 }
 
 .circle2:hover ~ .infobox2 {
+  visibility: visible;
+}
+
+.circle3 {
+  width: 30px;
+  height: 30px;
+  border: 2px solid white;
+  border-radius: 50%;
+  position: absolute;
+
+  top: 300px;
+  left: 150px;
+}
+
+.infobox3 {
+  position: absolute;
+  visibility: hidden;
+
+  top: 200px;
+  left: 100px;
+
+  max-width: 250px;
+  padding: 1rem;
+  background: white;
+}
+
+.circle3:hover ~ .infobox2 {
+  visibility: visible;
+}
+
+.circle4 {
+  width: 30px;
+  height: 30px;
+  border: 2px solid white;
+  border-radius: 50%;
+  position: absolute;
+
+  top: 300px;
+  left: 150px;
+}
+
+.infobox4 {
+  position: absolute;
+  visibility: hidden;
+
+  top: 200px;
+  left: 100px;
+
+  max-width: 250px;
+  padding: 1rem;
+  background: white;
+}
+
+.circle4:hover ~ .infobox2 {
   visibility: visible;
 }

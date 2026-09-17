@@ -46,7 +46,7 @@ We hebben een Wok to Walk-menu formulier aangepast naar een digitaal ontwerp voo
 
 #### Dit is het originele formulier:
 
-<img src="assets/orgineelwoktowalk" width="500">
+<img src="assets/origineelwoktowalk.png" width="500">
 #### schetsencursus
 
 We hebben tijdens schetsen cursus gehad over lijnen trekken en vierkanten maken zonder liniaal, na dit oefenen hebben we verschillen bekeken tussen hi-fi en low fi wireframes en die getekend van een app met microanimaties.
