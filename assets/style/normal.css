@@ -108,6 +108,10 @@ main {
   nav ul {
     display: none;
   }
+
+  nav details[open] ul {
+    display: flex;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
