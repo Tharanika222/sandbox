@@ -11,7 +11,7 @@ html {
   --background: light-dark(#d6a63d, #542c52);
   --text: light-dark(#29221f, #f7efe3);
   --heading: light-dark(#341732, #d6a63d);
-  --accent: light-dark(#92ccff, #9fc7ff);
+  --accent: light-dark(#f7efe3, #f7efe3);
 }
 
 body {
@@ -133,7 +133,6 @@ a {
 
 a:hover {
   color: var(--accent);
-  text-decoration: underline;
 }
 
 figure {
