@@ -345,7 +345,7 @@ Nabijheid want zo kan je goed zien welke groepen bij elkaar horen en dat mis ik 
 <img src="assets/IMG_4894.png" width="350px">
 #### 17 september 2026
 
-Ik na de schetsen die ik gisteren in de les heb gemaakt en vandaag verder heb uitgedacht mijn navigatie responsive gemaakt.
+Ik heb na de schetsen die ik gisteren in de les heb gemaakt en die ik vandaag verder heb uitgedacht mijn navigatie responsive gemaakt.
 Dus op de desktop zijn mijn navigatielinks nu buttons die werken met een hover. en heb hierbij dus gedaan dat als je op mobiel opent er een hamburger menu icoon verschijnt. Dit ik heb ik wel anders gedaan dan dat bij HTML5 Doctor werd aangegeven want dat was button code maar dat moest met JavaScript en aangezien dat voor mij nog te ingewikkeld is en ik mij wil focussen op CSS heb ik aan ChatGPT gevraagd of er andere mogelijkheden zijn en dat was werken met summary en details. En dit heb ik vorig jaar ook gedaan dus hiervan had ik zelf de code.
 
 <img src="assets/navigatiemenu1ste.png" width="350px">
