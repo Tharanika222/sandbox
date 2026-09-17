@@ -37,9 +37,13 @@ nav ul {
 }
 
 nav a {
+  border: 2px solid var(--heading);
+  padding: 0.5rem 1rem;
 }
 
 nav a:hover {
+  background: var(--heading);
+  color: #d6a63d;
 }
 
 nav a:focus {
