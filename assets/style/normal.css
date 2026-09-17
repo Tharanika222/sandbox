@@ -101,7 +101,7 @@ h2 {
 
 section img {
   width: 100%;
-  max-width: 350px;
+  max-width: 600px;
   display: block;
   grid-template-columns: 1/ -1;
   align-self: center;
@@ -124,7 +124,7 @@ figure {
 
 figure img {
   width: 100%;
-  max-width: 800px;
+  max-width: 350px;
 }
 
 .circle1 {

@@ -25,7 +25,7 @@ Ik kan mijn website aanpassen door de bestanden, bijvoorbeeld index.html, in VSC
 Vandaag hebben we gewerkt aan micro-interacties en multimodal design.
 We hebben een Wok to Walk-menu formulier aangepast naar een digitaal ontwerp voor een laptop of tablet. Dit heb ik Figma gemaakt.
 
-![Mijn Wok to Walk ontwerp](assets/woktowalkmenu.png)
+<img src="assets/woktowalkmenu.png" width="500">
 
 #### Dit is het originele formulier:
 
