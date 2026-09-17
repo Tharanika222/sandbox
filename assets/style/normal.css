@@ -25,6 +25,10 @@ p {
   line-height: 1.6;
 }
 
+nav {
+  padding-top: 1.5rem; /* hele navigatiegebied */
+}
+
 nav ul {
   display: flex;
   gap: 1.5rem;
