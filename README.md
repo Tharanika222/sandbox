@@ -2,6 +2,23 @@
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
+#### bronnen voor mijn website, die ik heb gebruikt.
+
+- W3Schools - Gebruikt voor uitleg en voorbeelden bij HTML en CSS.
+- MDN Web Docs - gebruikt voor uitleg en documentie over HTML en CSS.
+- HTML5 Doctor - vinden van codes voor mijn HTML en CSS
+- CSS-Tricks - gebruikt voor uitleg en voorbeelden rondom CSS.
+- ChatGPT - gebruikt als hulpmiddel om mijn code te controleren, fouten te begrijpen en het bedenken van oplossingen.
+
+#### Voor inspiratie
+
+- Pinterest - visuele inspiratie voor de vormgeving, kleding en beelden op mijn website
+
+#### Gebruikte afbeeldingen
+
+- Pinterest - afbeelding gebruikt op de website; oorspronkelijke maker/auteur was bij het vinden van de afbeelding niet duidelijk vermeld.
+- andere afbeeldingen - fotos van mijzelf of die ik zelf heb gemaakt.
+
 ## Learning Log
 
 ### 31 aug - Kickoff
