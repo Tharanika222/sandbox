@@ -244,17 +244,11 @@ Ik wil deze persoonlijke ervaring uiteindelijk naast mijn onderzoek plaatsen. Zo
 ik heb de hele deepdive gedaan en vond het best interessant, ik wist al ongeveer van vorig jaar hoe hex codes werkte maar nu was het meer info en ook duidelijker dus ik kon de opdrachten ook doen, alleen bij de vlaggen kon ik de moeilijkste niet daarvoor moest ik wel AI gebruiken omdat mijn code steeds niet werkte.
 gradients en animations snap ik nu ook, wel nog ingewikkeld maar als ik oefen komt het wel goed, laatste animation werkte niet helaas.
 
-![screenshots deepdive & opdrachten](assets/spel.png)
-![screenshots deepdive & opdrachten](assets/RGB.png)
-![screenshots deepdive & opdrachten](assets/gradient%20animation.png)
-![screenshots deepdive & opdrachten](assets/vlaggen%20namaken.png)
-![screenshots deepdive & opdrachten](assets/gradient%20animation.png)
-
 <img src="assets/spel.png" width="500">
 <img src="assets/RGB.png" width="500">
 <img src="assets/gradient" width="500">
-<img src="assets/lelijke website 4.0.png" width="500">
-<img src="assets/lelijke website 4.0.png" width="500">
+<img src="assets/vlaggen namaken.png" width="500">
+<img src="assets/gradient animation.png" width="500">
 
 #### 11 september 2026
 
@@ -269,22 +263,22 @@ Van mijn uitgetekende ideeën spreekt het idee waarbij een kledingstuk centraal 
 
 Ik had samen met een leerling van tweedejaar gekeken naar een simpelere oplossing voor het idee dat ik had omdat mijn idee van het inzoomen op een kledingstuk en daar info bij zetten eigenlijk te moeilijk en misschien nu nog te complex is met de html en css wat ik nu kan, maar hij had wel laten zien hoe ik het op een andere manier kan doen dus dat wil ik uitproberen en misschien kan mijn idee dan toch werken.
 
-![idee nog verder uitgeschetst in meerdere wires](assets/wireframes%20idee.png)
+<img src="assets/wireframes idee.png" width="500">
 
 Ik heb ook de deepdive gevolgd over grids, en hier heb ik alle opdrachten tijdens de deepdive kunnen doen.
 Het was wel ingewikkeld de oefeningen maar ik snap het wel.
 Ik heb wel nog moeite met code typen uit mijn hoofd, want ik snap de code vaak wel maar als ik dus zelf moet typen wat het moet zijn en de volgorde dan lukt het vaak niet. Ik hoop dat met oefenen dit probleem weggaat.
 
-![screenshots deepdive grids](assets/grids.png)
-![screenshots deepdive grids](assets/spel%20grids.png)
-![screenshots deepdive grids](assets/vis%20grids%20opdracht.png)
+<img src="assets/grids.png" width="500">
+<img src="assets/spel grids.png" width="500">
+<img src="assets/vis grids opdracht.png" width="500">
 
 #### 12 september 2026 - huiswerk
 
 #### 14 september 2026
 
-![bi weekly vragen](assets/biweekly%20geek.jpg)
-![bi weekly vragen](assets/biweekly%20geek.jpg)
+<img src="assets/biweekly geek.jpg" width="500">
+<img src="assets/biweekly geek2.jpg" width="500">
 
 **checkout vragen**
 
@@ -316,14 +310,14 @@ Ik heb de deepdive over grids gedaan, en doordat ik die grids 101 al had gedaan 
 "area-three area-four"
 
 ┌───────────┬───────────┐
-│ area-one │ area-two │
+│area-one │ area-two │
 ├───────────┼───────────┤
 │ area-three│ area-four │
 └───────────┴───────────┘
 
-![opdracht grids](assets/grids%201.1.png)
-![opdracht grids](assets/1.2%20grids.png)
-![opdracht grids](assets/vissen%20grids%203.png)
+<img src="assets/grids 1.1.png" width="500">
+<img src="assets/1.2 grids.png" width="500">
+<img src="assets/vissen grids 3.png" width="500">
 
 Ik ben ook verder gegaan aan het verder maken van mijn website, ik heb extra tekst toegevoegd en de navigatie menu aangepast door hem nu boven mijn header neer te zetten en inplaatsvan verticaal onder elkaar dat ze horizontaal naast elkaar staan dat vond ik mooier.
 
