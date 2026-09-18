@@ -83,10 +83,10 @@ De vragen die ik voor de les had waren:
 
 #### lelijke website verbeteren
 
-![screenshots van mijn lelijke website](assets/lelijke%20website%201.0.png)
-![screenshots van mijn lelijke website](assets/lelijke%20website%202.0.png)
-![screenshots van mijn lelijke website](assets/lelijke%20website%203.0.png)
-![screenshots van mijn lelijke website](assets/lelijke%20website%204.0.png)
+<img src="assets/lelijke website 1.0.png" width="500">
+<img src="assets/lelijke website 2.0.png" width="500">
+<img src="assets/lelijke website 3.0.png" width="500">
+<img src="assets/lelijke website 4.0.png" width="500">
 
 #### 4 september 2026
 
@@ -107,8 +107,8 @@ we hebben in de les artikels gelezen en geanalyseerd over wat een digital garden
 We hebben ook websites vergeleken met elkaar, en gerangschikt hoe "webby" het is.
 of het alle vakjes aanvinkt.
 
-![screenshot van website analyse](assets/website%20rangschikking.png)
-![screenshot van website analyse](assets/website-analyse.png)
+<img src="assets/website rangschikking.png" width="500">
+<img src="assets/website-analyse.png" width="500">
 
 - **Vanuit de inventarisatie: Wat zou je zelf willen maken? Heb je dingen gezien die je nog niet kan, maar wel interessant vindt in de websites die je bekeken hebt?**
   Ik wil eigenlijk een website die best wel diep in een bepaald onderwerp gaat, maar die ook naar meerdere kanten kijkt. Ik wil hem ook best prikkelend hebben, veel afbeeldingen, plaatjes maar ook micro animaties en ook dat hij interactief is.
@@ -140,17 +140,18 @@ Voor het huiswerk heb ik mijn presentatie gemaakt en voorbereid,
 Het koste best veel werk, en heb er ook heel lang over gedaan Terwijl het resultaat best simpel is, maar ik snap nu wel beter hoe afbeeldingen werken met positions and width left and right.
 
 ![presentatie die ik heb gemaakt](assets/presentatie.png)
+<img src="assets/presentatie.png" width="500">
 
 Ik heb daarna de deepdive gedaan van light&dark theme
 Ingewikkeld maar ik snap het wel, dus ik denk als ik het vaker doe dat het dan steeds logischer wordt.
 
-![screenshots van deepdive](assets/darkmode.png)
-![screenshots van deepdive](assets/darkmode%20kat.png)
-![screenshots van deepdive](assets/oefening%202%20kat.png)
-![screenshots van deepdive](assets/katwebsite.png)
-![screenshots van deepdive](assets/codevandeepdive.png)
-![screenshots van deepdive](assets/darkmodewebsite.png)
-![screenshots van deepdive](assets/darkmodewebsite1.png)
+<img src="assets/darkmode.png" width="500">
+<img src="assets/darkmode kat.png" width="500">
+<img src="assets/oefening 2 kat.png" width="500">
+<img src="assets/katwebsite.png" width="500">
+<img src="assets/codevandeepdive.png" width="500">
+<img src="assets/darkmodewebsite.png" width="500">
+<img src="assets/darkmodewebsite1.png" width="500">
 
 #### 9 september 2026
 
@@ -225,8 +226,8 @@ Bij de schetsen heb ik onder andere gekeken naar:
 
 Ik heb bewust vijf verschillende richtingen geschetst om uiteindelijk te kunnen vergelijken en kijken welke toch het beste is.
 
-![screenshots van mobile schetsen](/assets/mobileschetsen.png)
-![screenshots van mobile schetsen](/assets/mobileschetsen2.png)
+<img src="assets/mobileschetsen.png" width="500">
+<img src="assets/mobileschetsen2.png" width="500">
 
 #### Digital garden en HTML structuur
 
@@ -248,6 +249,12 @@ gradients en animations snap ik nu ook, wel nog ingewikkeld maar als ik oefen ko
 ![screenshots deepdive & opdrachten](assets/gradient%20animation.png)
 ![screenshots deepdive & opdrachten](assets/vlaggen%20namaken.png)
 ![screenshots deepdive & opdrachten](assets/gradient%20animation.png)
+
+<img src="assets/spel.png" width="500">
+<img src="assets/RGB.png" width="500">
+<img src="assets/gradient" width="500">
+<img src="assets/lelijke website 4.0.png" width="500">
+<img src="assets/lelijke website 4.0.png" width="500">
 
 #### 11 september 2026
 
