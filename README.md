@@ -344,6 +344,7 @@ Nabijheid want zo kan je goed zien welke groepen bij elkaar horen en dat mis ik 
 <img src="assets/IMG_4893.png" width="350px">
 <img src="assets/IMG_4895.png" width="350px">
 <img src="assets/IMG_4894.png" width="350px">
+
 #### 17 september 2026
 
 Ik heb na de schetsen die ik gisteren in de les heb gemaakt en die ik vandaag verder heb uitgedacht mijn navigatie responsive gemaakt.
@@ -362,3 +363,21 @@ details: summary {
 display: none;
 }
 }
+
+#### 18 september 2026
+
+
+
+
+**checkout reflectie**
+
+Ik wilde vooral leren hoe ik HTML en CSS kan gebruiken om een Digital Garden te maken, door de Deep Dives en maken van mijn eigen website begrijp ik veel beter wat code inhoudt en hoe de structuur van een website werkt, bijvoorbeeld de opbouw met body, main en footer.
+De Deep Dive over Grid 101 en Grid areas vond ik vooral het beste omdat ik hiervoor nooit goed snapte wat grids deden. Nu heb ik het ook kunnen verwerken in mijn eigen website. Ik heb ook bijvoorbeeld over gradients geleerd en snap nu hoe dat in CSS moet. Vergeleken met vorig jaar in het eerste blok vind ik HTML en CSS nu een stuk duidelijker. Het is nogsteeds moeilijk maar ik begin de logica te snappen.
+Ik merk wel dat ik vaak veel ideeën heb die nu technisch nog te moeilijk zijn en daardoor nog niet haalbaar maar het geeft mij wel veel ruimte om nieuwe dingen te
+
+In het begin wist ik nog niet goed wat een Digital Garden was. Door de voorbeelden die ik had gezien dacht ik eerst dat het vooral een soort portfolio of digitaal dagboek was. Ik vond dat minder bij mij passen omdat ik niet veel eerder gemaakt werk had gemaakt werk dat ik als portfolio wilde laten zien.
+Één van de docenten had uitgelegd dat het een onderwerp kan zijn waar je je veel over in kan verdiepen of iets persoonlijks of juist iets wat je heel leuk vind, dus ik kwam uit bij mijn interesse in cultuur en kleding, waardoor het idee voor mijn Digital Garden over kleding en cultuur ontstond. Om dit idee verder te onderzoeken heb ik afbeeldingen uit mijn eigen galerij bekeken, Pinterest gebruikt en vrienden met verschillende culturele achtergronden gevraagd naar hun ervaringen. Daarnaast heb ik veel geschetst, wireframes gemaakt en Crazy Eights gebruikt om verschillende richtingen te onderzoeken. Mijn oorspronkelijke interactieve idee was een kledingstuk waarop je kon inzoomen. Tijdens feedback met Barbara en een van de studentassistenten bleek dat dit technisch waarschijnlijk te ingewikkeld zou zijn. Hij stelde voor om met pop-overs te werken, waardoor uiteindelijk het idee voor de interactieve hotspots ontstond. Mijn concept is uiteindelijk iets persoonlijker geworden en richt zich nu sterker op mijn eigen culturele achtergrond, terwijl ik oorspronkelijk verschillende culturen en hun overeenkomsten en verschillen wilde vergelijken.
+Tijdens het uitwerken heb ik veel onderdelen van mijn website zelf gebouwd. Ik heb de kennis uit de Deep Dives en bronnen zoals MDN en HTML5 Doctor toegepast. Zo heb ik een light- en dark mode gemaakt, een navigatie met een hamburgermenu, Grid en Grid Areas gebruikt en interactieve hotspots met pop-overs toegevoegd. Vooral de navigatie was technisch lastig. Ik wilde eerst met buttons werken, maar daarvoor zou ik JavaScript nodig hebben, wat ik nog niet beheers en waar de focus dit blok ook niet op ligt, Daarom heb ik naar een andere oplossing gezocht en uiteindelijk met summary gewerkt.
+Ook de hotspots waren lastig om goed te krijgen. De interactie werkt, maar de cirkels staan nog niet op iedere schermgrootte precies op de juiste plek. Tijdens het bouwen merkte ik hierdoor dat een idee technisch anders kan uitpakken dan ik vooraf verwacht. Het onderdeel waar ik het meest tevreden over ben, is de visuele stijl. Vooral de gradients zijn geworden zoals ik ze voor ogen had en sluiten goed aan bij mijn eerdere collage en moodboard.
+Tijdens het proces heb ik verschillende keren feedback gebruikt om mijn ontwerp te verbeteren. Van Barbara kreeg ik bijvoorbeeld de feedback om mijn moodboard, collage, foto's, typografie en het abstracte karakter van mijn onderzoek meer terug te laten komen in mijn website. Vooral de kleuren en vloeiende, organische bewegingen konden sterker terugkomen. Daarom heb ik mijn eerste simpele kleurgebruik aangepast en gradients toegevoegd, waardoor de website beter aansluit bij mijn eerdere visuele onderzoek. Ook heb ik samen met klasgenoten gekeken naar mijn light- en dark mode. Zij gaven feedback op de kleuren, waarna ik deze verder heb aangepast. Door het maken van de website heb ik geleerd dat ik eerst mijn ideeën visueel wil uitwerken en daarna pas wil kijken welke code ik daarvoor nodig heb. Als ik opnieuw zou beginnen, zou ik deze werkwijze grotendeels hetzelfde gebruiken. Wel zou ik sommige technische ideeën eerder testen, zodat ik sneller weet wat haalbaar is.
+
