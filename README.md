@@ -366,9 +366,6 @@ display: none;
 
 #### 18 september 2026
 
-
-
-
 **checkout reflectie**
 
 Ik wilde vooral leren hoe ik HTML en CSS kan gebruiken om een Digital Garden te maken, door de Deep Dives en maken van mijn eigen website begrijp ik veel beter wat code inhoudt en hoe de structuur van een website werkt, bijvoorbeeld de opbouw met body, main en footer.
@@ -381,3 +378,36 @@ Tijdens het uitwerken heb ik veel onderdelen van mijn website zelf gebouwd. Ik h
 Ook de hotspots waren lastig om goed te krijgen. De interactie werkt, maar de cirkels staan nog niet op iedere schermgrootte precies op de juiste plek. Tijdens het bouwen merkte ik hierdoor dat een idee technisch anders kan uitpakken dan ik vooraf verwacht. Het onderdeel waar ik het meest tevreden over ben, is de visuele stijl. Vooral de gradients zijn geworden zoals ik ze voor ogen had en sluiten goed aan bij mijn eerdere collage en moodboard.
 Tijdens het proces heb ik verschillende keren feedback gebruikt om mijn ontwerp te verbeteren. Van Barbara kreeg ik bijvoorbeeld de feedback om mijn moodboard, collage, foto's, typografie en het abstracte karakter van mijn onderzoek meer terug te laten komen in mijn website. Vooral de kleuren en vloeiende, organische bewegingen konden sterker terugkomen. Daarom heb ik mijn eerste simpele kleurgebruik aangepast en gradients toegevoegd, waardoor de website beter aansluit bij mijn eerdere visuele onderzoek. Ook heb ik samen met klasgenoten gekeken naar mijn light- en dark mode. Zij gaven feedback op de kleuren, waarna ik deze verder heb aangepast. Door het maken van de website heb ik geleerd dat ik eerst mijn ideeën visueel wil uitwerken en daarna pas wil kijken welke code ik daarvoor nodig heb. Als ik opnieuw zou beginnen, zou ik deze werkwijze grotendeels hetzelfde gebruiken. Wel zou ik sommige technische ideeën eerder testen, zodat ik sneller weet wat haalbaar is.
 
+!image nog van mn rollercoaster erin zetten!
+
+#### 21 september 2026
+
+We gingen in de les, live coderen en hiervan dus de basis stappen die je in een simple website hebt zoals light/dark maar ook colors ingesteld etc doen.
+Het ging best wel snel hierdoor was het moeilijk te begrijpen wat we nou uiteindelijk allemaal deze maar ik had het wel af.
+
+We hebben ook naar Cookies gekeken die je op websites te zien krijgt, en onderzocht wat het nou eigenlijk is, en over wat voor data het gaat en welke bedrijven die cookies willen en verkopen.
+
+<img src="assets/live coderen.png" width="350px">
+<img src="assets/AVG cookies.png" width="350px">
+
+**checkout questions**
+
+**Wat zijn HTML landmark role elements?**
+
+- Het zijn elementen die de grootte en het inhoud bepalen, zoals
+  body, footer, main, header.
+
+**Wat zijn heading elementen en hoe horen deze 'genest' te worden?**
+
+- H1 tot H2 gaan op hierarchische volgorde.
+  Het "nesten" of ordenen van koppen hoor je te doen op basis van een logische, numerieke volgorde
+
+**Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.**
+
+- Voortaan niet meer zomaar op akkoord drukken, want ze gebruiken gewoon je data en die verkopen ze.
+
+#### 22 september 2026
+
+Omdat ik nog geen feedback heb gehad die ik eigenlijk vrijdag had moeten krijgen ben ik gewoon verder gaan met mijn website op eigen gevoel.
+
+**deepdive Button, states en selectors**
