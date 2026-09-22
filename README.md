@@ -378,6 +378,9 @@ Tijdens het uitwerken heb ik veel onderdelen van mijn website zelf gebouwd. Ik h
 Ook de hotspots waren lastig om goed te krijgen. De interactie werkt, maar de cirkels staan nog niet op iedere schermgrootte precies op de juiste plek. Tijdens het bouwen merkte ik hierdoor dat een idee technisch anders kan uitpakken dan ik vooraf verwacht. Het onderdeel waar ik het meest tevreden over ben, is de visuele stijl. Vooral de gradients zijn geworden zoals ik ze voor ogen had en sluiten goed aan bij mijn eerdere collage en moodboard.
 Tijdens het proces heb ik verschillende keren feedback gebruikt om mijn ontwerp te verbeteren. Van Barbara kreeg ik bijvoorbeeld de feedback om mijn moodboard, collage, foto's, typografie en het abstracte karakter van mijn onderzoek meer terug te laten komen in mijn website. Vooral de kleuren en vloeiende, organische bewegingen konden sterker terugkomen. Daarom heb ik mijn eerste simpele kleurgebruik aangepast en gradients toegevoegd, waardoor de website beter aansluit bij mijn eerdere visuele onderzoek. Ook heb ik samen met klasgenoten gekeken naar mijn light- en dark mode. Zij gaven feedback op de kleuren, waarna ik deze verder heb aangepast. Door het maken van de website heb ik geleerd dat ik eerst mijn ideeën visueel wil uitwerken en daarna pas wil kijken welke code ik daarvoor nodig heb. Als ik opnieuw zou beginnen, zou ik deze werkwijze grotendeels hetzelfde gebruiken. Wel zou ik sommige technische ideeën eerder testen, zodat ik sneller weet wat haalbaar is.
 
+<img src="assets/retro.png" width="350px">
+<img src="assets/spective.png" width="350px">
+
 !image nog van mn rollercoaster erin zetten!
 
 #### 21 september 2026
@@ -411,3 +414,50 @@ We hebben ook naar Cookies gekeken die je op websites te zien krijgt, en onderzo
 Omdat ik nog geen feedback heb gehad die ik eigenlijk vrijdag had moeten krijgen ben ik gewoon verder gaan met mijn website op eigen gevoel.
 
 **deepdive Button, states en selectors**
+<img src="assets/selectors.png" width="350px">
+<img src="assets/button, summary.png" width="350px">
+
+**artikelen en filmpjes die we moesten kijken/lezen**
+
+- Microinteractions: Design with Details
+  Micro-interactions zijn kleine interacties tussen gebruiker en systeem die samen de ervaring van een product bepalen. Ze bestaan uit triggers, rules, feedback en loops/modes. Door bekende interactiepatronen te gebruiken en duidelijke feedback te geven, kan een kleine interactie een grote invloed hebben op de gebruikservaring.
+
+- What are dark patterns in UX?
+  Een dark pattern is een ontwerpkeuze die de gebruiker subtiel richting een bepaalde actie stuurt, waarbij die keuze vooral voor het bedrijf goed is en hiervoor misleiding wordt gebruikt.
+  Je probeert een gebruiker een bepaalde actie te laten doen, maar je maakt daarbij misbruik van hoe mensen websites gebruiken.
+
+meer laten betalen → bijvoorbeeld hidden costs;
+iemand laten abonneren → forced continuity;
+data laten delen;
+vage of misleidende informatie gebruiken;
+iemand iets laten accepteren wat die niet goed doorheeft.
+
+Dark patterns maken gebruik van menselijke psychologie en gewoontes om gebruikers richting een bepaalde actie te sturen die vooral het bedrijf voordeel oplevert. Daarom worden ze gezien als onethisch. Ze kunnen dus ook het vertrouwen en de reputatie van een bedrijf verpesten.
+
+- Deceptive Patterns in UX: How to Recognize and Avoid Them
+
+- 2 ways to avoid deceptive design patterns
+
+Summary: Deceptive patterns/Dark patterns promote business outcomes at the user's expense. Designers should avoid deceptive patterns by carefully assessing their designs.
+
+Definition: A sludge is the opposite of a nudge, a term used by behavioral economists to denote a tactic encouraging a positive behavior, such as saving for retirement.
+
+Obstruction — een keuze die het bedrijf niet wil, wordt onnodig moeilijk gemaakt.
+Visual or wording tricks — gebruikmaken van verwachtingen, cognitieve beperkingen of misleidende formuleringen.
+Nagging — steeds opnieuw dezelfde keuze of toestemming vragen.
+Emotionally manipulative designs — gebruikers schuld, schaamte of druk laten voelen.
+Sneaking / pre-selection — bijvoorbeeld extra opties automatisch aanvinken of toevoegen.
+
+A/B-testing → ontwerpen worden geoptimaliseerd voor conversie.
+Copycat designs → bedrijven nemen patronen van andere websites over.
+Daardoor kunnen manipulatieve patronen steeds normaler gaan lijken.
+
+belangrijke vragen die je jezelf moet stellen als designer:
+
+Wie profiteert het meest van dit ontwerp?
+Hoe goed sluit het ontwerp aan bij de verwachtingen van de gebruiker?
+
+Omdat ik nog geen feedback heb gehad heb ik meer verder gebrainstormed over wat ik nog wil doen in mijn website zodat ik niet straks heb dat ik ben verder gegaan zonder een echte beoordeling of het wel of niet goed is.
+Dus ik heb voor de tweede page, waar ik dieper op mijn verhaal in ga een wireframe getekend hoe ik het misschien zou willen kwa design.
+
+<img src="assets/wireframeidee.png" width="350px">
