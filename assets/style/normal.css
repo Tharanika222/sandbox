@@ -2,11 +2,16 @@
 @font-face {
   font-family: "Fjalla One";
   src: url("../type/FjallaOne-Regular.ttf") format("truetype");
-}
 
-@font-face {
-  font-family: "DM Sans";
-  src: url("../type/DMSans-VariableFont_opsz\,wght.ttf") format("truetype");
+  @font-face {
+    font-family: "DM Sans";
+    src: url("../type/DMSans-VariableFont_opsz\,wght.ttf") format("truetype");
+  }
+
+  @font-face {
+    font-family: "Caveat";
+    src: url("../type/Caveat-VariableFont_wght.tff") format("truetype");
+  }
 }
 
 html {
@@ -285,4 +290,61 @@ figure img {
 
 .circle4:hover ~ .infobox4 {
   visibility: visible;
+}
+
+.privacy-button {
+  font-family: "Fjalla One", sans-serif;
+  background: var(--heading);
+  color: var(--accent);
+  border: 2px solid var(--accent);
+  border-radius: 999px;
+  padding: 0.7rem 1.2rem;
+  cursor: pointer;
+
+  .privacy-button:hover {
+    background: var(--accent);
+    color: var(--heading);
+  }
+}
+
+.close-button {
+  font-family: "Fjalla One", sans-serif;
+  background: var(--heading);
+  color: var(--accent);
+  border: none;
+  border-radius: 999px;
+  padding: 0.7rem 1.4rem;
+  cursor: pointer;
+
+  .close-button:hover {
+    background: var(--background);
+  }
+}
+
+dialog {
+  max-width: 30em;
+  padding: 2rem;
+  border: none;
+  border-radius: 1.5rem;
+  background: var(--accent);
+  color: var(--text);
+  font-family: "DM Sans", sans-serif;
+
+  dialog h2 {
+    font-family: "Fjalla One", sans-serif;
+  }
+
+  dialog h3 {
+    font-family: "Fjalla One", sans-serif;
+  }
+}
+
+dialog::backdrop {
+  background: rgb(0, 0, 0 / 40%);
+  backdrop-filter: blur(6px);
+}
+
+/* page van mijn verhaal */
+.mijn-verhaal-notitie {
+  font-family: "Caveat", cursive;
 }
