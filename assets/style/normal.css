@@ -12,7 +12,7 @@ html {
 
 body {
   font-family: "DM Sans", sans-serif;
-  background: linear-gradient(90deg, #82497f, #c85c3a, #d6a63d);
+  background: linear-gradient(90deg, #9b5b98, #c85c3a, #d6a63d);
   color: var(--text);
 }
 
@@ -145,6 +145,10 @@ a {
   font-family: "DM Sans", sans-serif;
   color: var(--heading);
   text-decoration: none;
+}
+
+.kledingstuk {
+  text-align: center;
 }
 
 figure {

@@ -461,3 +461,68 @@ Omdat ik nog geen feedback heb gehad heb ik meer verder gebrainstormed over wat 
 Dus ik heb voor de tweede page, waar ik dieper op mijn verhaal in ga een wireframe getekend hoe ik het misschien zou willen kwa design.
 
 <img src="assets/wireframeidee.png" width="350px">
+
+#### 23 september 2026
+
+We begonnen vandaag met een college van Hans over privacy.
+Hij heeft uitlegd over wat privacy eigenlijk is, maar ook hoe je daar rekening mee houdt en hoe sommige bedrijven daar misbruik van kunnen maken.
+Door deze college besefte ik mij meer hoeveel informatie ik eigenlijk deel wat best persoonlijk is op het web, maar ook met anderen.
+
+!notities van college!
+
+Bij de opdracht van Dark Pattern Herontwerp heb ik samen met Nisha en Floortje gekeken naar de website Ticketmaster en gekeken naar welke data er wordt opgeslagen en specifiek welke dark patterns er voorkomen, hiervan hebben we wireframes getekend met een nieuw ontwerp om te zorgen dat er geen dark patterns meer zijn maar juist met duidelijkheid.
+
+<img src="assets/ticketsmaster darkpatterns.jpg" width="350px">
+<img src="assets/wireframes ticketmaster.jpg" width="350px">
+
+Human Consent Component **nog maken**
+Opdracht:
+
+Bespreek in jouw groepje welke gegevens op jouw digital garden van gebruikers verwerkt worden. Houdt daarbij in de gaten welke diensten je allemaal gebruikt. Zelfs als je alles zelf geschreven hebt zijn dat er al twee: GitHub pages hosting én het digitaaltuintje component.
+Informeren van gebruikers is een plicht die je hebt als websitemaker: Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website?
+Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10 verschillende manieren van het vragen van consent op het web.
+Denk na over een manier van werken die past binnen de layout van jouw digital garden?
+
+Ik heb vandaag mijn evaluatie gesprek gehad met Barbara om mijn voorlopige beoordeling te bespreken.
+
+Ik ben goed opweg en mijn idee begint steeds meer door te komen op mijn website, ik moet nog een paa technische dingetjes aanpassen zoals buttons bij mijn menu ipv wat ik nu heb gedaan met details open en summary.
+Verder ga ik verder met uittekenen en werken aan mijn website.
+
+Barbara feedback:
+**Je bent lekker op weg en ik zie een compleet learning log. Je mag op het gebied van vormgeving best nog verder doorwerken a.d.h.v. je ideeen in schets, maar de basis is daar. Het kledingstuk met de pop-overs vind ik heel cool!**
+
+**checkout vragen**
+
+1. Wat is een wireflow en wat heb je er aan?
+   Een wireflow zijn meerdere wireframes (schetsen van de frames van je website) waarin je de stappen kan laten zien die je ondergaat
+   tijdens het gebruiken van je website.
+2. Wat zijn dark UX patterns? Geef drie voorbeelden...
+   - Visual or wording tricks: misleidende woorden gebruiken of keuzes waarvan de websites niet willen dat je die kiest moeilijk te vinden
+     maken.
+   - Nagging: het blijven herhalen van bepaalde dingen (meestal betaalde opties van dezelfde site) totdat je er uiteindelijk voor kiest.
+   - Sneaking of preselection: wanneer je bijvoorbeeld iets online wilt bestellen en er automatisch iets extra's wordt toegevoegd aan je
+     winkelmand zonder jouw toestemming.
+3. Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+   Het moet niet te lang zijn en er moet duidelijk in worden weergegeven welke gegevens worden gebruikt (waarvoor en door wie), de
+   gebruiker van mijn website moet ook altijd zijn/ haar keuzes kunnen wijzigen.
+
+**deepdive Sanne Buttons & dialogs**
+
+Ik heb de deepdive gevolgd in de les van Sanne en ik snapte het best goed,
+het zijn best simpele codes en de javascript was goed te doen.
+Ik kan nu dit ook gaan toepassen op mijn website met mijn Human Conset component en mijn navigatiebalk.
+
+<img src="assets/button1.png" width="350px">
+<img src="assets/button2.png" width="350px">
+<img src="assets/dialog.png" width="350px">
+<img src="assets/gridbutton.png" width="350px">
+<img src="assets/gridicon.png" width="350px">
+
+hw to do:
+
+- Schets je human consent component.
+  Welke vorm krijgt deze? En waarom kies je hier specifiek voor? Gebruik je opgedane kennis en de bad/best practices die je hebt onderzocht als leidraad.
+
+- Maak een begin aan je HTML structuur.
+  Welke informatie moet er sowieso aan de gebruiker getoond worden?
+- Human consent component opdracht van de les
