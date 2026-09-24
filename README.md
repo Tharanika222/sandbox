@@ -526,3 +526,9 @@ hw to do:
 - Maak een begin aan je HTML structuur.
   Welke informatie moet er sowieso aan de gebruiker getoond worden?
 - Human consent component opdracht van de les
+
+#### 24 september 2026
+
+Ik heb door de feedback van gisteren mijn hovers aangepast zodat ze nu goed kloppen en het een class gemaakt en gecentreerd.
+ik heb de gradient aangepast zodat de kleuren mooier zijn met de letters.
+<img src="assets/hovergefikst.png" width="350px">
