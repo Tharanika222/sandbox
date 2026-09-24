@@ -33,6 +33,8 @@
       </details>
     </nav>
 
+    <button commandfor="PrivacyDialog" command="show-modal">Privacy</button>
+
     <header>
       <h1>Kleding & Cultuur</h1>
 
@@ -158,5 +160,53 @@
       <p>[Copyleft 2026, all wrongs reversed]</p>
       <p>Afbeeldingen: eigen werk en Pinterest.</p>
     </footer>
+
+    <dialog id="PrivacyDialog">
+      <h2>Privacy</h2>
+      <p>
+        Op deze website wordt een beperkte hoeveelheid technische informatie
+        verwerkt. Dit zijn de diensten die er worden gebruikt en welke gegevens
+        daarbij verwerkt worden.
+      </p>
+
+      <section>
+        <h3>Github Pages</h3>
+        <p>
+          Mijn website wordt gehost via Github Pages. Bij een bezoek van deze
+          website kan Github technische gegevens, zoals het IP-adres, verwerken
+          voor beveiligingsdoeleinden.
+        </p>
+      </section>
+
+      <section>
+        <h3>Webring</h3>
+        <p>
+          Deze website gebruikt een Webring component gemaakt door mijn docent.
+          Deze component maakt verbinding met een externe server. Hierdoor
+          kunnen technische gegevens over het bezoek en het gebruik van de
+          component worden verwerkt.
+        </p>
+      </section>
+
+      <section>
+        <h3>Lettertypes</h3>
+        <p>
+          De lettertypes op de deze website worden lokaal geladen. Er wordt
+          daarom geen verbinding met Google Fonts gemaakt om de lettertypes te
+          laden.
+        </p>
+      </section>
+
+      <section>
+        <h3>Jouw keuze</h3>
+
+        <label>
+          <input type="checkbox" />
+          ik begrijp hoe mijn gegevens worden verwerkt.
+        </label>
+      </section>
+
+      <button>Sluiten</button>
+    </dialog>
   </body>
 </html>

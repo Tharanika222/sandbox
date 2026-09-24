@@ -468,20 +468,13 @@ We begonnen vandaag met een college van Hans over privacy.
 Hij heeft uitlegd over wat privacy eigenlijk is, maar ook hoe je daar rekening mee houdt en hoe sommige bedrijven daar misbruik van kunnen maken.
 Door deze college besefte ik mij meer hoeveel informatie ik eigenlijk deel wat best persoonlijk is op het web, maar ook met anderen.
 
-!notities van college!
+!notities van college! <img src="assets/notescollege.jpeg" width="350px">
+<img src="assets/notescollege1.jpeg" width="350px">
 
 Bij de opdracht van Dark Pattern Herontwerp heb ik samen met Nisha en Floortje gekeken naar de website Ticketmaster en gekeken naar welke data er wordt opgeslagen en specifiek welke dark patterns er voorkomen, hiervan hebben we wireframes getekend met een nieuw ontwerp om te zorgen dat er geen dark patterns meer zijn maar juist met duidelijkheid.
 
 <img src="assets/ticketsmaster darkpatterns.jpg" width="350px">
 <img src="assets/wireframes ticketmaster.jpg" width="350px">
-
-Human Consent Component **nog maken**
-Opdracht:
-
-Bespreek in jouw groepje welke gegevens op jouw digital garden van gebruikers verwerkt worden. Houdt daarbij in de gaten welke diensten je allemaal gebruikt. Zelfs als je alles zelf geschreven hebt zijn dat er al twee: GitHub pages hosting én het digitaaltuintje component.
-Informeren van gebruikers is een plicht die je hebt als websitemaker: Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website?
-Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10 verschillende manieren van het vragen van consent op het web.
-Denk na over een manier van werken die past binnen de layout van jouw digital garden?
 
 Ik heb vandaag mijn evaluatie gesprek gehad met Barbara om mijn voorlopige beoordeling te bespreken.
 
@@ -531,4 +524,53 @@ hw to do:
 
 Ik heb door de feedback van gisteren mijn hovers aangepast zodat ze nu goed kloppen en het een class gemaakt en gecentreerd.
 ik heb de gradient aangepast zodat de kleuren mooier zijn met de letters.
+en fontface nu ook gedownload en erin gezet.
 <img src="assets/hovergefikst.png" width="350px">
+
+Ik ben nu verder aan het gaan met de layout van mijn andere pagina die dieper ingaat op mijn persoonlijke verhaal, ik heb fotolijstjes in figma gemaakt.
+
+<img src="assets/figma fotoframes.png" width="350px">
+
+#### Human consent component
+
+Bespreek in jouw groepje welke gegevens op jouw digital garden van gebruikers verwerkt worden. Houdt daarbij in de gaten welke diensten je allemaal gebruikt. Zelfs als je alles zelf geschreven hebt zijn dat er al twee: GitHub pages hosting én het digitaaltuintje component.
+Informeren van gebruikers is een plicht die je hebt als websitemaker: Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website?
+Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10 verschillende manieren van het vragen van consent op het web.
+Denk na over een manier van werken die past binnen de layout van jouw digital garden?
+
+10 manier human consent:
+banner onderaan/ cookie banner
+modal/dialog
+volledige privacy-pagina
+instellingenpaneel
+opt-in per categorie
+checkbox
+toggle
+keuze bij eerste bezoek
+privacycentrum
+permanente privacyknop
+
+Gekozen vorm: modal/dialog
+Ik kies voor een modal/dialog omdat de gebruiker hiermee op een duidelijke manier wordt geïnformeerd voordat die een keuze maakt. De informatie en keuzes kunnen op één plek worden weergegeven. Daarnaast sluit deze vorm aan bij de kennis uit de Deep Dive over buttons, interactie en feedback. Ik wil hierbij voorkomen dat de gebruiker door de vormgeving naar één bepaalde keuze wordt gestuurd.
+
+Aanvulling: permanente privacyknop
+Naast de dialog bij het eerste bezoek voeg ik een permanente privacyknop toe. Hiermee kan de gebruiker zijn keuzes op ieder moment opnieuw bekijken en aanpassen. Ik kies hiervoor omdat toestemming niet alleen tijdens het eerste bezoek duidelijk moet zijn, maar ook later toegankelijk moet blijven.
+
+wat verzameld mijn website aan data?
+
+Hosting — GitHub Pages
+
+Mijn website wordt gehost via GitHub Pages. Wanneer iemand de website bezoekt, wordt het IP-adres door GitHub gelogd en opgeslagen voor beveiligingsdoeleinden.
+
+WeBring-component
+
+Mijn website gebruikt een WeBring-component van mijn docent. Deze component maakt verbinding met een externe server. Hierdoor kunnen technische gegevens over het bezoek en het gebruik van de component worden verwerkt.
+
+Google Fonts
+
+De website gebruikte eerst Google Fonts. Omdat de lettertypes vanaf Google-servers werden geladen, kon Google gegevens van het verzoek ontvangen. Ik host de lettertypes nu lokaal, waardoor Google Fonts niet meer nodig is.
+
+Wat ik zelf niet verzamel:
+Mijn website heeft geen account, contactformulier, nieuwsbrief of andere invoervelden waarbij bezoekers zelf persoonsgegevens aan mij doorgeven.
+
+<img src="assets/privacybutton.png" width="350px">
