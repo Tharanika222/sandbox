@@ -8,7 +8,7 @@
 
     <title>Kleding & Cultuur - Digital Garden van Tharanika</title>
     <link rel="stylesheet" href="./assets/style/normal.css" />
-
+    <script src="./assets/js/scripts.js" defer></script>
     <!-- Importeer het webring component, voeg jouw eigen domein toe in data-page -->
     <script
       data-page="[https://Tharanika.nl]"
@@ -17,18 +17,16 @@
   </head>
   <body>
     <nav>
-      <details open>
-        <summary>☰</summary>
-        <ul>
-          <li><a href="./index.html">Home</a></li>
-          <li><a href="./log.html">Onderzoek</a></li>
-          <li><a href="./research.html">Mijn verhaal</a></li>
-          <li><a href="./story.html">Verbondenheid</a></li>
-          <li>
-            <a href="./README.md">Learning Log</a>
-          </li>
-        </ul>
-      </details>
+      <button class="menu-button" type="button" onclick="openMenu()">☰</button>
+      <ul>
+        <li><a href="./index.html">Home</a></li>
+        <li><a href="./log.html">Onderzoek</a></li>
+        <li><a href="./research.html">Mijn verhaal</a></li>
+        <li><a href="./story.html">Verbondenheid</a></li>
+        <li>
+          <a href="./README.md">Learning Log</a>
+        </li>
+      </ul>
     </nav>
 
     <button
@@ -166,53 +164,76 @@
     </footer>
 
     <dialog id="PrivacyDialog">
-      <h2>Privacy</h2>
-      <p>
-        Op deze website wordt een beperkte hoeveelheid technische informatie
-        verwerkt. Dit zijn de diensten die er worden gebruikt en welke gegevens
-        daarbij verwerkt worden.
-      </p>
+      <form method="dialog">
+        <h2>Privacy</h2>
 
-      <section>
-        <h3>Github Pages</h3>
+        <h3>Noodzakelijk</h3>
+
         <p>
-          Mijn website wordt gehost via Github Pages. Bij een bezoek van deze
-          website kan Github technische gegevens, zoals het IP-adres, verwerken
-          voor beveiligingsdoeleinden.
+          <strong>GitHub Pages</strong><br />
+          Nodig om de website te hosten en kan niet worden uitgeschakeld.
         </p>
-      </section>
 
-      <section>
-        <h3>Webring</h3>
+        <h3>Optioneel</h3>
+
         <p>
-          Deze website gebruikt een Webring component gemaakt door mijn docent.
-          Deze component maakt verbinding met een externe server. Hierdoor
-          kunnen technische gegevens over het bezoek en het gebruik van de
-          component worden verwerkt.
+          <strong>Webring</strong><br />
+          Hiermee kun je andere Digital Gardens ontdekken en tussen
+          verschillende websites navigeren.
         </p>
-      </section>
 
-      <section>
-        <h3>Lettertypes</h3>
+        <h3>Jouw keuzes</h3>
+
+        <p>Webring: <span>nog geen keuze</span></p>
+
+        <button class="close-button">Sluiten</button>
+      </form>
+    </dialog>
+
+    <button commandfor="cookieModal" command="show-modal">
+      Cookie-instellingen
+    </button>
+    <dialog id="cookieModal">
+      <form method="dialog">
+        <h2>Privacy & cookies</h2>
+
         <p>
-          De lettertypes op de deze website worden lokaal geladen. Er wordt
-          daarom geen verbinding met Google Fonts gemaakt om de lettertypes te
-          laden.
+          Op deze website worden enkele diensten gebruikt. Hieronder kun je zien
+          welke noodzakelijk zijn en voor welke onderdelen je zelf een keuze
+          kunt maken.
         </p>
-      </section>
 
-      <section>
-        <h3>Jouw keuze</h3>
+        <section>
+          <h3>Noodzakelijk</h3>
 
-        <label>
-          <input type="checkbox" />
-          ik begrijp hoe mijn gegevens worden verwerkt.
-        </label>
-      </section>
+          <label>
+            <input type="checkbox" checked disabled />
+            GitHub Pages
+          </label>
 
-      <button class="close-button" commandfor="PrivacyDialog" command="close">
-        Sluiten
-      </button>
+          <p>
+            GitHub Pages is nodig om deze website te hosten en kan daarom niet
+            worden uitgeschakeld.
+          </p>
+        </section>
+
+        <section>
+          <h3>Optioneel</h3>
+
+          <label>
+            <input type="checkbox" name="webring" />
+            Webring
+          </label>
+
+          <p>
+            Met de webring kun je andere Digital Gardens ontdekken en tussen
+            verschillende websites navigeren.
+          </p>
+        </section>
+
+        <button>Opslaan</button>
+        <button>Weigeren</button>
+      </form>
     </dialog>
   </body>
 </html>
