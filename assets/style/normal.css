@@ -21,7 +21,9 @@ html {
   --text: light-dark(#29221f, #f7efe3);
   --heading: light-dark(#341732, #d6a63d);
   --accent: light-dark(#f7efe3, #1a1428);
-  --infobox-text: #29221f;
+  --infobox-text: light-dark(#341732, #ffe8a8);
+
+  scrollbar-gutter: stable;
 }
 
 body {
@@ -183,7 +185,7 @@ figure img {
 .circle1 {
   width: 30px;
   height: 30px;
-  border: 2px solid white;
+  border: 2px solid #341732;
   border-radius: 50%;
   position: absolute;
 
@@ -200,8 +202,10 @@ figure img {
 
   max-width: 250px;
   padding: 1rem;
-  background: white;
+  background: rgb(151, 99, 162);
+  border: 5px solid #341732;
   color: var(--infobox-text);
+  border-radius: 10px;
 }
 
 .circle1:hover ~ .infobox1 {
@@ -211,7 +215,7 @@ figure img {
 .circle2 {
   width: 30px;
   height: 30px;
-  border: 2px solid white;
+  border: 2px solid #341732;
   border-radius: 50%;
   position: absolute;
 
@@ -228,8 +232,10 @@ figure img {
 
   max-width: 250px;
   padding: 1rem;
-  background: white;
+  background: rgb(151, 99, 162);
+  border: 5px solid #341732;
   color: var(--infobox-text);
+  border-radius: 10px;
 }
 
 .circle2:hover ~ .infobox2 {
@@ -239,7 +245,7 @@ figure img {
 .circle3 {
   width: 30px;
   height: 30px;
-  border: 2px solid white;
+  border: 2px solid #341732;
   border-radius: 50%;
   position: absolute;
 
@@ -256,8 +262,10 @@ figure img {
 
   max-width: 250px;
   padding: 1rem;
-  background: white;
+  background: rgb(151, 99, 162);
+  border: 5px solid #341732;
   color: var(--infobox-text);
+  border-radius: 10px;
 }
 
 .circle3:hover ~ .infobox3 {
@@ -267,7 +275,7 @@ figure img {
 .circle4 {
   width: 30px;
   height: 30px;
-  border: 2px solid white;
+  border: 2px solid #341732;
   border-radius: 50%;
   position: absolute;
 
@@ -284,15 +292,23 @@ figure img {
 
   max-width: 250px;
   padding: 1rem;
-  background: white;
+  background: rgb(151, 99, 162);
+  border: 5px solid #341732;
   color: var(--infobox-text);
+  border-radius: 10px;
 }
 
 .circle4:hover ~ .infobox4 {
   visibility: visible;
 }
 
+body:has(dialog[open]) {
+  overflow: hidden; /* deepdive Sanne positions&dialogs */
+}
 .privacy-button {
+  position: fixed;
+  right: 1.25rem;
+  bottom: 1.25rem;
   font-family: "Fjalla One", sans-serif;
   background: var(--heading);
   color: var(--accent);
@@ -300,11 +316,11 @@ figure img {
   border-radius: 999px;
   padding: 0.7rem 1.2rem;
   cursor: pointer;
+}
 
-  .privacy-button:hover {
-    background: var(--accent);
-    color: var(--heading);
-  }
+.privacy-button:hover {
+  background: var(--accent);
+  color: var(--heading);
 }
 
 .close-button {
@@ -315,10 +331,10 @@ figure img {
   border-radius: 999px;
   padding: 0.7rem 1.4rem;
   cursor: pointer;
+}
 
-  .close-button:hover {
-    background: var(--background);
-  }
+.close-button:hover {
+  background: var(--background);
 }
 
 dialog {
@@ -342,9 +358,46 @@ dialog {
 dialog::backdrop {
   background: rgb(0, 0, 0 / 40%);
   backdrop-filter: blur(6px);
+  overflow: hidden;
 }
 
 /* page van mijn verhaal */
 .mijn-verhaal-notitie {
   font-family: "Caveat", cursive;
+  font-weight: 500;
+}
+
+.foto-verhaal {
+  position: relative;
+  min-height: 500px;
+  margin-block: 4rem;
+}
+
+.goud {
+  position: absolute;
+  left: 800px;
+  top: 100px;
+  width: 300px;
+  transform: rotate(-3deg);
+}
+
+.polaroid {
+  position: absolute;
+  left: 650px;
+  top: 650px;
+  width: 400px;
+}
+
+.rood {
+  position: absolute;
+  left: 50px;
+  top: 500px;
+}
+
+.blauw {
+  position: absolute;
+}
+
+.foto-tekst {
+  font-family: "Caveat", sans-serif;
 }

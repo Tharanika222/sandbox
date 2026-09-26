@@ -574,3 +574,27 @@ Wat ik zelf niet verzamel:
 Mijn website heeft geen account, contactformulier, nieuwsbrief of andere invoervelden waarbij bezoekers zelf persoonsgegevens aan mij doorgeven.
 
 <img src="assets/privacybutton.png" width="350px">
+
+#### 25 september
+
+validator html structuur
+
+<img src="assets/validator.w3.png" width="350px">
+
+checkout: wat heb je afgelopen week allemaal geleerd?
+
+- dark patterns
+- privacy
+- cookies popup/ human consent component
+- html structuur en compliance html
+- buttons & javascript
+
+**deepdive Buttons&dialogs**
+
+<img src="/assets/dingenopplekzetten.png" width="350px">
+<img src="/assets/modal&modeless.png" width="350px">
+<img src="/assets/dialogsanimeren.png" width="350px">
+
+ik heb nu ook door de deepdive mijn privacy button position fixed gemaakt zodat hij op het scherm blijft staan ook als je naar beneden scrollt.
+
+<img src="/assets/positionfixed.png" width="350px">
