@@ -52,8 +52,9 @@ nav ul {
   flex-wrap: wrap;
 }
 
-nav summary {
-  display: none; /* voor mobiel */
+.menu-button,
+.close-menu-button {
+  display: none;
 }
 
 nav a {
@@ -113,7 +114,8 @@ main {
 }
 
 @media (width <= 700px) {
-  nav summary {
+  .menu-button,
+  .close-menu-button {
     display: block;
   }
 
@@ -123,7 +125,7 @@ main {
     align-items: center;
   }
 
-  nav details[open] ul {
+  body.menu-open nav ul {
     display: flex;
   }
 }
