@@ -12,31 +12,40 @@
       href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Fjalla+One&display=swap"
       rel="stylesheet"
     />
-    <title>Mijn verhaal - Kleding & Cultuur</title>
+    <title>Mijn verhaal - Kleding & Cultuur</title><script
+     src="./assets/js/scripts.js" defer></script>
 
     <link rel="stylesheet" href="./assets/style/normal.css" />
   </head>
+   <nav>
+      <button class="menu-button" type="button" onclick="toggleMenu()">
+        ☶
+      </button>
 
-  <body>
-    <nav>
-      <details open>
-        <summary>☰</summary>
-        <ul>
-          <li><a href="./index.html">Home</a></li>
-          <li><a href="/log.html">Onderzoek</a></li>
-          <li><a href="./research.html">Mijn verhaal</a></li>
-          <li><a href="/">Verbondenheid</a></li>
-          <li>
-            <a href="./README.md">Learning Log</a>
-          </li>
-        </ul>
-      </details>
+      <ul>
+        <li><a href="./index.html">Home</a></li>
+        <li><a href="./log.html">Onderzoek</a></li>
+        <li><a href="./research.html">Mijn verhaal</a></li>
+        <li><a href="./story.html">Verbondenheid</a></li>
+        <li>
+          <a href="./README.md">Learning Log</a>
+        </li>
+      </ul>
     </nav>
 
-    <main>
+    <button
+      class="privacy-button"
+      commandfor="PrivacyDialog"
+      command="show-modal"
+    >
+      Privacy
+    </button>
+
+    <main class="mijn-verhaal">
       <h1>Mijn verhaal</h1>
 
-      <section>
+      <section class="verhaal-blok tekst-links">
+        <div class="verhaal-tekst">
         <h2>Waarom dit onderwerp belangrijk is voor mij</h2>
 
         <p>
@@ -55,16 +64,23 @@
           uit mijn cultuur te dragen, kreeg ik het gevoel dat ik die verbinding
           met haar en met mijn achtergrond weer een beetje terugvond.
         </p>
+        </div>
       </section>
 
-      <section class="foto-verhaal goud">
+
+      <figure class="foto-verhaal goud">
         <img src="./assets/fotolijstje-goud.png" alt="Mijn familie" />
         <p class="foto-tekst">Foto met mijn familie</p>
+      </figure>
       </section>
 
-      <section>
-        <h2>Identiteit en ergens bij horen</h2>
-
+      <section class="verhaal-blok foto-links">
+        <figure class="foto-verhaal rood">
+       <img src="./assets/rode-foto.png" alt="Mijn ouders" />
+    <figcaption class="foto-tekst">Mijn ouders</figcaption>
+      </figure> 
+      <div class="verhaal-tekst">
+      <h2>Identiteit en ergens bij horen</h2>
         <p>
           Doordat ik niet bij mijn ouders ben opgegroeid, ben ik heel Nederlands
           opgevoed. Tegelijkertijd merkte ik dat mijn uiterlijk en achtergrond
@@ -75,16 +91,13 @@
           juist te Nederlands.
         </p>
 
-        <section class="foto-verhaal rood">
-          <img src="./assets/rode-foto.png" alt="Mijn ouders" />
-          <p class="foto-tekst">Mijn ouders</p>
-        </section>
         <p>
           Feestdagen en culturele momenten waren vaak momenten waarop ik die
           verbinding wel sterk voelde. Dan merkte ik weer hoeveel betekenis mijn
           cultuur voor mij heeft en begon ik mijn achtergrond steeds meer te
           omarmen.
         </p>
+      </div>
       </section>
 
       <section class="foto-verhaal polaroid">
@@ -101,11 +114,7 @@
           reizen of migreren delen van hun cultuur mee naar een nieuwe omgeving.
           Dat zie je terug in bijvoorbeeld kleding, eten en tradities.
         </p>
-
-        <section class="foto-verhaal postzegel">
-          <img src="./assets/postzegel.png" alt="Sri Lanka" />
-          <p class="foto-tekst">Sri Lanka</p>
-        </section>
+        </div>
 
         <p>
           Wat mij hierin vooral opvalt, is hoeveel overeenkomsten er tussen
@@ -115,6 +124,10 @@
           meer gaan interesseren in wat culturen met elkaar gemeen hebben, in
           plaats van alleen in wat ze van elkaar onderscheidt.
         </p>
+         <figure class="foto-verhaal postzegel">
+          <img src="./assets/postzegel.png" alt="Sri Lanka" />
+          <figcaption class="foto-tekst">Sri Lanka</figcaption>
+        </figure>
       </section>
 
       <section class="foto-verhaal blauwe">
@@ -122,7 +135,7 @@
         <p class="foto-tekst">traditionele kleding</p>
       </section>
 
-      <section>
+      <div class="verhaal-tekst">
         <h2>Kleding als verbinding</h2>
         <p>
           We zijn allemaal gevormd door verschillende plekken, mensen en
@@ -133,9 +146,84 @@
           hoort, vind ik het interessanter om te kijken naar wat ons met elkaar
           verbindt.
         </p>
+      </div>
       </section>
     </main>
 
     <footer></footer>
+
+     <dialog id="PrivacyDialog">
+      <form method="dialog">
+        <h2>Privacy</h2>
+
+        <h3>Noodzakelijk</h3>
+
+        <p>
+          <strong>GitHub Pages</strong><br />
+          Nodig om de website te hosten en kan niet worden uitgeschakeld.
+        </p>
+
+        <h3>Optioneel</h3>
+
+        <p>
+          <strong>Webring</strong><br />
+          Hiermee kun je andere Digital Gardens ontdekken en tussen
+          verschillende websites navigeren.
+        </p>
+
+        <h3>Jouw keuzes</h3>
+
+        <p>Webring: <span>nog geen keuze</span></p>
+
+        <button class="close-button">Sluiten</button>
+      </form>
+    </dialog>
+
+    <button commandfor="cookieModal" command="show-modal">
+      Cookie-instellingen
+    </button>
+    <dialog id="cookieModal">
+      <form method="dialog">
+        <h2>Privacy & cookies</h2>
+
+        <p>
+          Op deze website worden enkele diensten gebruikt. Hieronder kun je zien
+          welke noodzakelijk zijn en voor welke onderdelen je zelf een keuze
+          kunt maken.
+        </p>
+
+        <section>
+          <h3>Noodzakelijk</h3>
+
+          <label>
+            <input type="checkbox" checked disabled />
+            GitHub Pages
+          </label>
+
+          <p>
+            GitHub Pages is nodig om deze website te hosten en kan daarom niet
+            worden uitgeschakeld.
+          </p>
+        </section>
+
+        <section>
+          <h3>Optioneel</h3>
+
+          <label>
+            <input type="checkbox" name="webring" />
+            Webring
+          </label>
+
+          <p>
+            Met de webring kun je andere Digital Gardens ontdekken en tussen
+            verschillende websites navigeren.
+          </p>
+        </section>
+
+        <button>Opslaan</button>
+        <button>Weigeren</button>
+      </form>
+    </dialog>
   </body>
 </html>
+

@@ -55,6 +55,19 @@ nav ul {
 .menu-button,
 .close-menu-button {
   display: none;
+  background: var(--heading);
+  color: var(--accent);
+  border: 2px solid var(--heading);
+  border-radius: 1rem;
+  width: 3rem;
+  height: 3rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.menu-button:hover {
+  background: var(--accent);
+  color: var(--heading);
 }
 
 nav a {
@@ -370,36 +383,28 @@ dialog::backdrop {
 }
 
 .foto-verhaal {
-  position: relative;
-  min-height: 500px;
-  margin-block: 4rem;
+  grid-area: foto;
+  margin: 0;
+}
+.verhaal-blok {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: center;
+  margin-block: 6rem;
 }
 
-.goud {
-  position: absolute;
-  left: 800px;
-  top: 100px;
-  width: 300px;
-  transform: rotate(-3deg);
+.tekst-links {
+  grid-template-areas: "tekst foto";
 }
 
-.polaroid {
-  position: absolute;
-  left: 650px;
-  top: 650px;
-  width: 400px;
+.foto-links {
+  grid-template-areas: "foto tekst";
 }
 
-.rood {
-  position: absolute;
-  left: 50px;
-  top: 500px;
+.verhaal-tekst {
+  grid-area: tekst;
 }
-
-.blauw {
-  position: absolute;
-}
-
 .foto-tekst {
   font-family: "Caveat", sans-serif;
 }

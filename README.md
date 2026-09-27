@@ -584,17 +584,30 @@ validator html structuur
 checkout: wat heb je afgelopen week allemaal geleerd?
 
 - dark patterns
-- privacy
+- privacy wet
 - cookies popup/ human consent component
 - html structuur en compliance html
 - buttons & javascript
+  Afgelopen week heb ik geleerd over dark patterns, privacy en privacywetgeving, cookies, de Human Consent Component, HTML-structuur en hoe ik deze kan controleren. Ook heb ik voor het eerst gewerkt met buttons en JavaScript. Ik begin hierdoor steeds beter te begrijpen hoe de structuur en techniek achter een website samenwerken en hoe belangrijk privacy en bewuste interacties daarbij zijn.
 
 **deepdive Buttons&dialogs**
 
-<img src="/assets/dingenopplekzetten.png" width="350px">
-<img src="/assets/modal&modeless.png" width="350px">
-<img src="/assets/dialogsanimeren.png" width="350px">
+<img src="assets/dingenopplekzetten.png" width="350px">
+<img src="assets/modal&modeless.png" width="350px">
+<img src="assets/dialogsanimeren.png" width="350px">
 
 ik heb nu ook door de deepdive mijn privacy button position fixed gemaakt zodat hij op het scherm blijft staan ook als je naar beneden scrollt.
 
-<img src="/assets/positionfixed.png" width="350px">
+<img src="assets/positionfixed.png" width="350px">
+
+#### 26&27 september 2026
+
+Ik heb nu eindelijk de summary aangepast naar een echte button dus nu past het goed op mijn website.
+<img src="assets/navigatie button.png" width="350px">
+
+ik heb de artikelen over AI en de DSA gelezen en aantekeningen gemaakt.
+<img src="assets/notities ai artikel.png" width="350px">
+
+Ik ben nu ook bezig met de pagina van "mijn verhaal" om de afbeeldingen goed te zetten, maar ik werkte eerst met position maar omdat ik met meerdere afbeeldingen werk en met tekst bedacht ik dat het beter is om gridareas te gebruiken dus daar ben ik nu mee bezig.
+Ik heb een schets gemaakt van hoe ik het ongeveer zou willen.
+<img src="assets/schets gridareas.jpeg" width="350px">
