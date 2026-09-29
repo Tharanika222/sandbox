@@ -612,19 +612,48 @@ Ik ben nu ook bezig met de pagina van "mijn verhaal" om de afbeeldingen goed te 
 Ik heb een schets gemaakt van hoe ik het ongeveer zou willen.
 <img src="assets/schets gridareas.jpeg" width="350px">
 
-#### 28 september
+#### 28 september 2026
 
-biweekly vragen"
+biweekly vragen
+
 <img src="assets/biweekly geek.jpg" width="350px">
 <img src="assets/biweekly geek2.jpg" width="350px">
 
+We hebben het in de les gehad over toegankelijkheid, wat belangrijk is bij een website en de wettelijke verplichtingen die er zijn voor mensen met een beperking.
+<img src="assets/aantekeningtoegankelijkheid.png" width="350px">
+
+We gingen ook kijken hoe het is om zulke beperkingen te hebben en hoe je dan bijvoorbeeld op een website kan navigeren, wat eigenlijk heel moeilijk is. Hier denk je zelf niet zo snel aan maar voor iemand met een beperking kan het heel vervelend zijn.
+
+<img src="assets/speakreader.png" width="350px">
+<img src="assets/beperkingen.png" width="350px">
+<img src="assets/toets .png" width="350px">
+
 checkout vragen:
 
-Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
-Hij houdt zich niet bezig met wat het is, de letterlijke definitie meer meer in de zin van wat je er allemaal mee kan doen.
-Wat voor type beperkingen hebben invloed op het gebruiken van websites?
-visueel, motorisch, cognitief, en auditief.
-Noem drie manieren om door een website te navigeren met jouw screenreader.
-touchscreen/spraak
-met tab
-audio
+- Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+  Hij houdt zich niet bezig met wat het is, de letterlijke definitie maar meer in de zin van wat je er allemaal mee kan doen.
+- Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+  visueel, motorisch, cognitief, en auditief.
+- Noem drie manieren om door een website te navigeren met jouw screenreader.
+  Via headers
+  regel per regel met de pijltjes
+  met de linkjes of sneltoetsen
+
+#### 29 september 2026
+
+Vandaag heb ik eerst de Deep Dive over meer interactie met HTML en CSS afgerond. Dit ging eigenlijk beter dan ik had verwacht. Ik dacht van tevoren dat het lastiger zou zijn, omdat ik veel dingen nog niet uit mijn hoofd weet. Tijdens de Deep Dive merkte ik wel dat het nadenken over wat er moet gebeuren en hoe ik iets kan oplossen steeds makkelijker begint te worden. Ik hoef de code dus niet altijd direct uit mijn hoofd te kennen om te kunnen bedenken welke richting ik op moet. Dat vond ik dus wel een goed teken.
+<img src="assets/deepdivevas.png" width="350px">
+<img src="assets/deepdivevasil.png" width="350px">
+<img src="assets/deepdivevasilis.png" width="350px">
+
+Daarna ben ik verdergegaan met mijn website. Ik heb vooral gewerkt aan de Grid Areas op de pagina van mijn verhaal. Hier ben ik best lang mee bezig geweest, omdat ik mijn eerdere opzet een beetje had verknald en daardoor een deel opnieuw moest opbouwen. Uiteindelijk zijn de Grid Areas nu wel goed gelukt. Op desktop ziet de indeling er goed uit. Op mobiel heb ik de layout aangepast naar één kolom, maar dit ziet er nog niet helemaal netjes uit. Hier moet ik dus nog verder aan werken.
+
+<img src="assets/gridareaseindelijk.png" width="350px">
+
+Daarna ben ik begonnen met de toegankelijkheid van mijn website. Dit vind ik best lastig, omdat ik zelf nog steeds aan het leren ben hoe ik überhaupt een website goed moet bouwen. Nu moet ik daarnaast ook rekening houden met verschillende toegankelijkheidsregels en manieren waarop mensen een website kunnen gebruiken. Bij sommige problemen wist ik daarom niet meteen hoe ik ze moest oplossen.
+
+Ik heb onder andere mijn website getest met het toetsenbord en met een screenreader. Ik merkte dat een groot deel van mijn website eigenlijk al goed met het toetsenbord te bedienen is. Omdat mijn website nog relatief klein is, was het ook makkelijk om door de verschillende onderdelen te navigeren.
+
+Een probleem waar ik nog tegenaan loop is de interactieve kledingafbeelding met de hover-elementen. Met de Tab-toets kan ik de ronde knoppen niet goed bereiken. Ik denk dat dit te maken heeft met het feit dat ik oorspronkelijk div-elementen had gebruikt in plaats van echte interactieve elementen zoals buttons. Ik heb geprobeerd dit aan te passen, maar het werkt nog steeds niet helemaal zoals ik wil. Ik weet daarom nog niet precies hoe ik dit probleem moet oplossen. Voor nu laat ik dit even liggen en kom ik hier later op terug.
+
+**Ik merk dat ik steeds beter begin te begrijpen hoe ik problemen in mijn code kan aanpakken. Ik hoef niet alles uit mijn hoofd te kennen om zelf tot een oplossing te kunnen komen. Tegelijkertijd merk ik dat toegankelijkheid nog een lastig onderdeel voor mij is en dat ik daar nog meer mee moet oefenen.**
