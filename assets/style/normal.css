@@ -402,6 +402,20 @@ dialog::backdrop {
   margin-block: 6rem;
 }
 
+@media (width <= 700px) {
+  .verhaal-blok {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "tekst"
+      "foto";
+    gap: 2rem;
+  }
+
+  .tekst-links-binnen {
+    padding-left: 0;
+  }
+}
+
 .tekst-links .foto-verhaal,
 .foto-links .foto-verhaal {
   grid-area: foto;
