@@ -223,7 +223,8 @@ figure img {
   border-radius: 10px;
 }
 
-.circle1:hover ~ .infobox1 {
+.circle1:hover ~ .infobox1,
+.circle1:focus ~ .infobox1 {
   visibility: visible;
 }
 
@@ -253,7 +254,8 @@ figure img {
   border-radius: 10px;
 }
 
-.circle2:hover ~ .infobox2 {
+.circle2:hover ~ .infobox2,
+.circle2:focus ~ .infobox2 {
   visibility: visible;
 }
 
@@ -283,7 +285,8 @@ figure img {
   border-radius: 10px;
 }
 
-.circle3:hover ~ .infobox3 {
+.circle3:hover ~ .infobox3,
+.circle3:focus ~ .infobox3 {
   visibility: visible;
 }
 
@@ -313,8 +316,18 @@ figure img {
   border-radius: 10px;
 }
 
-.circle4:hover ~ .infobox4 {
+.circle4:hover ~ .infobox4,
+.circle4:focus ~ .infobox4 {
   visibility: visible;
+}
+
+.circle1,
+.circle2,
+.circle3,
+.circle4 {
+  appearance: none;
+  background: transparent;
+  padding: 0;
 }
 
 body:has(dialog[open]) {
