@@ -377,14 +377,22 @@ dialog::backdrop {
 }
 
 /* page van mijn verhaal */
+
+.mijn-verhaal h1 {
+  text-align: center;
+}
 .mijn-verhaal-notitie {
   font-family: "Caveat", cursive;
   font-weight: 500;
 }
 
 .foto-verhaal {
-  grid-area: foto;
   margin: 0;
+}
+
+.foto-verhaal img {
+  max-width: 100%;
+  height: auto;
 }
 .verhaal-blok {
   display: grid;
@@ -392,6 +400,11 @@ dialog::backdrop {
   gap: 3rem;
   align-items: center;
   margin-block: 6rem;
+}
+
+.tekst-links .foto-verhaal,
+.foto-links .foto-verhaal {
+  grid-area: foto;
 }
 
 .tekst-links {
@@ -405,6 +418,44 @@ dialog::backdrop {
 .verhaal-tekst {
   grid-area: tekst;
 }
+
+.tekst-links-binnen {
+  padding-left: 4rem;
+}
 .foto-tekst {
   font-family: "Caveat", sans-serif;
+}
+
+.goud img {
+  width: 400px;
+  display: block;
+  margin-inline: auto;
+  transform: rotate(5deg);
+}
+
+.rood img {
+  width: 300px;
+  display: block;
+  margin-inline: auto;
+  transform: rotate(-3deg);
+}
+
+.polaroid img {
+  width: 500px;
+  display: block;
+  margin-inline: auto;
+  transform: rotate(1deg);
+}
+.postzegel img {
+  display: block;
+  margin-inline: auto;
+  width: 300px;
+  transform: rotate(15deg);
+}
+
+.blauwe img {
+  width: 400px;
+  display: block;
+  margin-inline: auto;
+  transform: rotate(-2deg);
 }

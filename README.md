@@ -611,3 +611,20 @@ ik heb de artikelen over AI en de DSA gelezen en aantekeningen gemaakt.
 Ik ben nu ook bezig met de pagina van "mijn verhaal" om de afbeeldingen goed te zetten, maar ik werkte eerst met position maar omdat ik met meerdere afbeeldingen werk en met tekst bedacht ik dat het beter is om gridareas te gebruiken dus daar ben ik nu mee bezig.
 Ik heb een schets gemaakt van hoe ik het ongeveer zou willen.
 <img src="assets/schets gridareas.jpeg" width="350px">
+
+#### 28 september
+
+biweekly vragen"
+<img src="assets/biweekly geek.jpg" width="350px">
+<img src="assets/biweekly geek2.jpg" width="350px">
+
+checkout vragen:
+
+Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+Hij houdt zich niet bezig met wat het is, de letterlijke definitie meer meer in de zin van wat je er allemaal mee kan doen.
+Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+visueel, motorisch, cognitief, en auditief.
+Noem drie manieren om door een website te navigeren met jouw screenreader.
+touchscreen/spraak
+met tab
+audio
