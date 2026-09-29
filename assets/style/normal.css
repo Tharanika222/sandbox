@@ -411,6 +411,10 @@ dialog::backdrop {
     gap: 2rem;
   }
 
+  .verhaal-tekst {
+    width: 100%;
+  }
+
   .tekst-links-binnen {
     padding-left: 0;
   }
