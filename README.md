@@ -657,3 +657,95 @@ Ik heb onder andere mijn website getest met het toetsenbord en met een screenrea
 Een probleem waar ik nog tegenaan loop is de interactieve kledingafbeelding met de hover-elementen. Met de Tab-toets kan ik de ronde knoppen niet goed bereiken. Ik denk dat dit te maken heeft met het feit dat ik oorspronkelijk div-elementen had gebruikt in plaats van echte interactieve elementen zoals buttons. Ik heb geprobeerd dit aan te passen, maar het werkt nog steeds niet helemaal zoals ik wil. Ik weet daarom nog niet precies hoe ik dit probleem moet oplossen. Voor nu laat ik dit even liggen en kom ik hier later op terug.
 
 **Ik merk dat ik steeds beter begin te begrijpen hoe ik problemen in mijn code kan aanpakken. Ik hoef niet alles uit mijn hoofd te kennen om zelf tot een oplossing te kunnen komen. Tegelijkertijd merk ik dat toegankelijkheid nog een lastig onderdeel voor mij is en dat ik daar nog meer mee moet oefenen.**
+
+#### 30 september 2026
+
+Ik ben vandaag niet naar school geweest omdat ik ziek was dus heb ik thuis de opdrachten gedaan en getest met mijn vriend.
+
+**Screenreader-test**
+
+<img src="assets/speakreadernav.png" width="350px">
+<img src="assets/speakreader.png" width="350px">
+
+Ik heb mijn website samen met mijn vriend getest met een screenreader. Hiervoor heb ik mijn spiekbrief gebruikt om door de website te navigeren.
+
+Headings
+De headings worden goed herkend door de screenreader. Ze staan in de juiste volgorde en de structuur van de pagina is hierdoor duidelijk. De H1 en H2-kopjes worden goed aangegeven.
+
+Navigatie en links
+De navigatie werkt goed met de screenreader. De links worden herkend en de namen van de links worden duidelijk voorgelezen. Hierdoor is het duidelijk waar de verschillende links naartoe leiden.
+
+Buttons
+Ook de buttons worden goed herkend. De screenreader geeft onder andere de buttons Privacy en Cookie-instellingen duidelijk aan.
+
+Interactief kledingstuk
+Het interactieve kledingstuk werkt nog niet goed met de screenreader. De interactieve punten op het kledingstuk worden niet als interactieve elementen herkend en zijn daardoor niet via de screenreader te gebruiken. Dit is een verbeterpunt waar ik nog naar moet kijken.
+
+Conclusie
+De belangrijkste structuur en navigatie van mijn website zijn goed te gebruiken met een screenreader. Vooral de headings, links en buttons worden goed herkend. Het interactieve kledingstuk is op dit moment het belangrijkste toegankelijkheidsprobleem.
+
+**Toetsenbordtest**
+
+<img src="assets/tabbar.png" width="350px">
+
+Daarna heb ik mijn website alleen met het toetsenbord getest. Met de Tab-toets kan ik alle interactieve elementen bereiken. De buttons, navigatie en ook het interactieve kledingstuk zijn bereikbaar. De volgorde waarin ik door de website ga is logisch.
+
+Ook kan ik de Privacy-dialog en Cookie-instellingen openen en de opties hierin aanpassen. Ik kom tijdens het navigeren nergens vast te zitten.
+
+Een klein verbeterpunt dat ik tijdens de test ontdekte is de focus state. Bij het navigeren met Tab wordt nu nog de standaard blauwe focuskleur van de browser weergegeven. Ik wil deze focus state aanpassen zodat deze beter aansluit bij de rest van mijn website en duidelijk zichtbaar blijft.
+
+Conclusie: de website is met alleen het toetsenbord goed te navigeren. De focus styling kan nog verbeterd worden.
+
+- Kleurcontrast test: De gebruikte kleurcombinaties zijn getest met een contrast ratio tool. De geteste combinaties voldoen aan WCAG AA en AAA. Ook bij verschillende vormen van kleurenblindheid blijft de tekst leesbaar.
+
+<img src="assets/colorcontrast.png" width="350px">
+
+- Colorblind test: Ik heb de website getest met verschillende vormen van kleurenblindheid. De kleuren veranderen zichtbaar, maar de tekst blijft leesbaar en de afbeeldingen blijven herkenbaar. De website gebruikt kleur niet als enige manier om informatie over te brengen.
+
+<img src="assets/kleurenblind.png" width="350px">
+
+<img src="assets/WCAGchecklist.png" width="350px">
+
+**Verbeterpunten die uit de test kwamen**
+
+1. Focus state → eigen kleur/styling geven in plaats van de standaard blauwe browserstijl.
+2. Interactief kledingstuk op mobiel → infoboxen komen buiten de viewport terecht.
+3. Skip link → ontbreekt momenteel.
+4. Links die in een nieuw tabblad openen → niet aangegeven.
+5. High-contrast mode → nog testen.
+6. Afbeeldingen met tekst → nog controleren of de tekst in de afbeelding ook inhoudelijk belangrijk is.
+7. Landscape → werkt, maar heeft witte ruimtes aan de zijkanten.
+
+checkout:
+
+1. Waar staat WCAG en A11y voor?
+   WCAG staat voor Web Content Accessibility Guidelines. Dit zijn richtlijnen voor het toegankelijk maken van websites en digitale content.
+
+A11y is een afkorting voor accessibility. Het A11y Project maakt toegankelijkheidsrichtlijnen onder andere overzichtelijker en praktischer door ze in een checklist te zetten.
+
+2. Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
+   k vind het werken met een screenreader lastiger dan een website alleen met een toetsenbord bedienen. Met mijn toetsenbord gebruik ik automatisch de Tab-toets en pijltjestoetsen om door een website te navigeren. Bij een screenreader zijn de bediening en sneltoetsen anders en moet ik vaak meerdere toetsen tegelijk indrukken. Daardoor ga ik soms per ongeluk naar het verkeerde onderdeel.
+
+Ik moet daarom vooral nog oefenen met de bediening en sneltoetsen van de screenreader en het navigeren door verschillende soorten content.
+
+3. Met welke beperking rekening houden vind je het meest lastig?
+   Ik vind het lastig om één beperking aan te wijzen, omdat iedere beperking weer andere aandachtspunten heeft. Vooral het bedenken hoe iemand mijn interactieve ontwerp kan gebruiken wanneer diegene een andere manier van navigeren nodig heeft, vind ik soms lastig.
+
+Door de tests ben ik er wel achter gekomen dat toegankelijkheid niet alleen gaat over hoe iets eruitziet, maar ook over hoe iemand door een website kan navigeren en informatie kan begrijpen. 4. Vind je dat je beperkt wordt in wat je kunt ontwerpen?
+Of heb je al manieren gevonden om vanuit een solide basis - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
+
+Ik denk wel dat je moet accepteren dat je niet voor iedereen een website perfect toegankelijk kunt maken. Het gaat er voor mij vooral om dat je vanuit een goede, toegankelijke basis ontwerpt en vervolgens bewuste keuzes maakt over de extra's die je toevoegt.
+
+to do's
+Focus state aanpassen
+Interactief kledingstuk op mobiel fixen
+infobox mag niet buiten viewport vallen
+geen horizontale overflow wanneer je erop tikt
+Kijken of het interactieve kledingstuk ook met screenreader goed werkt
+Eventueel skip link overwegen
+Controleren of afbeeldingen met tekst een goede alt hebben
+
+Website opruimen
+Bronnen op je website
+Verbondenheid uitbreiden
+onderzoek/bronnen
