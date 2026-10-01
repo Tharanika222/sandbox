@@ -107,7 +107,7 @@ we hebben in de les artikels gelezen en geanalyseerd over wat een digital garden
 We hebben ook websites vergeleken met elkaar, en gerangschikt hoe "webby" het is.
 of het alle vakjes aanvinkt.
 
-<img src="assets/website rangschikking.png" width="500">
+<img src="assets/website-rangschikking.png" width="500">
 <img src="assets/website-analyse.png" width="500">
 
 - **Vanuit de inventarisatie: Wat zou je zelf willen maken? Heb je dingen gezien die je nog niet kan, maar wel interessant vindt in de websites die je bekeken hebt?**
@@ -247,7 +247,7 @@ gradients en animations snap ik nu ook, wel nog ingewikkeld maar als ik oefen ko
 <img src="assets/spel.png" width="500">
 <img src="assets/RGB.png" width="500">
 <img src="assets/gradient" width="500">
-<img src="assets/vlaggen namaken.png" width="500">
+<img src="assets/vlaggen-namaken.png" width="500">
 <img src="assets/gradient animation.png" width="500">
 
 #### 11 september 2026
@@ -270,8 +270,8 @@ Het was wel ingewikkeld de oefeningen maar ik snap het wel.
 Ik heb wel nog moeite met code typen uit mijn hoofd, want ik snap de code vaak wel maar als ik dus zelf moet typen wat het moet zijn en de volgorde dan lukt het vaak niet. Ik hoop dat met oefenen dit probleem weggaat.
 
 <img src="assets/grids.png" width="500">
-<img src="assets/spel grids.png" width="500">
-<img src="assets/vis grids opdracht.png" width="500">
+<img src="assets/spel-grids.png" width="500">
+<img src="assets/vis-grids-opdracht.png" width="500">
 
 #### 12 september 2026 - huiswerk
 
@@ -473,8 +473,8 @@ Door deze college besefte ik mij meer hoeveel informatie ik eigenlijk deel wat b
 
 Bij de opdracht van Dark Pattern Herontwerp heb ik samen met Nisha en Floortje gekeken naar de website Ticketmaster en gekeken naar welke data er wordt opgeslagen en specifiek welke dark patterns er voorkomen, hiervan hebben we wireframes getekend met een nieuw ontwerp om te zorgen dat er geen dark patterns meer zijn maar juist met duidelijkheid.
 
-<img src="assets/ticketsmaster darkpatterns.jpg" width="350px">
-<img src="assets/wireframes ticketmaster.jpg" width="350px">
+<img src="assets/ticketsmaster-darkpatterns.jpg" width="350px">
+<img src="assets/wireframes-ticketmaster.jpg" width="350px">
 
 Ik heb vandaag mijn evaluatie gesprek gehad met Barbara om mijn voorlopige beoordeling te bespreken.
 
@@ -626,7 +626,7 @@ We gingen ook kijken hoe het is om zulke beperkingen te hebben en hoe je dan bij
 
 <img src="assets/speakreader.png" width="350px">
 <img src="assets/beperkingen.png" width="350px">
-<img src="assets/toets .png" width="350px">
+<img src="assets/toets.png" width="350px">
 
 checkout vragen:
 
@@ -739,15 +739,16 @@ Of heb je al manieren gevonden om vanuit een solide basis - die voor iedereen to
 Ik denk wel dat je moet accepteren dat je niet voor iedereen een website perfect toegankelijk kunt maken. Het gaat er voor mij vooral om dat je vanuit een goede, toegankelijke basis ontwerpt en vervolgens bewuste keuzes maakt over de extra's die je toevoegt.
 
 to do's
-Focus state aanpassen
-Interactief kledingstuk op mobiel fixen
-infobox mag niet buiten viewport vallen
+Focus state aanpassen / done
+infobox mag niet buiten viewport vallen / geprobeerd, werkt nog niet
 geen horizontale overflow wanneer je erop tikt
 Kijken of het interactieve kledingstuk ook met screenreader goed werkt
 Eventueel skip link overwegen
-Controleren of afbeeldingen met tekst een goede alt hebben
+Controleren of afbeeldingen met tekst een goede alt hebben / done
 
 Website opruimen
 Bronnen op je website
 Verbondenheid uitbreiden
 onderzoek/bronnen
+
+#### 1 oktober 2026

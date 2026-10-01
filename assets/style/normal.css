@@ -379,6 +379,21 @@ body:has(dialog[open]) {
   background: var(--background);
 }
 
+.cookie-button {
+  font-family: "Fjalla One", sans-serif;
+  background: var(--heading);
+  color: var(--accent);
+  border: 2px solid var(--accent);
+  border-radius: 999px;
+  padding: 0.7rem 1.2rem;
+  cursor: pointer;
+}
+
+.cookie-button:hover {
+  background: var(--accent);
+  color: var(--heading);
+}
+
 dialog {
   max-width: 30em;
   padding: 2rem;

@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Tharanika Balasingam" />
+    <meta name="color-scheme" content="dark light" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Fjalla+One&display=swap"
+      rel="stylesheet"
+    />
+    <title>Verbondenheid - Kleding & Cultuur</title>
+    <script src="./assets/js/scripts.js" defer></script>
+
+    <link rel="stylesheet" href="./assets/style/normal.css" />
+  </head>
+  <body>
+    <nav>
+      <button class="menu-button" type="button" onclick="toggleMenu()">
+        ☶
+      </button>
+
+      <ul>
+        <li><a href="./index.html">Home</a></li>
+        <li><a href="./log.html">Onderzoek</a></li>
+        <li><a href="./research.html">Mijn verhaal</a></li>
+        <li><a href="./story.html">Verbondenheid</a></li>
+        <li>
+          <a href="./README.md">Learning Log</a>
+        </li>
+      </ul>
+    </nav>
+
+    <button
+      class="privacy-button"
+      commandfor="cookieModal"
+      command="show-modal"
+    >
+      Privacy
+    </button>
+
+    <main>
+      <h1>Kleding & verbondenheid</h1>
+
+      <section>
+        <h2>Kleding als verbinding</h2>
+        <p>
+          Traditionele kleding komt vaak voort uit een lange geschiedenis.
+          Daardoor kan kleding binnen families van generatie op generatie worden
+          doorgegeven. Kinderen en kleinkinderen dragen dezelfde tradities,
+          waardoor de kleding verbonden blijft met de cultuur.
+        </p>
+
+        <p>
+          Ook wanneer mensen ver van hun familie of hun oorspronkelijke
+          culturele omgeving wonen, kan het dragen van traditionele kleding
+          helpen om die cultuur bij zich te houden. Kleding kan zo een
+          herinnering zijn aan familie, afkomst en tradities.
+        </p>
+      </section>
+
+      <section>
+        <h2>Wat culturen met elkaar gemeen hebben</h2>
+
+        <h3>Bijzondere momenten</h3>
+        <p>
+          In verschillende culturen wordt traditionele kleding gedragen tijdens
+          bijzondere momenten, zoals bruiloften, feesten en andere vieringen.
+          Hierdoor wordt kleding onderdeel van belangrijke herinneringen en
+          gebeurtenissen.
+        </p>
+
+        <h3>Kleuren, patronen en versieringen</h3>
+        <p>
+          Patronen, kleuren en versieringen kunnen een betekenis hebben die
+          verbonden is met de geschiedenis van een cultuur. Zo kunnen bepaalde
+          kleuren of het gebruik van goud bijvoorbeeld verwijzen naar rijkdom of
+          een andere betekenis hebben binnen een traditie.
+        </p>
+
+        <h3>Traditie en moderne trends</h3>
+        <p>
+          Tegenwoordig worden traditionele kleding en stijlen ook onderdeel van
+          moderne trends. Mensen kunnen kleding uit een andere cultuur
+          interessant vinden en elementen daarvan willen dragen, ook wanneer zij
+          zelf niet uit die cultuur komen.
+        </p>
+
+        <p>
+          Daarbij is het belangrijk om respect te houden voor de cultuur waar
+          een stijl vandaan komt. Het verschil tussen culturele waardering en
+          culturele toe-eigening kan hierbij een rol spelen. Soms worden
+          bestaande traditionele stijlen opnieuw populair gemaakt onder een
+          westerse naam, terwijl de stijl al lange tijd onderdeel is van een
+          bepaalde cultuur.
+        </p>
+      </section>
+
+      <section>
+        <h2>Verschillende stijlen, dezelfde verbinding</h2>
+
+        <div class="cultuur-fotos">
+          <figure>
+            <img
+              src="./assets/surinaamse koto.JPG"
+              alt="Traditionele Surinaamse koto"
+            />
+            <figcaption>Surinaamse koto</figcaption>
+          </figure>
+
+          <figure>
+            <img
+              src="./assets/marrokaans.jpeg"
+              alt="Traditionele Marokkaanse kleding"
+            />
+            <figcaption>Marokkaanse kleding</figcaption>
+          </figure>
+
+          <figure>
+            <img
+              src="./assets/tamilsaree.jpeg"
+              alt="Traditionele Tamil kleding"
+            />
+            <figcaption>Tamil kleding</figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <section>
+        <h2>Mijn conclusie</h2>
+        <p>
+          Hoewel de kleding en tradities per cultuur verschillen, kan de
+          betekenis ervan overeenkomen. Kleding kan geschiedenis, familie en
+          tradities met zich meedragen. Daardoor kan het een manier zijn om je
+          verbonden te voelen met een cultuur, ook wanneer je ver daarvan
+          vandaan woont.
+        </p>
+      </section>
+    </main>
+
+    <dialog id="cookieModal">
+      <form method="dialog">
+        <h2>Privacy & cookies</h2>
+
+        <p>
+          Op deze website worden enkele diensten gebruikt. Hieronder kun je zien
+          welke noodzakelijk zijn en voor welke onderdelen je zelf een keuze
+          kunt maken.
+        </p>
+
+        <section>
+          <h3>Noodzakelijk</h3>
+
+          <label>
+            <input type="checkbox" checked disabled />
+            GitHub Pages
+          </label>
+
+          <p>
+            GitHub Pages is nodig om deze website te hosten en kan daarom niet
+            worden uitgeschakeld.
+          </p>
+        </section>
+
+        <section>
+          <h3>Optioneel</h3>
+
+          <label>
+            <input type="checkbox" name="webring" />
+            Webring
+          </label>
+
+          <p>
+            Met de webring kun je andere Digital Gardens ontdekken en tussen
+            verschillende websites navigeren.
+          </p>
+        </section>
+
+        <button>Opslaan</button>
+        <button>Weigeren</button>
+      </form>
+    </dialog>
+  </body>
+</html>
