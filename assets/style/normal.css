@@ -80,9 +80,9 @@ nav a:hover {
   color: var(--accent);
 }
 
-nav a:focus-visible {
+a:focus-visible {
   outline: 2px solid var(--heading);
-  outline: 3px;
+  outline-offset: 3px;
 }
 
 main {
@@ -208,6 +208,18 @@ figure img {
 
   top: 25%;
   left: 47%;
+}
+@media (width <= 700px) {
+  .infobox1,
+  .infobox2,
+  .infobox3,
+  .infobox4 {
+    max-width: calc(
+      100% - 2rem
+    ); /* opgezocht met ai hoe ik ervoor zorg dat het ook op telefoon te zien is*/
+    left: 1rem;
+    box-sizing: border-box;
+  }
 }
 
 .infobox1 {

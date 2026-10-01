@@ -706,6 +706,8 @@ Conclusie: de website is met alleen het toetsenbord goed te navigeren. De focus 
 
 <img src="assets/WCAGchecklist.png" width="350px">
 
+<img src="assets/fouttelefoonlayout.PNG" width="350px">
+
 **Verbeterpunten die uit de test kwamen**
 
 1. Focus state → eigen kleur/styling geven in plaats van de standaard blauwe browserstijl.
