@@ -752,3 +752,11 @@ Verbondenheid uitbreiden
 onderzoek/bronnen
 
 #### 1 oktober 2026
+
+Ik heb gewerkt aan mijn to do's die ik bijvoorbeeld moest aanpassen,
+bijvoorbeeld mijn privacy en cookie button.
+Ik had eerst een fout gemaakt waardoor de buttons het niet meer deden, maar dat is nu opgelost.
+
+Ik heb nu ook twee nieuwe pagina's toegevoegd aan mijn Digital Garden. Ik had de tekst voor deze pagina's had ik al eerder in mijn notities opgeschreven, maar nu eindelijk de tijd voor gehad om op de website te zetten. De inhoud staat er maar ik ben nog niet blij met de layout dus daar wil ik nog mee aan de slag
+
+Mijn website begint hierdoor steeds meer vorm te krijgen. De belangrijkste onderdelen staan er nu in en ik kan steeds beter zien hoe de verschillende pagina's en onderdelen samen één geheel vormen.
