@@ -37,6 +37,15 @@ Ik heb gekozen voor het domein tharanika.nl. Ik heb mijn domein gekoppeld aan mi
 
 Ik kan mijn website aanpassen door de bestanden, bijvoorbeeld index.html, in VSCodium te veranderen. Daarna sla ik mijn wijzigingen op en maak ik een commit. GitHub Pages zorgt er daarna voor dat de aangepaste versie van mijn website online wordt gepubliceerd.
 
+#### 2 oktober 2026
+
+<img src="assets/evaluatiefeedback.png" width="350px">
+evaluatie feedback:
+
+<img src="assets/Zwarerugtas.jpg" width="350px">
+<img src="assets/tekeningetjes.png" width="350px">
+<img src="assets/piekendalen.png" width="350px">
+
 ### 2 september 2026
 
 Vandaag hebben we gewerkt aan micro-interacties en multimodal design.
@@ -573,6 +582,8 @@ De website gebruikte eerst Google Fonts. Omdat de lettertypes vanaf Google-serve
 Wat ik zelf niet verzamel:
 Mijn website heeft geen account, contactformulier, nieuwsbrief of andere invoervelden waarbij bezoekers zelf persoonsgegevens aan mij doorgeven.
 
+<img src="assets/human consent form tekening.png" width="350px">
+
 <img src="assets/privacybutton.png" width="350px">
 
 #### 25 september
@@ -751,6 +762,8 @@ Bronnen op je website
 Verbondenheid uitbreiden
 onderzoek/bronnen
 
+afbeeldingen in mapjes zetten?
+
 #### 1 oktober 2026
 
 Ik heb gewerkt aan mijn to do's die ik bijvoorbeeld moest aanpassen,
@@ -760,3 +773,24 @@ Ik had eerst een fout gemaakt waardoor de buttons het niet meer deden, maar dat 
 Ik heb nu ook twee nieuwe pagina's toegevoegd aan mijn Digital Garden. Ik had de tekst voor deze pagina's had ik al eerder in mijn notities opgeschreven, maar nu eindelijk de tijd voor gehad om op de website te zetten. De inhoud staat er maar ik ben nog niet blij met de layout dus daar wil ik nog mee aan de slag
 
 Mijn website begint hierdoor steeds meer vorm te krijgen. De belangrijkste onderdelen staan er nu in en ik kan steeds beter zien hoe de verschillende pagina's en onderdelen samen één geheel vormen.
+
+#### 2 oktober 2026
+
+evaluatie feedback
+
+<img src="assets/evaluatiefeedback.png" width="350px">
+Vandaag heb ik mijn website laten testen door mijn docent met een screenreader. Ik was vooraf best benieuwd of alles goed zou werken, vooral omdat ik zelf nog niet bij alle onderdelen zeker wist of ze toegankelijk waren.
+De screenreader werkte uiteindelijk erg goed. De headers werden goed herkend en de structuur van mijn pagina was duidelijk. Ook de interactieve hover-elementen van mijn kledingstuk bleken goed te werken met de screenreader. Dit vond ik fijn om te horen, omdat ik hier vooraf nog twijfels over had.
+Mijn docent was over het algemeen erg tevreden over mijn website. Bij veel onderdelen kreeg ik een goed of voldoende. Ik had niet verwacht dat de beoordeling op zoveel onderdelen positief zou zijn. Hij gaf ook aan dat hij kon zien dat ik veel moeite in het proces had gestoken, bijvoorbeeld door mijn annotaties en de hoeveelheid schetsen die ik heb gemaakt.
+Door de feedback geeft het me steeds beter gevoel dat ik goed bezig ben maar dus ook vooruitgang maak in coderen en alles er om heen, waardoor ik ook wat meer vertrouwen erin begin te krijgen.
+Ik wil de punten die nog niet helemaal goed zijn blijven verbeteren, maar ik ben tevreden met hoe ver ik inmiddels ben gekomen.
+
+<img src="assets/tekeningetjes.png" width="350px">
+<img src="assets/piekendalen.png" width="350px">
+Vergeleken met mijn vorige tekening zijn de dalen minder zwaar geworden en verloopt de lijn gemiddeld stabieler. Ik merk dat ik op school steeds meer vooruitgang maak en dat geeft mij een positief gevoel.
+Tegelijkertijd merk ik dat mijn energie beperkt is. Ik slaap niet altijd goed en heb soms lichamelijke klachten, waardoor ik minder energie overhoud voor andere dingen. De energie die ik wel heb, gaat op dit moment vooral naar school. Hierdoor heb ik minder tijd voor sociale dingen, sporten en andere activiteiten, zoals mijn nagelstudio.
+<img src="assets/Zwarerugtas.jpg" width="350px">
+Voor mijn metafoor heb ik daarom een zware rugzak getekend. De rugzak staat voor alle verschillende prioriteiten die ik tegelijkertijd met mij meedraag. In en rondom de rugzak heb ik onder andere school, slaap, gezondheid, vrienden, sporten en werk verwerkt. Ik probeer al deze dingen met elkaar te combineren, maar wanneer er meer aandacht naar school gaat, vallen andere dingen sneller weg.
+De tekening laat voor mij zien dat het op school steeds beter gaat, maar dat ik nog steeds moet leren hoe ik mijn energie en verschillende prioriteiten beter kan verdelen.
+
+**Mijn grootste leerpunt is daarom niet alleen vooruitgang maken op school, maar ook een balans vinden waarbij ik niet al mijn energie aan één prioriteit besteed.**

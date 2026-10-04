@@ -216,7 +216,7 @@ figure img {
   .infobox4 {
     max-width: calc(
       100% - 2rem
-    ); /* opgezocht met ai hoe ik ervoor zorg dat het ook op telefoon te zien is*/
+    ); /* opgezocht met ai hoe ik ervoor zorg dat het ook op telefoon te zien is maar klopt nogsteeds niet*/
     left: 1rem;
     box-sizing: border-box;
   }
