@@ -855,3 +855,20 @@ tussen 40/65 pixels
 - Wat is jouw ideale regellengte (measure)? Leg uit waarom.
 
 - Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+
+#### 6 oktober 2026
+
+S3 Deep Dive — Interessantere layouts
+
+- vw → schaal gebaseerd op viewport
+- clamp() → minimum / ideale waarde / maximum
+- cqi → schaal gebaseerd op container
+- container-type: inline-size → maakt container geschikt voor container queries
+- writing-mode → tekst anders oriënteren
+- @media → layout aanpassen aan schermgrootte
+- CSS Grid → elementen bewust plaatsen
+- position: sticky → element blijft tijdens scrollen staan
+
+<img src="assets/type/fotosreadme/deepdive-interessante-layouts.png.jpeg" width="350px">
+
+<img src="assets/type/fotosreadme/aantekeningen-technical-typography.jpeg" width="350px">
