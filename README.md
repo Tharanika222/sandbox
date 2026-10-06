@@ -794,3 +794,64 @@ Voor mijn metafoor heb ik daarom een zware rugzak getekend. De rugzak staat voor
 De tekening laat voor mij zien dat het op school steeds beter gaat, maar dat ik nog steeds moet leren hoe ik mijn energie en verschillende prioriteiten beter kan verdelen.
 
 **Mijn grootste leerpunt is daarom niet alleen vooruitgang maken op school, maar ook een balans vinden waarbij ik niet al mijn energie aan één prioriteit besteed.**
+
+#### 5 oktober
+
+Deze week ben ik begonnen met Sprint 3: De regels en het spel. In deze sprint gaat het specifiek over typografie en waarom typografie zo belangrijk is binnen een website. We kijken niet alleen naar hoe een lettertype eruitziet, maar ook naar hoe je typografie kunt gebruiken om hiërarchie, ritme, contrast en dynamiek te creëren.
+We zijn begonnen met verschillende teksten over typografie, waaronder typografische theorie, ritme, hiërarchie en het werken met een modular type scale.
+
+Eerst wilde ik Let It Happen van Tame Impala kiezen, maar omdat veel studenten dit nummer kozen en ik mezelf wilde uitdagen, heb ik uiteindelijk gekozen voor Tijdgeest van Ijsland.
+Ik kende het nummer vooraf nog niet. Ik heb het gekozen omdat het ritme mij opviel. De snelle bas en het ritmische karakter doen mij een beetje denken aan techno. Hierdoor zag ik mogelijkheden om het ritme en de dynamiek van het nummer visueel te vertalen.
+
+Door de herhaling denk ik dat ik het ritme en de hiërarchie beter visueel kan laten terugkomen.
+Vervolgens heb ik tien verschillende expressieve vormgevingen gemaakt.
+
+<img src="assets/type/fotosreadme/typografie pinterest.png" width="350px">
+
+<img src="assets/type/fotosreadme/tijdsgeest1.jpeg" width="350px">
+
+<img src="assets/type/fotosreadme/tijdsgeest2.jpeg" width="350px">
+
+<img src="assets/type/fotosreadme/tijdsgeest3.jpeg" width="350px">
+
+<img src="assets/type/fotosreadme/tijdsgeest4.jpeg" width="350px">
+
+<img src="assets/type/fotosreadme/tijdsgeest5.jpeg" width="350px">
+
+Ritme
+→ herhaling van woorden
+Hiërarchie
+→ één enorm woord tegenover kleine tekst
+Dynamiek
+→ verspreiding over het scherm / verschillende richtingen
+Contrast
+→ groot-klein, dik-dun, verschillende fonts
+Grid
+→ woorden bewust op verschillende plekken in een grid
+
+checkout:
+
+- Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
+
+kerning: Is het aanpassen van de afstand tussen bepaalde letters zodat het er natuurlijk uitziet.
+
+tracking: is het aanpassing van ruimte bij bepaalde paragrafen
+
+leading: is de verticale ruimte tussen twee regels van tekst
+
+flush left: is dat je je tekst aangelijnd is aan de linkerkant.
+
+centered: is dat je tekst in het midden komt te staan, gecentreerd
+
+indent:
+
+tussen 40/65 pixels
+
+5 soorten contrasten:
+-licht en donker contrast
+-warmte en koud contrast
+-Complementair contrast
+
+- Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+
+- Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
