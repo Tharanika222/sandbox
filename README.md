@@ -21,21 +21,113 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### 31 aug - Kickoff
+#### 7 oktober 2026
 
-Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
+In de les hebben we het gehad over grids en hiërarchie om je ontwerp te verbeteren en duidelijker te maken.
 
-#### 1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
+checkout
 
-Een source hosting platform is een online plek waar je de bestanden en code van een website kunt opslaan en beheren. Ik heb gekozen voor GitHub. Hier heb ik mijn eigen repository gemaakt door de model repository te forken.
+- Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+  voor een ontwerper geeft grid een structuur en helpt daarmee dus ook elementen logischer en duidelijker te plaatsen.
+  voor de bezoeker zorg dus een grid dat het overzichtelijk is en de info beter te volgen is door de bepaalde rangorde.
 
-#### 2. Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
+- Noem drie manieren om chaos in je ontwerp te voorkomen.
 
-Ik heb gekozen voor het domein tharanika.nl. Ik heb mijn domein gekoppeld aan mijn GitHub Pages door de DNS-instellingen van mijn domein aan te passen en een CNAME-bestand in mijn repository te gebruiken.
+1. hiërarchie in je ontwerp
+2. gebruiken van grids
+3. voldoende witruimte zodat het niet te druk wordt.
 
-#### 3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
+- Hoeveel gekkigheid moet er in je werk zitten?
+  Ik denk eigenlijk zoveel jij zelf wilt, en jij denkt dat het dan nogsteeds een mooi ontwerp is, maar zorg dat het wel nog rust geeft en duidelijkheid heeft.
 
-Ik kan mijn website aanpassen door de bestanden, bijvoorbeeld index.html, in VSCodium te veranderen. Daarna sla ik mijn wijzigingen op en maak ik een commit. GitHub Pages zorgt er daarna voor dat de aangepaste versie van mijn website online wordt gepubliceerd.
+deepdive Sanne variabele fonts:
+In deze Deep Dive heb ik geleerd wat variabele fonts zijn en hoe je deze kunt gebruiken. Een variabel font kan verschillende instellingen/assen hebben, waardoor je eigenschappen van een lettertype kunt aanpassen, zoals het font-weight en andere font-variaties.
+
+<img src="assets/type/fotosreadme/variabel.png" width="350px">
+
+<img src="assets/type/fotosreadme/font variabel.png" width="350px">
+
+<img src="assets/type/fotosreadme/deepdive Sanne.png" width="350px">
+
+Ik heb verschillende variation settings uitgeprobeerd en gebruik :hover en transition om de grote titel en losse woorden te laten veranderen wanneer je eroverheen gaat.
+
+#### 6 oktober 2026
+
+S3 Deep Dive — Interessantere layouts
+
+- vw → schaal gebaseerd op viewport
+- clamp() → minimum / ideale waarde / maximum
+- cqi → schaal gebaseerd op container
+- container-type: inline-size → maakt container geschikt voor container queries
+- writing-mode → tekst anders oriënteren
+- @media → layout aanpassen aan schermgrootte
+- CSS Grid → elementen bewust plaatsen
+- position: sticky → element blijft tijdens scrollen staan
+
+<img src="assets/type/fotosreadme/deepdive-interessante-layouts.png" width="350px">
+
+<img src="assets/type/fotosreadme/aantekeningen-technical-typography.jpeg" width="350px">
+
+#### 5 oktober
+
+Deze week ben ik begonnen met Sprint 3: De regels en het spel. In deze sprint gaat het specifiek over typografie en waarom typografie zo belangrijk is binnen een website. We kijken niet alleen naar hoe een lettertype eruitziet, maar ook naar hoe je typografie kunt gebruiken om hiërarchie, ritme, contrast en dynamiek te creëren.
+We zijn begonnen met verschillende teksten over typografie, waaronder typografische theorie, ritme, hiërarchie en het werken met een modular type scale.
+
+Eerst wilde ik Let It Happen van Tame Impala kiezen, maar omdat veel studenten dit nummer kozen en ik mezelf wilde uitdagen, heb ik uiteindelijk gekozen voor Tijdgeest van Ijsland.
+Ik kende het nummer vooraf nog niet. Ik heb het gekozen omdat het ritme mij opviel. De snelle bas en het ritmische karakter doen mij een beetje denken aan techno. Hierdoor zag ik mogelijkheden om het ritme en de dynamiek van het nummer visueel te vertalen.
+
+Door de herhaling denk ik dat ik het ritme en de hiërarchie beter visueel kan laten terugkomen.
+Vervolgens heb ik tien verschillende expressieve vormgevingen gemaakt.
+
+<img src="assets/type/fotosreadme/typografie pinterest.png" width="350px">
+
+<img src="assets/type/fotosreadme/tijdsgeest1.jpeg" width="350px">
+
+<img src="assets/type/fotosreadme/tijdsgeest2.jpeg" width="350px">
+
+<img src="assets/type/fotosreadme/tijdsgeest3.jpeg" width="350px">
+
+<img src="assets/type/fotosreadme/tijdsgeest4.jpeg" width="350px">
+
+<img src="assets/type/fotosreadme/tijdsgeest5.jpeg" width="350px">
+
+Ritme
+→ herhaling van woorden
+Hiërarchie
+→ één enorm woord tegenover kleine tekst
+Dynamiek
+→ verspreiding over het scherm / verschillende richtingen
+Contrast
+→ groot-klein, dik-dun, verschillende fonts
+Grid
+→ woorden bewust op verschillende plekken in een grid
+
+checkout:
+
+- Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
+
+kerning: Is het aanpassen van de afstand tussen bepaalde letters zodat het er natuurlijk uitziet.
+
+tracking: is het aanpassing van ruimte bij bepaalde paragrafen
+
+leading: is de verticale ruimte tussen twee regels van tekst
+
+flush left: is dat je je tekst aangelijnd is aan de linkerkant.
+
+centered: is dat je tekst in het midden komt te staan, gecentreerd
+
+indent:
+
+tussen 40/65 pixels
+
+5 soorten contrasten:
+-licht en donker contrast
+-warmte en koud contrast
+-Complementair contrast
+
+- Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+
+- Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
 
 #### 2 oktober 2026
 
@@ -45,6 +137,111 @@ evaluatie feedback:
 <img src="assets/Zwarerugtas.jpg" width="350px">
 <img src="assets/tekeningetjes.png" width="350px">
 <img src="assets/piekendalen.png" width="350px">
+
+#### 1 oktober 2026
+
+Ik heb gewerkt aan mijn to do's die ik bijvoorbeeld moest aanpassen,
+bijvoorbeeld mijn privacy en cookie button.
+Ik had eerst een fout gemaakt waardoor de buttons het niet meer deden, maar dat is nu opgelost.
+
+Ik heb nu ook twee nieuwe pagina's toegevoegd aan mijn Digital Garden. Ik had de tekst voor deze pagina's had ik al eerder in mijn notities opgeschreven, maar nu eindelijk de tijd voor gehad om op de website te zetten. De inhoud staat er maar ik ben nog niet blij met de layout dus daar wil ik nog mee aan de slag
+
+Mijn website begint hierdoor steeds meer vorm te krijgen. De belangrijkste onderdelen staan er nu in en ik kan steeds beter zien hoe de verschillende pagina's en onderdelen samen één geheel vormen.
+
+#### 30 september 2026
+
+Ik ben vandaag niet naar school geweest omdat ik ziek was dus heb ik thuis de opdrachten gedaan en getest met mijn vriend.
+
+**Screenreader-test**
+
+<img src="assets/speakreadernav.png" width="350px">
+<img src="assets/speakreader.png" width="350px">
+
+Ik heb mijn website samen met mijn vriend getest met een screenreader. Hiervoor heb ik mijn spiekbrief gebruikt om door de website te navigeren.
+
+Headings
+De headings worden goed herkend door de screenreader. Ze staan in de juiste volgorde en de structuur van de pagina is hierdoor duidelijk. De H1 en H2-kopjes worden goed aangegeven.
+
+Navigatie en links
+De navigatie werkt goed met de screenreader. De links worden herkend en de namen van de links worden duidelijk voorgelezen. Hierdoor is het duidelijk waar de verschillende links naartoe leiden.
+
+Buttons
+Ook de buttons worden goed herkend. De screenreader geeft onder andere de buttons Privacy en Cookie-instellingen duidelijk aan.
+
+Interactief kledingstuk
+Het interactieve kledingstuk werkt nog niet goed met de screenreader. De interactieve punten op het kledingstuk worden niet als interactieve elementen herkend en zijn daardoor niet via de screenreader te gebruiken. Dit is een verbeterpunt waar ik nog naar moet kijken.
+
+Conclusie
+De belangrijkste structuur en navigatie van mijn website zijn goed te gebruiken met een screenreader. Vooral de headings, links en buttons worden goed herkend. Het interactieve kledingstuk is op dit moment het belangrijkste toegankelijkheidsprobleem.
+
+**Toetsenbordtest**
+
+<img src="assets/tabbar.png" width="350px">
+
+Daarna heb ik mijn website alleen met het toetsenbord getest. Met de Tab-toets kan ik alle interactieve elementen bereiken. De buttons, navigatie en ook het interactieve kledingstuk zijn bereikbaar. De volgorde waarin ik door de website ga is logisch.
+
+Ook kan ik de Privacy-dialog en Cookie-instellingen openen en de opties hierin aanpassen. Ik kom tijdens het navigeren nergens vast te zitten.
+
+Een klein verbeterpunt dat ik tijdens de test ontdekte is de focus state. Bij het navigeren met Tab wordt nu nog de standaard blauwe focuskleur van de browser weergegeven. Ik wil deze focus state aanpassen zodat deze beter aansluit bij de rest van mijn website en duidelijk zichtbaar blijft.
+
+Conclusie: de website is met alleen het toetsenbord goed te navigeren. De focus styling kan nog verbeterd worden.
+
+- Kleurcontrast test: De gebruikte kleurcombinaties zijn getest met een contrast ratio tool. De geteste combinaties voldoen aan WCAG AA en AAA. Ook bij verschillende vormen van kleurenblindheid blijft de tekst leesbaar.
+
+<img src="assets/colorcontrast.png" width="350px">
+
+- Colorblind test: Ik heb de website getest met verschillende vormen van kleurenblindheid. De kleuren veranderen zichtbaar, maar de tekst blijft leesbaar en de afbeeldingen blijven herkenbaar. De website gebruikt kleur niet als enige manier om informatie over te brengen.
+
+<img src="assets/kleurenblind.png" width="350px">
+
+<img src="assets/WCAGchecklist.png" width="350px">
+
+<img src="assets/fouttelefoonlayout.PNG" width="350px">
+
+**Verbeterpunten die uit de test kwamen**
+
+1. Focus state → eigen kleur/styling geven in plaats van de standaard blauwe browserstijl.
+2. Interactief kledingstuk op mobiel → infoboxen komen buiten de viewport terecht.
+3. Skip link → ontbreekt momenteel.
+4. Links die in een nieuw tabblad openen → niet aangegeven.
+5. High-contrast mode → nog testen.
+6. Afbeeldingen met tekst → nog controleren of de tekst in de afbeelding ook inhoudelijk belangrijk is.
+7. Landscape → werkt, maar heeft witte ruimtes aan de zijkanten.
+
+checkout:
+
+1. Waar staat WCAG en A11y voor?
+   WCAG staat voor Web Content Accessibility Guidelines. Dit zijn richtlijnen voor het toegankelijk maken van websites en digitale content.
+
+A11y is een afkorting voor accessibility. Het A11y Project maakt toegankelijkheidsrichtlijnen onder andere overzichtelijker en praktischer door ze in een checklist te zetten.
+
+2. Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
+   k vind het werken met een screenreader lastiger dan een website alleen met een toetsenbord bedienen. Met mijn toetsenbord gebruik ik automatisch de Tab-toets en pijltjestoetsen om door een website te navigeren. Bij een screenreader zijn de bediening en sneltoetsen anders en moet ik vaak meerdere toetsen tegelijk indrukken. Daardoor ga ik soms per ongeluk naar het verkeerde onderdeel.
+
+Ik moet daarom vooral nog oefenen met de bediening en sneltoetsen van de screenreader en het navigeren door verschillende soorten content.
+
+3. Met welke beperking rekening houden vind je het meest lastig?
+   Ik vind het lastig om één beperking aan te wijzen, omdat iedere beperking weer andere aandachtspunten heeft. Vooral het bedenken hoe iemand mijn interactieve ontwerp kan gebruiken wanneer diegene een andere manier van navigeren nodig heeft, vind ik soms lastig.
+
+Door de tests ben ik er wel achter gekomen dat toegankelijkheid niet alleen gaat over hoe iets eruitziet, maar ook over hoe iemand door een website kan navigeren en informatie kan begrijpen. 4. Vind je dat je beperkt wordt in wat je kunt ontwerpen?
+Of heb je al manieren gevonden om vanuit een solide basis - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
+
+Ik denk wel dat je moet accepteren dat je niet voor iedereen een website perfect toegankelijk kunt maken. Het gaat er voor mij vooral om dat je vanuit een goede, toegankelijke basis ontwerpt en vervolgens bewuste keuzes maakt over de extra's die je toevoegt.
+
+to do's
+Focus state aanpassen / done
+infobox mag niet buiten viewport vallen / geprobeerd, werkt nog niet
+geen horizontale overflow wanneer je erop tikt
+Kijken of het interactieve kledingstuk ook met screenreader goed werkt
+Eventueel skip link overwegen
+Controleren of afbeeldingen met tekst een goede alt hebben / done
+
+Website opruimen
+Bronnen op je website
+Verbondenheid uitbreiden
+onderzoek/bronnen
+
+afbeeldingen in mapjes zetten?
 
 ### 2 september 2026
 
@@ -869,6 +1066,30 @@ S3 Deep Dive — Interessantere layouts
 - CSS Grid → elementen bewust plaatsen
 - position: sticky → element blijft tijdens scrollen staan
 
-<img src="assets/type/fotosreadme/deepdive-interessante-layouts.png.jpeg" width="350px">
+<img src="assets/type/fotosreadme/deepdive-interessante-layouts.png" width="350px">
 
 <img src="assets/type/fotosreadme/aantekeningen-technical-typography.jpeg" width="350px">
+
+#### 7 oktober 2026
+
+- Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+
+- Noem drie manieren om chaos in je ontwerp te voorkomen.
+
+- Hoeveel gekkigheid moet er in je werk zitten?
+
+### 31 aug - Kickoff
+
+Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
+
+#### 1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
+
+Een source hosting platform is een online plek waar je de bestanden en code van een website kunt opslaan en beheren. Ik heb gekozen voor GitHub. Hier heb ik mijn eigen repository gemaakt door de model repository te forken.
+
+#### 2. Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
+
+Ik heb gekozen voor het domein tharanika.nl. Ik heb mijn domein gekoppeld aan mijn GitHub Pages door de DNS-instellingen van mijn domein aan te passen en een CNAME-bestand in mijn repository te gebruiken.
+
+#### 3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
+
+Ik kan mijn website aanpassen door de bestanden, bijvoorbeeld index.html, in VSCodium te veranderen. Daarna sla ik mijn wijzigingen op en maak ik een commit. GitHub Pages zorgt er daarna voor dat de aangepaste versie van mijn website online wordt gepubliceerd.
