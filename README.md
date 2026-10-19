@@ -23,6 +23,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 #### 18 oktober 2026 - huiswerk
 
+to do: lyric website koppelen aan digital garden
+
 <img src="assets/type/fotosreadme/IMG_5340.jpeg" width="350px">
 
 <img src="assets/type/fotosreadme/IMG_5341.jpeg" width="350px">
@@ -49,8 +51,8 @@ Kijken wat je met het gedeelte van vooruit en achteruit kunt doen, hoe maak je h
 
 Deepdive Animations van Sanne:
 <img src="assets/type/fotosreadme/animatie deepdive.png" width="350px">
-<img src="assets/type/fotosreadme/animatie deepdive1.png width="350px">
-<img src="assets/type/fotosreadme/deepdiveanimatie.png width="350px">
+<img src="assets/type/fotosreadme/animatie deepdive1.png" width="350px">
+<img src="assets/type/fotosreadme/deepdiveanimatie.png" width="350px">
 
 #### 7 & 8 oktober 2026
 
