@@ -21,6 +21,37 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+#### 18 oktober 2026 - huiswerk
+
+<img src="assets/type/fotosreadme/IMG_5340.jpeg" width="350px">
+
+<img src="assets/type/fotosreadme/IMG_5341.jpeg" width="350px">
+
+<img src="assets/type/fotosreadme/IMG_5342.jpeg" width="350px">
+
+<img src="assets/type/fotosreadme/IMG_5343.jpeg" width="350px">
+
+#### 9 oktober 2026
+
+Ik wil eigenlijk na de deepdive van vandaag mijn woorden en letters te kunnen animeren, zodat ik het nog meer passend kan maken.
+
+feedback van Alara:
+ze vond het leuk en goed bedacht met de tijdsgeest die herhaling heeft.
+
+- Tijdsgeest gedeelte meer naar boven zodat het duidelijk is dat dat het belangrijkste is.
+- de andere zinnetjes er meer in een kringetje om heen doen
+
+vasilis:
+layout met tijdgeest ziet er goed uit, met een coole transitions.
+Meer tekst gebruiken en dan uitdrukken welke zanger wat zingt.
+spelen met dikke en dunne letters bij tijdgeest.
+Kijken wat je met het gedeelte van vooruit en achteruit kunt doen, hoe maak je het speels wat past bij het nummer.
+
+Deepdive Animations van Sanne:
+<img src="assets/type/fotosreadme/animatie deepdive.png" width="350px">
+<img src="assets/type/fotosreadme/animatie deepdive1.png width="350px">
+<img src="assets/type/fotosreadme/deepdiveanimatie.png width="350px">
+
 #### 7 & 8 oktober 2026
 
 Link van tijdgeest website;
