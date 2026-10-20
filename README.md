@@ -21,9 +21,29 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+#### 19 oktober 2026
+
+Tijdens de eerste lesdag hebben we de planning voor de komende periode besproken.
+De deadline is woensdag 28 oktober.
+Op maandag 26 oktober vindt de expo plaats, waarbij we ons werk aan de rest van de klas presenteren.
+De komende week krijgen we nog de tijd om aan onze websites te werken en de laatste verbeteringen door te voeren.
+
+Daarnaast heb ik de Webby-vragenlijst ingevuld. Samen met Tamar heb ik gekeken naar wat al goed werkt aan mijn werk en wat nog verbeterd kan worden. Uit deze feedback kwam vooral naar voren dat mijn Digital Garden al goed uitgewerkt is en grotendeels af is. Ik kan hier nog kleine verbeteringen aan toevoegen om het geheel aantrekkelijker te maken, maar er zijn geen grote aanpassingen meer nodig.
+
+De grootste uitdaging ligt op dit moment bij mijn lyrics-experimentenpagina, omdat ik hier tot nu toe de minste tijd aan heb besteed. Daarom wil ik mijn focus de komende dagen vooral op deze pagina leggen. Ik wil verder experimenteren met typografie, positionering en animaties, en tegelijkertijd aandacht besteden aan toegankelijkheid, interactie en een adaptief ontwerp dat goed werkt op verschillende schermformaten.
+
+Ik wil eventueel nog een animatie toevoegen aan mijn Digital Garden, maar mijn prioriteit ligt nu bij het verder uitwerken van de lyrics-pagina.
+
+<img src="assets/type/fotosreadme/webbywebsite.jpeg" width="350px">
+
+<img src="assets/type/fotosreadme/webby.jpeg" width="350px">
+
 #### 18 oktober 2026 - huiswerk
 
 to do: lyric website koppelen aan digital garden
+Ik heb verschillende schetsen gemaakt om beetje een beeld te krijgen van hoe ik de animaties voor mijn lyrics-pagina ongeveer zou willen hebben. De schetsen zijn verschillende ideeën voor de positionering van de tekst, de bewegingen en de animaties. Het zijn nog niet zeker of ik deze precies ga gebruiken. Tijdens het uitwerken ga ik experimenteren met de verschillende ideeën om te ontdekken welke combinatie het beste werkt en het mooist aansluit bij het ontwerp.
+
+ik moet ook rekening houden met toegankelijkheid. Ik wil de prefers-reduced-motion-instelling gebruiken.
 
 <img src="assets/type/fotosreadme/IMG_5340.jpeg" width="350px">
 
