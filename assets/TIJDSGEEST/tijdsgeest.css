@@ -3,15 +3,34 @@
   font-family: "Seraphs";
   src: url("font/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
 }
-/* MARK: items */
+
+:root {
+  color-scheme: light dark;
+  --background: white;
+  --text: black;
+}
+
+body {
+  font-family: "Seraphs";
+  background-color: var(--background);
+  color: var(--text);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: black;
+    --text: white;
+  }
+}
+
 body {
   font-family: "Seraphs";
 }
 
 main {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  display: grid;
+  justify-items: center;
+  align-content: start;
   min-height: 100vh;
   padding: 4rem 1.5rem;
   gap: 2rem;
@@ -68,22 +87,37 @@ h1:hover {
 
 .herhaling span:nth-of-type(1) {
   font-size: clamp(2.5rem, 6vw, 5rem);
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 30;
 }
 
 .herhaling span:nth-of-type(2) {
   font-size: clamp(2rem, 4.8vw, 4rem);
+  font-variation-settings:
+    "wght" 170,
+    "SRFS" 60;
 }
 
 .herhaling span:nth-of-type(3) {
   font-size: clamp(1.75rem, 3.6vw, 3rem);
+  font-variation-settings:
+    "wght" 130,
+    "SRFS" 90;
 }
 
 .herhaling span:nth-of-type(4) {
   font-size: clamp(1.5rem, 3vw, 2.5rem);
+  font-variation-settings:
+    "wght" 100,
+    "SRFS" 60;
 }
 
 .herhaling span:nth-of-type(5) {
   font-size: clamp(1.25rem, 2.4vw, 2rem);
+  font-variation-settings:
+    "wght" 70,
+    "SRFS" 30;
 }
 
 .refrein {
@@ -172,47 +206,267 @@ h1:hover {
   }
 }
 
-.beweging {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  gap: 2rem;
+.verses {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 4rem;
   width: 100%;
-  margin-top: 2rem;
-  pointer-events: none;
+  max-width: 760px;
+  margin: 4rem auto;
 }
 
-.achteruit,
-.vooruit {
+.verse--sef {
+  justify-self: end;
+  text-align: left;
+  font-variation-settings:
+    "wght" 120,
+    "SRFS" 80;
+  letter-spacing: 0.02em;
+}
+
+.verse--abel {
+  justify-self: start;
+  text-align: left;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 30;
+  letter-spacing: -0.02em;
+}
+
+.verse {
+  width: max-content;
+  max-width: 100%;
+}
+
+.verse h2 {
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 600px) {
+  .verses {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+}
+
+.gen-z {
+  letter-spacing: 0.5em;
+}
+
+.stiekem {
+  opacity: 0.4;
+  transition: opacity 0.5s ease;
+}
+
+.stiekem:hover {
+  opacity: 1;
+}
+
+.techno {
+  font-size: 1.5em;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 0;
+}
+
+.palestine {
+  display: inline-block;
+  animation: hartslag 2.3s ease-in-out infinite;
+  transform-origin: center;
+}
+
+@keyframes hartslag {
+  0% {
+    transform: scale(0.7);
+  }
+
+  25% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(0.7);
+  }
+
+  75% {
+    transform: scale(1);
+  }
+
+  100% {
+    transform: scale(0.7);
+  }
+}
+
+.fluide {
+  display: inline-block;
+  animation: fluide-beweging 3s ease-in-out infinite alternate;
+}
+
+@keyframes fluide-beweging {
+  0% {
+    transform: translateY(-3px) rotate(-2deg);
+  }
+
+  100% {
+    transform: translateY(3px) rotate(2deg);
+  }
+}
+
+.zwaktes {
+  font-size: 0.7em;
+}
+
+.sterkst {
+  font-size: 1.6em;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 0;
+}
+
+.tradfluencer {
+  letter-spacing: 0.2em;
+}
+
+.necromancer {
+  animation: verschijnen 4s ease-in-out infinite alternate;
+}
+
+@keyframes verschijnen {
+  0% {
+    opacity: 0.2;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.rising {
+  display: inline-block;
+  animation-name: rising;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes rising {
+  0% {
+    translate: 0 0;
+  }
+
+  50% {
+    translate: 0 -0.4em;
+  }
+
+  100% {
+    translate: 0 0;
+  }
+}
+
+.cancel-culture {
+  font-size: 1.4em;
+  text-decoration: line-through;
+  text-decoration-thickness: 2px;
+}
+
+.kirac {
+  display: inline-block;
+  animation-name: kirac;
+  animation-duration: 0.3s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes kirac {
+  0% {
+    translate: 0 0;
+  }
+
+  50% {
+    translate: 0 -0.1em;
+  }
+
+  100% {
+    translate: 0 0;
+  }
+}
+
+.baudet {
+  font-size: 0.35em;
+  vertical-align: baseline;
+}
+
+.ongelijke-rechten {
+  font-size: 1.7em;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 10;
+}
+
+.beweging {
   display: grid;
+  grid-template-columns: 1fr;
   justify-items: center;
-  gap: 0.5rem;
+  align-items: center;
+  gap: 1rem;
+  width: 100%;
+  margin-top: 2rem;
 }
 
 .achteruit {
-  animation: draai-links 20s linear infinite;
+  animation: beweeg-links 0.7s steps(2, end) infinite alternate;
 }
 
 .vooruit {
-  animation: draai-rechts 20s linear infinite;
+  animation: beweeg-rechts 0.7s steps(2, end) infinite alternate;
 }
 
-@keyframes draai-links {
-  from {
-    rotate: 0deg;
+@keyframes beweeg-links {
+  0% {
+    translate: 0 0;
   }
 
-  to {
-    rotate: -360deg;
+  100% {
+    translate: -2em 0;
   }
 }
 
-@keyframes draai-rechts {
-  from {
-    rotate: 0deg;
+@keyframes beweeg-rechts {
+  0% {
+    translate: 0 0;
   }
 
-  to {
-    rotate: 360deg;
+  100% {
+    translate: 2em 0;
+  }
+}
+
+.muziek-link {
+  display: inline-block;
+  padding: 0.8rem 1.5rem;
+  background-color: var(--text);
+  color: var(--background);
+  text-decoration: none;
+  border: 1px solid var(--text);
+  font-size: 1rem;
+  transition:
+    background-color 0.3s,
+    color 0.3s;
+}
+
+.muziek-link:hover {
+  background-color: var(--background);
+  color: var(--text);
+}
+
+.muziek-link:focus-visible {
+  outline: 2px solid var(--text);
+  outline-offset: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
   }
 }

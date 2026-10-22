@@ -21,6 +21,27 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+#### 21 oktober 2026
+
+<img src="assets/type/fotosreadme/peerfeedback.jpeg" width="350px">
+<img src="assets/type/fotosreadme/peerfeedback1.jpeg" width="350px">
+
+#### 20 oktober 2026
+
+Ik ben verder gegaan aan mijn website en dan vooral de focus op mijn lyric page, ik heb nieuwe animaties gemaakt en de grid areas proberen te fiksen.
+
+<img src="assets/type/fotosreadme/21 oct.png" width="350px">
+<img src="assets/type/fotosreadme/21 october .png" width="350px">
+
+bi-weekly:
+
+AI slop laat zien hoe AI het makkelijker maakt om content massaal te produceren, terwijl de algoritmes en verdienmodellen van grote technologiebedrijven bepalen dat opvallendheid en winst vaak belangrijker zijn dan kwaliteit en creativiteit.
+
+de Dead Internet Theory stelt dat het internet steeds kunstmatiger wordt doordat bots, AI-content en commerciële algoritmes menselijke interacties en authenticiteit naar de achtergrond verdringen.
+
+<img src="assets/type/fotosreadme/aantekeningen biweekly.jpeg" width="350px">
+<img src="assets/type/fotosreadme/cursor camp.png" width="350px">
+
 #### 19 oktober 2026
 
 Tijdens de eerste lesdag hebben we de planning voor de komende periode besproken.
