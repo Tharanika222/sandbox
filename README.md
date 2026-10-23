@@ -23,7 +23,17 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Inhoudsopgave
 
-- [bronnenlijst](#bronnen-voor-mijn-website-die-ik-heb-gebruikt) -[22 oktober 2026](#22-oktober-2026) -[21 oktober 2026](#21-oktober-2026) - [20 oktober 2026](#20-oktober-2026) - [19 oktober 2026](#19-oktober-2026) - [18 oktober 2026](#22-oktober-2026) - [9 oktober 2026](#9-oktober-2026) - [7/8 oktober 2026](#7--8-oktober-2026) - [6 oktober 2026](#6-oktober-2026) - [2 oktober 2026](#2-oktober-2026) - [1 oktober 2026](#1-oktober-2026)
+- [bronnenlijst](#bronnen-voor-mijn-website-die-ik-heb-gebruikt)
+- [22 oktober 2026](#22-oktober-2026)
+- [21 oktober 2026](#21-oktober-2026)
+- [20 oktober 2026](#20-oktober-2026)
+- [19 oktober 2026](#19-oktober-2026)
+- [18 oktober 2026](#22-oktober-2026)
+- [9 oktober 2026](#9-oktober-2026)
+- [7/8 oktober 2026](#7--8-oktober-2026)
+- [6 oktober 2026](#6-oktober-2026)
+- [2 oktober 2026](#2-oktober-2026)
+- [1 oktober 2026](#1-oktober-2026)
 - [30 september](#30-september-2026)
 - [29 september](#29-september-2026)
 - [28 september](#28-september-2026)
@@ -33,6 +43,19 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 - [23 september](#23-september-2026)
 - [22 september](#22-september-2026)
 - [21 september](#21-september-2026)
+- [18 september](#18-september-2026)
+- [17 september](#17-september-2026)
+- [16 september](#16-september-2026)
+- [15 september](#15-september-2026)
+- [14 september](#14-september-2026)
+- [11 september](#11-september-2026)
+- [10 september](#10-september-2026)
+- [9 september](#9-september-2026)
+- [8 september](#8-september-2026)
+- [7 september](#7-september-2026)
+- [4 september](#4-september-2026)
+- [3 september](#3-september-2026)
+- [2 september](#2-september-2026)
 
 #### 22 oktober 2026
 
