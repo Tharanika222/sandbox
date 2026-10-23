@@ -21,19 +21,67 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+## Inhoudsopgave
+
+- [bronnenlijst](#bronnen-voor-mijn-website-die-ik-heb-gebruikt) -[22 oktober 2026](#22-oktober-2026) -[21 oktober 2026](#21-oktober-2026) - [20 oktober 2026](#20-oktober-2026) - [19 oktober 2026](#19-oktober-2026) - [18 oktober 2026](#22-oktober-2026) - [9 oktober 2026](#9-oktober-2026) - [7/8 oktober 2026](#7--8-oktober-2026) - [6 oktober 2026](#6-oktober-2026) - [2 oktober 2026](#2-oktober-2026) - [1 oktober 2026](#1-oktober-2026)
+- [30 september](#30-september-2026)
+- [29 september](#29-september-2026)
+- [28 september](#28-september-2026)
+- [26/27 september](#2627-september-2026)
+- [25 september](#25-september-2026)
+- [24 september](#24-september-2026)
+- [23 september](#23-september-2026)
+- [22 september](#22-september-2026)
+- [21 september](#21-september-2026)
+
+#### 22 oktober 2026
+
+Ik heb vandaag gefocust op de peerfeedback van gisteren en een hele checklist gemaakt om ervoor te zorgen dat ik alles heb.
+to do list:
+
+- animaties digital garden
+- lyric page afmaken:
+- reduce motion setting
+- dark en light mode
+- animaties toevoegen met font variations.
+- grid layout fiksen.
+- laatste puntjes oplossen
+
+Ik heb alles afgekregen en het ziet er goed uit, ik ben er heel erg tevreden over, ik denk dat nu het gehele niveau van mijn website en lyric page er goed uit ziet.
+
+<img src="assets/type/fotosreadme/22-oct.png" width="350px">
+<img src="assets/type/fotosreadme/22-oct-5.png" width="350px">
+Ik ben vooral bezig geweest met de losse worden uit de verses eruit te laten springen met font settings, animations, groottes of diktes. Ik wilde ook dat de verse zijn eigen font wght en srfs heeft zodat je een soortvan kan zien wie wat zingt.
+ik heb een light/dark mode toegevoegd en de reduced motion setting in css.
+
+<img src="assets/type/fotosreadme/22-oct-4.png" width="350px">
+<img src="assets/type/fotosreadme/22-oct1.png" width="350px">
+Ik had eerst een rotation animation op mijn laatste gedeelte van tekst gezet want ik wilde beweging aanduiden, maar ik vond het er nog niet goed uit zien.
+Ik heb dat geschrapt en een nieuw idee kwam best snel in mijn hoofd dat ik het ritmische wat je bij het nummer hoort, een uptempo beat wilde ik nabootsen. en bij specifiek dat gedeelte van het nummer gaat het publiek ook moshpitten, dus vooral op en neer springen. Zo kwam ik uit bij de woorden die naar een kant "springen" dus of naar recht of naar links om zo het na te bootsen.
+
+<img src="assets/type/fotosreadme/22-oct2.png" width="350px">
+<img src="assets/type/fotosreadme/22-oct-3.png" width="350px">
+<img src="assets/type/fotosreadme/22-october-verbetering.png" width="350px">
+<img src="assets/type/fotosreadme/22-october-verbetering1.png" width="350px">
+Laatste puntjes dus aangepast, fotos kleiner gemaakt, hover effect op gedaan om het toch wat meer speels te maken en ik ben er nu blij mee.
+
 #### 21 oktober 2026
 
 <img src="assets/type/fotosreadme/peerfeedback.jpeg" width="350px">
 <img src="assets/type/fotosreadme/peerfeedback1.jpeg" width="350px">
 
+Ik heb een peerfeedback gehad met Sara, Lysanne en Isaac, en wat er bij vooral uitkwam is dat eigenlijk veel al af is, het werkt, het is adaptief, toegankelijk en ziet er goed uit. Het is nu vooral de extra's toevoegen zodat het nog beter wordt zoals bijv animaties op mijn digital garden, en ik heb daar wel wat ideeën voor. Ik wil bij mijn hover popups een animatie gebruiken zodat het smooth in beeld komt.
+Verder ligt nu de focus op het afmaken van mijn lyric page, daar zit nu het meeste werk. Ik heb nu alles nog door elkaar staan en wil er een duidelijke layout in met een goede hierarchië en typografie.
+
 #### 20 oktober 2026
 
 Ik ben verder gegaan aan mijn website en dan vooral de focus op mijn lyric page, ik heb nieuwe animaties gemaakt en de grid areas proberen te fiksen.
-
+Ik heb nu ook een nieuwe schets gemaakt met een wat duidelijker idee van de placements van alles. want nu is het een rotzooi.
+<img src="assets/type/fotosreadme/placements-schets.jpeg" width="350px">
 <img src="assets/type/fotosreadme/21 oct.png" width="350px">
 <img src="assets/type/fotosreadme/21 october .png" width="350px">
 
-bi-weekly:
+_bi-weekly:_
 
 AI slop laat zien hoe AI het makkelijker maakt om content massaal te produceren, terwijl de algoritmes en verdienmodellen van grote technologiebedrijven bepalen dat opvallendheid en winst vaak belangrijker zijn dan kwaliteit en creativiteit.
 

@@ -1,4 +1,5 @@
 /* HIER KOMT JOUW CSS */
+/*font instellingen*/
 @font-face {
   font-family: "Fjalla One";
   src: url("../type/FjallaOne-Regular.ttf") format("truetype");
@@ -13,7 +14,7 @@
     src: url("../type/Caveat-VariableFont_wght.tff") format("truetype");
   }
 }
-
+/* styling */
 html {
   color-scheme: light dark;
 
@@ -112,6 +113,8 @@ main {
 .intro h2 {
   margin-top: 0;
 }
+
+/*voor telefoongrootte */
 
 @media (width> 700px) {
   .intro {
@@ -216,15 +219,30 @@ figure img {
   .infobox4 {
     max-width: calc(
       100% - 2rem
-    ); /* opgezocht met ai hoe ik ervoor zorg dat het ook op telefoon te zien is maar klopt nogsteeds niet*/
+    ); /* opgezocht met ai hoe ik ervoor zorg dat het ook op telefoon te zien is.*/
     left: 1rem;
     box-sizing: border-box;
   }
 }
 
+.circle1:hover ~ .infobox1,
+.circle1:focus ~ .infobox1,
+.circle2:hover ~ .infobox2,
+.circle2:focus ~ .infobox2,
+.circle3:hover ~ .infobox3,
+.circle3:focus ~ .infobox3,
+.circle4:hover ~ .infobox4,
+.circle4:focus ~ .infobox4 {
+  visibility: visible;
+  opacity: 1;
+  translate: 0 0;
+}
+
 .infobox1 {
   position: absolute;
   visibility: hidden;
+  opacity: 0;
+  translate: 0 8px;
 
   top: 80px;
   left: 400px;
@@ -235,11 +253,11 @@ figure img {
   border: 5px solid #341732;
   color: var(--infobox-text);
   border-radius: 10px;
-}
 
-.circle1:hover ~ .infobox1,
-.circle1:focus ~ .infobox1 {
-  visibility: visible;
+  transition:
+    opacity 0.3s ease,
+    translate 0.3s ease,
+    visibility 0.3s;
 }
 
 .circle2 {
@@ -256,6 +274,8 @@ figure img {
 .infobox2 {
   position: absolute;
   visibility: hidden;
+  opacity: 0;
+  translate: 0 8px;
 
   top: 130px;
   left: -130px;
@@ -266,11 +286,11 @@ figure img {
   border: 5px solid #341732;
   color: var(--infobox-text);
   border-radius: 10px;
-}
 
-.circle2:hover ~ .infobox2,
-.circle2:focus ~ .infobox2 {
-  visibility: visible;
+  transition:
+    opacity 0.3s ease,
+    translate 0.3s ease,
+    visibility 0.3s;
 }
 
 .circle3 {
@@ -287,6 +307,8 @@ figure img {
 .infobox3 {
   position: absolute;
   visibility: hidden;
+  opacity: 0;
+  translate: 0 8px;
 
   top: 100px;
   left: 450px;
@@ -297,11 +319,11 @@ figure img {
   border: 5px solid #341732;
   color: var(--infobox-text);
   border-radius: 10px;
-}
 
-.circle3:hover ~ .infobox3,
-.circle3:focus ~ .infobox3 {
-  visibility: visible;
+  transition:
+    opacity 0.3s ease,
+    translate 0.3s ease,
+    visibility 0.3s;
 }
 
 .circle4 {
@@ -318,6 +340,8 @@ figure img {
 .infobox4 {
   position: absolute;
   visibility: hidden;
+  opacity: 0;
+  translate: 0 8px;
 
   top: 400px;
   left: 450px;
@@ -328,11 +352,11 @@ figure img {
   border: 5px solid #341732;
   color: var(--infobox-text);
   border-radius: 10px;
-}
 
-.circle4:hover ~ .infobox4,
-.circle4:focus ~ .infobox4 {
-  visibility: visible;
+  transition:
+    opacity 0.3s ease,
+    translate 0.3s ease,
+    visibility 0.3s;
 }
 
 .circle1,
@@ -518,4 +542,84 @@ dialog::backdrop {
   display: block;
   margin-inline: auto;
   transform: rotate(-2deg);
+}
+
+/*verbondenheid page */
+
+.verbondenheid-titel {
+  text-align: center;
+}
+
+.intro-foto {
+  max-width: 400px;
+  margin: 2rem auto 3rem;
+}
+
+.intro-foto img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.intro-foto img,
+.cultuur-fotos img {
+  transition: scale 0.3s ease;
+}
+
+.intro-foto img:hover,
+.cultuur-fotos img:hover {
+  scale: 1.03;
+}
+
+.intro-foto figcaption {
+  margin-top: 0.5rem;
+}
+
+.cultuur-fotos {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2rem;
+  max-width: 1000px;
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+}
+
+.cultuur-fotos figure {
+  margin: 0;
+  min-width: 0;
+}
+
+.cultuur-fotos img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.cultuur-fotos figcaption {
+  margin-top: 0.5rem;
+}
+
+@media (max-width: 700px) {
+  .cultuur-fotos {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .cultuur-fotos img {
+    display: block;
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
 }
