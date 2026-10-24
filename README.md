@@ -57,6 +57,21 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 - [3 september](#3-september-2026)
 - [2 september](#2-september-2026)
 
+#### 24 oktober 2026
+
+Ik heb overwogen om kleur toe te voegen, maar ik heb gekozen voor zwart-wit omdat dit de typografische hiërarchie en het ritme van de tekst centraal houdt. Ik heb de feedback over de compositie wel meegenomen door de uitlijning en witruimte te beoordelen.
+
+#### 23 oktober 2026
+
+feedback barbara:
+Je bent lekker bij en weet veel toe te lichten. Je weet wat je hebt gemaakt en gebouwd.
+
+Je bent goed bezig met de html valideer en toegankelijkheid gaat goed. Deep dives heb je gevolgd.
+
+Denk nog na over kleur in je songtekst.
+
+Qua lay-out zou ik overwegen om de content meer ruimte te geven aan de linkerkant.
+
 #### 22 oktober 2026
 
 Ik heb vandaag gefocust op de peerfeedback van gisteren en een hele checklist gemaakt om ervoor te zorgen dat ik alles heb.

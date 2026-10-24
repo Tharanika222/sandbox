@@ -86,10 +86,17 @@ a:focus-visible {
   outline-offset: 3px;
 }
 
+/* home-page */
+
 main {
   display: grid;
   grid-template-columns: 1fr;
   gap: 2rem;
+  padding-inline: 1.5rem;
+}
+
+.home-header {
+  padding-inline: 1.5rem;
 }
 
 .intro {
@@ -442,6 +449,10 @@ dialog::backdrop {
   overflow: hidden;
 }
 
+footer {
+  padding: 1.5rem;
+}
+
 /* page van mijn verhaal */
 
 .mijn-verhaal h1 {
@@ -544,10 +555,36 @@ dialog::backdrop {
   transform: rotate(-2deg);
 }
 
+/* onderzoek page */
+
+.bronnen {
+  padding-inline: 1.5rem;
+}
+
 /*verbondenheid page */
 
 .verbondenheid-titel {
   text-align: center;
+}
+
+.verbondenheid section p {
+  max-width: 600px;
+  margin-inline: auto;
+  text-align: left;
+}
+
+.verbondenheid section h2,
+.verbondenheid section h3 {
+  text-align: center;
+}
+
+footer.verbondenheid {
+  text-align: center;
+}
+
+footer.verbondenheid p {
+  max-width: none;
+  margin-inline: auto;
 }
 
 .intro-foto {
@@ -613,7 +650,6 @@ dialog::backdrop {
     object-fit: contain;
   }
 }
-
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
