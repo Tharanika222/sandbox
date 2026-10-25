@@ -533,11 +533,11 @@ h1:hover {
 }
 
 @keyframes clublicht-beweging {
-  from {
+  0% {
     background-position: 0% 0%;
   }
 
-  to {
+  100% {
     background-position: 100% 100%;
   }
 }
@@ -561,7 +561,6 @@ h1:hover {
     text-shadow: 0 0 8px rgb(84 216 255 / 75%);
   }
 
-  /* Paars */
   .tijdsgeest,
   .ongelijke-rechten {
     color: #b58bff;
@@ -580,6 +579,7 @@ h1:hover {
   }
 }
 
+/* haalt drukke animaties weg voor bijv epilepsie */
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,

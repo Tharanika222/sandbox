@@ -10,6 +10,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 - CSS-Tricks - gebruikt voor uitleg en voorbeelden rondom CSS.
 - ChatGPT - gebruikt als hulpmiddel om mijn code te controleren, fouten te begrijpen en het bedenken van oplossingen.
 
+Naast de genoemde online bronnen heb ik kennis opgedaan tijdens de deep dives en lessen, die ik heb toegepast in mijn project.
+
 #### Voor inspiratie
 
 - Pinterest - visuele inspiratie voor de vormgeving, kleding en beelden op mijn website
@@ -24,11 +26,14 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Inhoudsopgave
 
 - [bronnenlijst](#bronnen-voor-mijn-website-die-ik-heb-gebruikt)
+- [25 oktober 2026](#25-oktober-2026)
+- [24 oktober 2026](#24-oktober-2026)
+- [23 oktober 2026](#23-oktober-2026)
 - [22 oktober 2026](#22-oktober-2026)
 - [21 oktober 2026](#21-oktober-2026)
 - [20 oktober 2026](#20-oktober-2026)
 - [19 oktober 2026](#19-oktober-2026)
-- [18 oktober 2026](#22-oktober-2026)
+- [18 oktober 2026](#18-oktober-2026)
 - [9 oktober 2026](#9-oktober-2026)
 - [7/8 oktober 2026](#7--8-oktober-2026)
 - [6 oktober 2026](#6-oktober-2026)
@@ -57,20 +62,48 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 - [3 september](#3-september-2026)
 - [2 september](#2-september-2026)
 
+#### 25 oktober 2026
+
+Reflectie van dit blok:
+Ik heb dit blok heel erg positief ervaren en ben trots en blij met wat ik heb neergezet.
+Ik vond het vooral leuk dat ik creatieve ideeën kon combineren met techniek. Hoewel ik coderen nog steeds lastig vind en nog niet alles volledig begrijp of zelfstandig uit mijn hoofd kan schrijven, merk ik dat ik steeds meer begin te begrijpen. Hierdoor zie ik het steeds beter voor me dat ik dit later ook wil gaan doen.
+
+Wat ik daarnaast fijn vond aan dit blok, was dat ik minder stress ervaarde dan bij eerdere blokken van vorig jaar. De opdrachten en verwachtingen waren voor mijn gevoel duidelijk, waardoor ik mijn werk goed kon bijhouden en niet alles op het laatste moment hoefde te doen. Ook vond ik het prettig dat er ruimte was om mijn eigen mening te geven en mijn ontwerpkeuzes met docenten te bespreken. Ik was het niet altijd met alle feedback eens, maar ik kreeg wel de ruimte om mijn argumenten uit te leggen en zelf af te wegen welke feedback bij mijn concept paste. De creatieve vrijheid die ik tijdens dit blok kreeg, heeft ervoor gezorgd dat ik meer plezier had in het werken aan mijn digital garden.
+
+Verder heb ik geleerd dat er bij het ontwerpen van een website veel meer komt kijken dan alleen het uiterlijk. Onderwerpen zoals toegankelijkheid en privacywetgeving hebben me laten zien hoeveel aspecten je moet meenemen om een website goed te laten functioneren. Ik heb hierdoor een beter beeld gekregen van wat er allemaal achter een website zit en waar ik als ontwerper rekening mee moet houden.
+
+Voor mijn gevoel heb ik me gedurende dit blok goed ingezet, de opdrachten bijgehouden en alles gedaan om mijn project zo goed mogelijk af te ronden. Ik ben trots op het eindresultaat.
+Als ik tijdens de expo nog relevante feedback krijg, kijk ik of er verbeteringen zijn die echt iets toevoegen aan mijn concept. Anders laat ik het bij het resultaat dat ik nu heb.
+
 #### 24 oktober 2026
 
-Ik heb overwogen om kleur toe te voegen, maar ik heb gekozen voor zwart-wit omdat dit de typografische hiërarchie en het ritme van de tekst centraal houdt. Ik heb de feedback over de compositie wel meegenomen door de uitlijning en witruimte te beoordelen.
+Ik heb overwogen om kleur toe te voegen, maar ik vond juist het zwart wit er gaaf uitzien omdat ik veel animaties heb en dat al veel is, maar door het zwart wit het er strak en minimalistisch uitziet.
+Ik heb gemerkt dat kleur niet altijd nodig is om een ontwerp sterker te maken. Door te experimenteren met contrast, animatie en typografie kan ik ook zonder extra kleuren een duidelijke sfeer creëren.
+Maar om toch nog wat uit te proberen heb ik mijn darkmode aangepast, ik dacht darkmode kan een soortvan de club/rave modus zijn omdat het nummer ook een uptempo techno achter nummer is. dus als je darkmode aanzet dat het dan aanvoelt alsof je in een club bent met neon lichten, paars/rood/blauwe lichten om je heen.
+<img src="assets/type/fotosreadme/darkmode lyric.png" width="350px">
+<img src="assets/type/fotosreadme/darkmode-lyric1.png" width="350px">
+<img src="assets/type/fotosreadme/darkmoderesultaat.png" width="350px">
+
+Ik heb de feedback over de compositie wel meegenomen door de uitlijning en witruimte aan te passen dus hij heeft nu meer ruimte aan de randen.
+<img src="assets/type/fotosreadme/24-october.png" width="350px">
 
 #### 23 oktober 2026
 
 feedback barbara:
 Je bent lekker bij en weet veel toe te lichten. Je weet wat je hebt gemaakt en gebouwd.
-
 Je bent goed bezig met de html valideer en toegankelijkheid gaat goed. Deep dives heb je gevolgd.
-
 Denk nog na over kleur in je songtekst.
-
 Qua lay-out zou ik overwegen om de content meer ruimte te geven aan de linkerkant.
+
+Ik was het niet met alle feedback volledig eens, omdat sommige suggesties niet helemaal aansloten bij de richting die ik met mijn ontwerp op wilde. Ik heb daarom per punt gekeken of het iets toevoegde aan mijn concept.
+Feedback is belangrijk maar ik probeer wel altijd te kijken of het nogsteeds past bij mijn ontwerpkeuzes en of ik het er ook eens mee ben.
+
+tekenopdracht:
+<img src="assets/type/fotosreadme/opdracht-teken.jpeg" width="350px">
+<img src="assets/type/fotosreadme/opdrachtcharley.jpeg" width="350px">
+
+<img src="assets/type/fotosreadme/tekeningdetopbereikt.jpg" width="350px">
+Ik heb gekozen om een soort berg beklimmer tekening te maken, zoals je normaal ziet met een vlag aan de top om te laten zien dat ze het hebben gehaald en ipv een echte berg heb ik een stapel gemaakt van boeken, papiertjes, rommel om eigenlijk dit blok te beschrijven als een berg die ik moest beklimmen en nu op het einde dat ik dus bovenaan sta en het heb gehaald. Ookal weet ik mijn cijfer nog niet of dat ik het wel of niet heb gehaald kan ik wel zeggen dat ik mijn best heb gedaan en naast de obstakels die ik ben tegengekomen toch ben doorgegaan.
 
 #### 22 oktober 2026
 
@@ -754,8 +787,6 @@ Tijdens het proces heb ik verschillende keren feedback gebruikt om mijn ontwerp 
 
 <img src="assets/retro.png" width="350px">
 <img src="assets/spective.png" width="350px">
-
-!image nog van mn rollercoaster erin zetten!
 
 #### 17 september 2026
 
