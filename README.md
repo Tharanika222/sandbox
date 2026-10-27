@@ -26,6 +26,7 @@ Naast de genoemde online bronnen heb ik kennis opgedaan tijdens de deep dives en
 ## Inhoudsopgave
 
 - [bronnenlijst](#bronnen-voor-mijn-website-die-ik-heb-gebruikt)
+- [26 oktober 2026](#26-oktober-2026)
 - [25 oktober 2026](#25-oktober-2026)
 - [24 oktober 2026](#24-oktober-2026)
 - [23 oktober 2026](#23-oktober-2026)
@@ -62,9 +63,24 @@ Naast de genoemde online bronnen heb ik kennis opgedaan tijdens de deep dives en
 - [3 september](#3-september-2026)
 - [2 september](#2-september-2026)
 
+#### 26 oktober 2026
+
+Vandaag was eigenlijk de afsluiting van dit blok, we hebben een expo gehouden en onze digital garden gepresenteerd
+<img src="assets/type/fotosreadme/expo.jpeg" width="350px">
+<img src="assets/type/fotosreadme/expobeoordeling.jpeg" width="350px">
+Ik heb heel veel positieve feedback gehad en eigenlijk het enige punt was dat mijn cookies knop nog niet echt werkt, dus ik ga kijken of dat kan lukken en zo niet dat laat ik het gewoon zoals het is omdat het wel de juist info geeft.
+
+We hebben daarna in groepjes gekeken hoe webby je website is en of je learning log compleet is, naar mijn gevoel en wat de anderen zeiden zit ik wel goed. Ik heb echt zoveel mogelijk in mn log gezet en ook bij alles gedacht van dit is belangrijk om erin te hebben. Ik heb elke deepdive gedaan, alle artikelen gelezen en schetsen gemaakt dus die staan er allemaal in.
+
+<img src="assets/type/fotosreadme/eindproductloggy.jpeg" width="350px">
+<img src="assets/type/fotosreadme/eindproductwebby.jpeg" width="350px">
+
+ik heb nog uiteindelijk de cookie knop aangepast en nu werkt hij wel, dat je het aan of uit kunt zetten.
+<img src="assets/type/fotosreadme/webring-jscript.png" width="350px">
+
 #### 25 oktober 2026
 
-Reflectie van dit blok:
+_Reflectie van dit blok:_
 Ik heb dit blok heel erg positief ervaren en ben trots en blij met wat ik heb neergezet.
 Ik vond het vooral leuk dat ik creatieve ideeën kon combineren met techniek. Hoewel ik coderen nog steeds lastig vind en nog niet alles volledig begrijp of zelfstandig uit mijn hoofd kan schrijven, merk ik dat ik steeds meer begin te begrijpen. Hierdoor zie ik het steeds beter voor me dat ik dit later ook wil gaan doen.
 
@@ -787,6 +803,9 @@ Tijdens het proces heb ik verschillende keren feedback gebruikt om mijn ontwerp 
 
 <img src="assets/retro.png" width="350px">
 <img src="assets/spective.png" width="350px">
+<img src="assets/type/fotosreadme/crazyrollercoaster.jpeg" width="350px">
+Ik heb een crazy rollercoaster gemaakt omdat deze eerste sprint chaotisch was in de zin van zoveel verschillende dingen die we leren, maar ook emoties van stress naar leuk van moeilijk naar eindelijk begrijpen.
+En het is een leuke achtbaan dit blok.
 
 #### 17 september 2026
 
@@ -794,8 +813,8 @@ Ik heb na de schetsen die ik gisteren in de les heb gemaakt en die ik vandaag ve
 Dus op de desktop zijn mijn navigatielinks nu buttons die werken met een hover. en heb hierbij dus gedaan dat als je op mobiel opent er een hamburger menu icoon verschijnt. Dit ik heb ik wel anders gedaan dan dat bij HTML5 Doctor werd aangegeven want dat was button code maar dat moest met JavaScript en aangezien dat voor mij nog te ingewikkeld is en ik mij wil focussen op CSS heb ik aan ChatGPT gevraagd of er andere mogelijkheden zijn en dat was werken met summary en details. En dit heb ik vorig jaar ook gedaan dus hiervan had ik zelf de code.
 
 <img src="assets/navigatiemenu1ste.png" width="350px">
-<img src="assets/Screenshot 2026-09-17 at 13.40.55.png width="350px>
-<img src="assets/Screenshot 2026-09-17 at 13.41.27.png width="350px>
+
+<img src="assets/summary.png" width="350px>
 
 <img src="assets/IMG_4900.png" width="350px">
 <img src="assets/IMG_4901.png" width="350px">
@@ -847,8 +866,8 @@ Ik heb de deepdive over grids gedaan, en doordat ik die grids 101 al had gedaan 
 
 <img src="assets/grids 1.1.png" width="500">
 <img src="assets/1.2 grids.png" width="500">
-<img src="assets/vissen grids 3.png" width="500">
-
+<img src="assets/vissen-grids-3.png" width="500">
+<img src="assets/vis-grids-opdracht.png" width="500">
 Ik ben ook verder gegaan aan het verder maken van mijn website, ik heb extra tekst toegevoegd en de navigatie menu aangepast door hem nu boven mijn header neer te zetten en inplaatsvan verticaal onder elkaar dat ze horizontaal naast elkaar staan dat vond ik mooier.
 
 Ik heb ook gekeken of ik mijn grids kon aanpassen dus naar areas maar ik denk dat dat niet handig is omdat hoe ik het nu heb is dat hij automatisch het in twee kolommen zet en ik nog geen specifieke positionering heb wat je bij areas juist gebruikt.
@@ -888,16 +907,15 @@ Van mijn uitgetekende ideeën spreekt het idee waarbij een kledingstuk centraal 
 
 Ik had samen met een leerling van tweedejaar gekeken naar een simpelere oplossing voor het idee dat ik had omdat mijn idee van het inzoomen op een kledingstuk en daar info bij zetten eigenlijk te moeilijk en misschien nu nog te complex is met de html en css wat ik nu kan, maar hij had wel laten zien hoe ik het op een andere manier kan doen dus dat wil ik uitproberen en misschien kan mijn idee dan toch werken.
 
-<img src="assets/wireframes idee.png" width="500">
+<img src="assets/wireframes-idee.png" width="500">
 
 Ik heb ook de deepdive gevolgd over grids, en hier heb ik alle opdrachten tijdens de deepdive kunnen doen.
 Het was wel ingewikkeld de oefeningen maar ik snap het wel.
 Ik heb wel nog moeite met code typen uit mijn hoofd, want ik snap de code vaak wel maar als ik dus zelf moet typen wat het moet zijn en de volgorde dan lukt het vaak niet. Ik hoop dat met oefenen dit probleem weggaat.
 
 <img src="assets/grids.png" width="500">
-<img src="assets/spel-grids.png" width="500">
 <img src="assets/vis-grids-opdracht.png" width="500">
-
+<img src="assets/spel grids.png" width="500">
 #### 10 september 2026
 
 **randvoorwaarden schermschetsen**
@@ -940,7 +958,7 @@ gradients en animations snap ik nu ook, wel nog ingewikkeld maar als ik oefen ko
 
 <img src="assets/spel.png" width="500">
 <img src="assets/RGB.png" width="500">
-<img src="assets/gradient" width="500">
+<img src="assets/gradients.png" width="500">
 <img src="assets/vlaggen-namaken.png" width="500">
 <img src="assets/gradient animation.png" width="500">
 
@@ -1110,4 +1128,4 @@ Ik had apple music gekozen
 
 #### De wireframe die ik heb gemaakt
 
-<img src="assets/wireframes" width="500">
+<img src="assets/wireframes.png" width="500">

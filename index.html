@@ -10,10 +10,6 @@
     <link rel="stylesheet" href="./assets/style/normal.css" />
     <script src="./assets/js/scripts.js" defer></script>
     <!-- Importeer het webring component, voeg jouw eigen domein toe in data-page -->
-    <script
-      data-page="[https://Tharanika.nl]"
-      src="https://digitaaltuintje.nl/webring.js"
-    ></script>
   </head>
   <body>
     <nav>
@@ -186,7 +182,7 @@
     </footer>
 
     <dialog id="cookieModal">
-      <form method="dialog">
+      <form id="cookieForm">
         <h2>Privacy & cookies</h2>
 
         <p>
@@ -213,7 +209,7 @@
           <h3>Optioneel</h3>
 
           <label>
-            <input type="checkbox" name="webring" />
+            <input type="checkbox" name="webring" id="webringCheckbox" />
             Webring
           </label>
 
@@ -223,8 +219,9 @@
           </p>
         </section>
 
-        <button>Opslaan</button>
-        <button>Weigeren</button>
+        <button type="submit" name="action" value="save">Opslaan</button>
+
+        <button type="submit" name="action" value="reject">Weigeren</button>
       </form>
     </dialog>
   </body>

@@ -391,6 +391,8 @@ body:has(dialog[open]) {
   cursor: pointer;
 }
 
+/*privacy/cookie button */
+
 .privacy-button:hover {
   background: var(--accent);
   color: var(--heading);

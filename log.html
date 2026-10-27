@@ -148,7 +148,7 @@
     </footer>
 
     <dialog id="cookieModal">
-      <form method="dialog">
+      <form id="cookieForm">
         <h2>Privacy & cookies</h2>
 
         <p>
@@ -175,7 +175,7 @@
           <h3>Optioneel</h3>
 
           <label>
-            <input type="checkbox" name="webring" />
+            <input type="checkbox" name="webring" id="webringCheckbox" />
             Webring
           </label>
 
@@ -185,8 +185,9 @@
           </p>
         </section>
 
-        <button>Opslaan</button>
-        <button>Weigeren</button>
+        <button type="submit" name="action" value="save">Opslaan</button>
+
+        <button type="submit" name="action" value="reject">Weigeren</button>
       </form>
     </dialog>
   </body>
